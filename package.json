@@ -1,7 +1,9 @@
 {
   "name": "link-cells-data",
   "scripts": {
-    "update": "python main.py"
+    "update": "python main.py",
+    "prod": "echo 'Awesome data updated!'",
+    "deploy": "balm-git-prod"
   },
   "private": true
 }
