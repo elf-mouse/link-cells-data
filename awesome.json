@@ -1,0 +1,3587 @@
+[
+  {
+    "name": "Platforms",
+    "sub_categories": [
+      {
+        "name": "Node.js",
+        "repo": "https://github.com/sindresorhus/awesome-nodejs#readme",
+        "brief": "Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine."
+      },
+      {
+        "name": "Node.js - Cross-Platform",
+        "repo": "https://github.com/bcoe/awesome-cross-platform-nodejs#readme",
+        "brief": "Writing cross-platform code on Node.js."
+      },
+      {
+        "name": "Frontend Development",
+        "repo": "https://github.com/dypsilon/frontend-dev-bookmarks#readme",
+        "brief": ""
+      },
+      {
+        "name": "iOS",
+        "repo": "https://github.com/vsouza/awesome-ios#readme",
+        "brief": "Mobile operating system for Apple phones and tablets."
+      },
+      {
+        "name": "Android",
+        "repo": "https://github.com/JStumpp/awesome-android#readme",
+        "brief": "Mobile operating system developed by Google."
+      },
+      {
+        "name": "IoT & Hybrid Apps",
+        "repo": "https://github.com/weblancaster/awesome-IoT-hybrid#readme",
+        "brief": ""
+      },
+      {
+        "name": "Electron",
+        "repo": "https://github.com/sindresorhus/awesome-electron#readme",
+        "brief": "Cross-platform native desktop apps using JavaScript/HTML/CSS."
+      },
+      {
+        "name": "Cordova",
+        "repo": "https://github.com/busterc/awesome-cordova#readme",
+        "brief": "JavaScript API for hybrid apps."
+      },
+      {
+        "name": "React Native",
+        "repo": "https://github.com/jondot/awesome-react-native#readme",
+        "brief": "JavaScript framework for writing natively rendering mobile apps for iOS and Android."
+      },
+      {
+        "name": "Xamarin",
+        "repo": "https://github.com/XamSome/awesome-xamarin#readme",
+        "brief": "Mobile app development IDE, testing, and distribution."
+      },
+      {
+        "name": "Linux",
+        "repo": "https://github.com/inputsh/awesome-linux#readme",
+        "brief": ""
+      },
+      {
+        "name": "Linux - Containers",
+        "repo": "https://github.com/Friz-zy/awesome-linux-containers#readme",
+        "brief": ""
+      },
+      {
+        "name": "Linux - eBPF",
+        "repo": "https://github.com/zoidbergwill/awesome-ebpf#readme",
+        "brief": "Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems."
+      },
+      {
+        "name": "Linux - Arch-based Projects",
+        "repo": "https://github.com/PandaFoss/Awesome-Arch#readme",
+        "brief": "Linux distributions and projects based on Arch Linux."
+      },
+      {
+        "name": "Linux - AppImage",
+        "repo": "https://github.com/AppImage/awesome-appimage#readme",
+        "brief": "Package apps in a single file that works on various mainstream Linux distributions."
+      },
+      {
+        "name": "Linux - Screensavers",
+        "repo": "https://github.com/agarrharr/awesome-macos-screensavers#readme",
+        "brief": ""
+      },
+      {
+        "name": "Linux - Apps",
+        "repo": "https://github.com/jaywcjlove/awesome-mac#readme",
+        "brief": ""
+      },
+      {
+        "name": "Linux - Open Source Apps",
+        "repo": "https://github.com/serhii-londar/open-source-mac-os-apps#readme",
+        "brief": ""
+      },
+      {
+        "name": "watchOS",
+        "repo": "https://github.com/yenchenlin/awesome-watchos#readme",
+        "brief": "Operating system for the Apple Watch."
+      },
+      {
+        "name": "JVM",
+        "repo": "https://github.com/deephacks/awesome-jvm#readme",
+        "brief": ""
+      },
+      {
+        "name": "Salesforce",
+        "repo": "https://github.com/mailtoharshit/awesome-salesforce#readme",
+        "brief": ""
+      },
+      {
+        "name": "Amazon Web Services",
+        "repo": "https://github.com/donnemartin/awesome-aws#readme",
+        "brief": ""
+      },
+      {
+        "name": "Windows",
+        "repo": "https://github.com/0pandadev/awesome-windows#readme",
+        "brief": "Consumer desktop operating system."
+      },
+      {
+        "name": "Windows - PowerToys Run Plugins",
+        "repo": "https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme",
+        "brief": "Community plugins for the Windows quick launcher."
+      },
+      {
+        "name": "IPFS",
+        "repo": "https://github.com/ipfs/awesome-ipfs#readme",
+        "brief": "P2P hypermedia protocol."
+      },
+      {
+        "name": "Fuse",
+        "repo": "https://github.com/fuse-compound/awesome-fuse#readme",
+        "brief": "Mobile development tools."
+      },
+      {
+        "name": "Heroku",
+        "repo": "https://github.com/ianstormtaylor/awesome-heroku#readme",
+        "brief": "Cloud platform as a service."
+      },
+      {
+        "name": "Raspberry Pi",
+        "repo": "https://github.com/thibmaek/awesome-raspberry-pi#readme",
+        "brief": "Credit card-sized computer aimed at teaching kids programming, but capable of a lot more."
+      },
+      {
+        "name": "Qt",
+        "repo": "https://github.com/JesseTG/awesome-qt#readme",
+        "brief": "Cross-platform GUI app framework."
+      },
+      {
+        "name": "WebExtensions",
+        "repo": "https://github.com/fregante/Awesome-WebExtensions#readme",
+        "brief": "Cross-browser extension system."
+      },
+      {
+        "name": "Smart TV",
+        "repo": "https://github.com/vitalets/awesome-smart-tv#readme",
+        "brief": "Create apps for different TV platforms."
+      },
+      {
+        "name": "GNOME",
+        "repo": "https://github.com/Kazhnuz/awesome-gnome#readme",
+        "brief": "Simple and distraction-free desktop environment for Linux."
+      },
+      {
+        "name": "KDE",
+        "repo": "https://github.com/francoism90/awesome-kde#readme",
+        "brief": "A free software community dedicated to creating an open and user-friendly computing experience."
+      },
+      {
+        "name": ".NET",
+        "repo": "https://github.com/quozd/awesome-dotnet#readme",
+        "brief": ""
+      },
+      {
+        "name": ".NET - Core",
+        "repo": "https://github.com/thangchung/awesome-dotnet-core#readme",
+        "brief": ""
+      },
+      {
+        "name": ".NET - Roslyn",
+        "repo": "https://github.com/ironcev/awesome-roslyn#readme",
+        "brief": "Open-source compilers and code analysis APIs for C# and VB.NET languages."
+      },
+      {
+        "name": "Amazon Alexa",
+        "repo": "https://github.com/miguelmota/awesome-amazon-alexa#readme",
+        "brief": "Virtual home assistant."
+      },
+      {
+        "name": "DigitalOcean",
+        "repo": "https://github.com/jonleibowitz/awesome-digitalocean#readme",
+        "brief": "Cloud computing platform designed for developers."
+      },
+      {
+        "name": "Flutter",
+        "repo": "https://github.com/Solido/awesome-flutter#readme",
+        "brief": "Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart."
+      },
+      {
+        "name": "Home Assistant",
+        "repo": "https://github.com/frenck/awesome-home-assistant#readme",
+        "brief": "Open source home automation that puts local control and privacy first."
+      },
+      {
+        "name": "IBM Cloud",
+        "repo": "https://github.com/victorshinya/awesome-ibmcloud#readme",
+        "brief": "Cloud platform for developers and companies."
+      },
+      {
+        "name": "Firebase",
+        "repo": "https://github.com/jthegedus/awesome-firebase#readme",
+        "brief": "App development platform built on Google Cloud."
+      },
+      {
+        "name": "Robot Operating System 2.0",
+        "repo": "https://github.com/fkromer/awesome-ros2#readme",
+        "brief": "Set of software libraries and tools that help you build robot apps."
+      },
+      {
+        "name": "Adafruit IO",
+        "repo": "https://github.com/adafruit/awesome-adafruitio#readme",
+        "brief": "Visualize and store data from any device."
+      },
+      {
+        "name": "Cloudflare",
+        "repo": "https://github.com/irazasyed/awesome-cloudflare#readme",
+        "brief": "CDN, DNS, DDoS protection, and security for your site."
+      },
+      {
+        "name": "Actions on Google",
+        "repo": "https://github.com/ravirupareliya/awesome-actions-on-google#readme",
+        "brief": "Developer platform for Google Assistant."
+      },
+      {
+        "name": "ESP",
+        "repo": "https://github.com/agucova/awesome-esp#readme",
+        "brief": "Low-cost microcontrollers with WiFi and broad IoT applications."
+      },
+      {
+        "name": "Deno",
+        "repo": "https://github.com/denolib/awesome-deno#readme",
+        "brief": "A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust."
+      },
+      {
+        "name": "DOS",
+        "repo": "https://github.com/balintkissdev/awesome-dos#readme",
+        "brief": "Operating system for x86-based personal computers that was popular during the 1980s and early 1990s."
+      },
+      {
+        "name": "Nix",
+        "repo": "https://github.com/nix-community/awesome-nix#readme",
+        "brief": "Package manager for Linux and other Unix systems that makes package management reliable and reproducible."
+      },
+      {
+        "name": "Integration",
+        "repo": "https://github.com/stn1slv/awesome-integration#readme",
+        "brief": "Linking together different IT systems (components) to functionally cooperate as a whole."
+      },
+      {
+        "name": "Node-RED",
+        "repo": "https://github.com/naimo84/awesome-nodered#readme",
+        "brief": "A programming tool for wiring together hardware devices, APIs, and online services."
+      },
+      {
+        "name": "Low Code",
+        "repo": "https://github.com/zenitysec/awesome-low-code#readme",
+        "brief": "Allowing business professionals to address their needs on their own with little to no coding skills."
+      },
+      {
+        "name": "Capacitor",
+        "repo": "https://github.com/riderx/awesome-capacitor#readme",
+        "brief": "Cross-platform open source runtime for building Web Native apps."
+      },
+      {
+        "name": "ArcGIS Developer",
+        "repo": "https://github.com/Esri/awesome-arcgis-developer#readme",
+        "brief": "Mapping and location analysis platform for developers."
+      },
+      {
+        "name": "Bluetooth Low Energy",
+        "repo": "https://github.com/dotintent/awesome-ble#readme",
+        "brief": "Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications."
+      },
+      {
+        "name": "Uno Platform",
+        "repo": "https://github.com/MartinZikmund/awesome-uno-platform#readme",
+        "brief": "Open-source .NET UI platform for building cross-platform apps."
+      },
+      {
+        "name": "Google Cloud",
+        "repo": "https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme",
+        "brief": "Cloud computing services by Google."
+      },
+      {
+        "name": "Firebase Genkit",
+        "repo": "https://github.com/xavidop/awesome-firebase-genkit#readme",
+        "brief": "An open-source framework for building AI-powered apps and features."
+      }
+    ]
+  },
+  {
+    "name": "Programming Languages",
+    "sub_categories": [
+      {
+        "name": "JavaScript",
+        "repo": "https://github.com/sorrycc/awesome-javascript#readme",
+        "brief": ""
+      },
+      {
+        "name": "JavaScript - Promises",
+        "repo": "https://github.com/wbinnssmith/awesome-promises#readme",
+        "brief": ""
+      },
+      {
+        "name": "JavaScript - Standard Style",
+        "repo": "https://github.com/standard/awesome-standard#readme",
+        "brief": "Style guide and linter."
+      },
+      {
+        "name": "JavaScript - Must Watch Talks",
+        "repo": "https://github.com/bolshchikov/js-must-watch#readme",
+        "brief": ""
+      },
+      {
+        "name": "JavaScript - Tips",
+        "repo": "https://github.com/loverajoel/jstips#readme",
+        "brief": ""
+      },
+      {
+        "name": "JavaScript - Network Layer",
+        "repo": "https://github.com/Kikobeats/awesome-network-js#readme",
+        "brief": ""
+      },
+      {
+        "name": "JavaScript - Micro npm Packages",
+        "repo": "https://github.com/parro-it/awesome-micro-npm-packages#readme",
+        "brief": ""
+      },
+      {
+        "name": "JavaScript - Mad Science npm Packages",
+        "repo": "https://github.com/feross/awesome-mad-science#readme",
+        "brief": "Impossible sounding projects that exist."
+      },
+      {
+        "name": "JavaScript - Maintenance Modules",
+        "repo": "https://github.com/maxogden/maintenance-modules#readme",
+        "brief": "For npm packages."
+      },
+      {
+        "name": "JavaScript - npm",
+        "repo": "https://github.com/sindresorhus/awesome-npm#readme",
+        "brief": "Package manager."
+      },
+      {
+        "name": "JavaScript - AVA",
+        "repo": "https://github.com/avajs/awesome-ava#readme",
+        "brief": "Test runner."
+      },
+      {
+        "name": "JavaScript - ESLint",
+        "repo": "https://github.com/dustinspecker/awesome-eslint#readme",
+        "brief": "Linter."
+      },
+      {
+        "name": "JavaScript - Functional Programming",
+        "repo": "https://github.com/stoeffel/awesome-fp-js#readme",
+        "brief": ""
+      },
+      {
+        "name": "JavaScript - Observables",
+        "repo": "https://github.com/sindresorhus/awesome-observables#readme",
+        "brief": ""
+      },
+      {
+        "name": "JavaScript - npm scripts",
+        "repo": "https://github.com/RyanZim/awesome-npm-scripts#readme",
+        "brief": "Task runner."
+      },
+      {
+        "name": "JavaScript - 30 Seconds of Code",
+        "repo": "https://github.com/30-seconds/30-seconds-of-code#readme",
+        "brief": "Code snippets you can understand in 30 seconds."
+      },
+      {
+        "name": "JavaScript - Ponyfills",
+        "repo": "https://github.com/Richienb/awesome-ponyfills#readme",
+        "brief": "Like polyfills but without overriding native APIs."
+      },
+      {
+        "name": "Swift",
+        "repo": "https://github.com/matteocrippa/awesome-swift#readme",
+        "brief": "Apple's compiled programming language that is secure, modern, programmer-friendly, and fast."
+      },
+      {
+        "name": "Swift - Education",
+        "repo": "https://github.com/hsavit1/Awesome-Swift-Education#readme",
+        "brief": ""
+      },
+      {
+        "name": "Swift - Playgrounds",
+        "repo": "https://github.com/uraimo/Awesome-Swift-Playgrounds#readme",
+        "brief": ""
+      },
+      {
+        "name": "Python",
+        "repo": "https://github.com/vinta/awesome-python#readme",
+        "brief": "General-purpose programming language designed for readability."
+      },
+      {
+        "name": "Python - Asyncio",
+        "repo": "https://github.com/timofurrer/awesome-asyncio#readme",
+        "brief": "Asynchronous I/O in Python 3."
+      },
+      {
+        "name": "Python - Scientific Audio",
+        "repo": "https://github.com/faroit/awesome-python-scientific-audio#readme",
+        "brief": "Scientific research in audio/music."
+      },
+      {
+        "name": "Python - CircuitPython",
+        "repo": "https://github.com/adafruit/awesome-circuitpython#readme",
+        "brief": "A version of Python for microcontrollers."
+      },
+      {
+        "name": "Python - Data Science",
+        "repo": "https://github.com/krzjoa/awesome-python-data-science#readme",
+        "brief": "Data analysis and machine learning."
+      },
+      {
+        "name": "Python - Typing",
+        "repo": "https://github.com/typeddjango/awesome-python-typing#readme",
+        "brief": "Optional static typing for Python."
+      },
+      {
+        "name": "Python - MicroPython",
+        "repo": "https://github.com/mcauser/awesome-micropython#readme",
+        "brief": "A lean and efficient implementation of Python 3 for microcontrollers."
+      },
+      {
+        "name": "Rust",
+        "repo": "https://github.com/rust-unofficial/awesome-rust#readme",
+        "brief": ""
+      },
+      {
+        "name": "Rust - Pest",
+        "repo": "https://github.com/pest-parser/awesome-pest#readme",
+        "brief": "Parser generator."
+      },
+      {
+        "name": "Haskell",
+        "repo": "https://github.com/krispo/awesome-haskell#readme",
+        "brief": ""
+      },
+      {
+        "name": "PureScript",
+        "repo": "https://github.com/passy/awesome-purescript#readme",
+        "brief": ""
+      },
+      {
+        "name": "Go",
+        "repo": "https://github.com/avelino/awesome-go#readme",
+        "brief": ""
+      },
+      {
+        "name": "Scala",
+        "repo": "https://github.com/lauris/awesome-scala#readme",
+        "brief": ""
+      },
+      {
+        "name": "Scala - Scala Native",
+        "repo": "https://github.com/tindzk/awesome-scala-native#readme",
+        "brief": "Optimizing ahead-of-time compiler for Scala based on LLVM."
+      },
+      {
+        "name": "Ruby",
+        "repo": "https://github.com/markets/awesome-ruby#readme",
+        "brief": ""
+      },
+      {
+        "name": "Clojure",
+        "repo": "https://github.com/razum2um/awesome-clojure#readme",
+        "brief": ""
+      },
+      {
+        "name": "ClojureScript",
+        "repo": "https://github.com/hantuzun/awesome-clojurescript#readme",
+        "brief": ""
+      },
+      {
+        "name": "Elixir",
+        "repo": "https://github.com/h4cc/awesome-elixir#readme",
+        "brief": ""
+      },
+      {
+        "name": "Elm",
+        "repo": "https://github.com/sporto/awesome-elm#readme",
+        "brief": ""
+      },
+      {
+        "name": "Erlang",
+        "repo": "https://github.com/drobakowski/awesome-erlang#readme",
+        "brief": ""
+      },
+      {
+        "name": "Julia",
+        "repo": "https://github.com/svaksha/Julia.jl#readme",
+        "brief": "High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science."
+      },
+      {
+        "name": "Lua",
+        "repo": "https://github.com/LewisJEllis/awesome-lua#readme",
+        "brief": ""
+      },
+      {
+        "name": "C",
+        "repo": "https://github.com/inputsh/awesome-c#readme",
+        "brief": ""
+      },
+      {
+        "name": "C/C++",
+        "repo": "https://github.com/fffaraz/awesome-cpp#readme",
+        "brief": "General-purpose language with a bias toward system programming and embedded, resource-constrained software."
+      },
+      {
+        "name": "R",
+        "repo": "https://github.com/qinwf/awesome-R#readme",
+        "brief": "Functional programming language and environment for statistical computing and graphics."
+      },
+      {
+        "name": "R - Learning",
+        "repo": "https://github.com/iamericfletcher/awesome-r-learning-resources#readme",
+        "brief": ""
+      },
+      {
+        "name": "D",
+        "repo": "https://github.com/dlang-community/awesome-d#readme",
+        "brief": ""
+      },
+      {
+        "name": "Common Lisp",
+        "repo": "https://github.com/CodyReichert/awesome-cl#readme",
+        "brief": "Powerful dynamic multiparadigm language that facilitates iterative and interactive development."
+      },
+      {
+        "name": "Common Lisp - Learning",
+        "repo": "https://github.com/GustavBertram/awesome-common-lisp-learning#readme",
+        "brief": ""
+      },
+      {
+        "name": "Perl",
+        "repo": "https://github.com/hachiojipm/awesome-perl#readme",
+        "brief": ""
+      },
+      {
+        "name": "Groovy",
+        "repo": "https://github.com/kdabir/awesome-groovy#readme",
+        "brief": ""
+      },
+      {
+        "name": "Dart",
+        "repo": "https://github.com/yissachar/awesome-dart#readme",
+        "brief": ""
+      },
+      {
+        "name": "Java",
+        "repo": "https://github.com/akullpp/awesome-java#readme",
+        "brief": "Popular secure object-oriented language designed for flexibility to \"write once, run anywhere\"."
+      },
+      {
+        "name": "Java - RxJava",
+        "repo": "https://github.com/eleventigers/awesome-rxjava#readme",
+        "brief": ""
+      },
+      {
+        "name": "Java - J2ME",
+        "repo": "https://github.com/hstsethi/awesome-j2me#readme",
+        "brief": "Java specification designed for old keypad phones and PDAs."
+      },
+      {
+        "name": "Kotlin",
+        "repo": "https://github.com/KotlinBy/awesome-kotlin#readme",
+        "brief": ""
+      },
+      {
+        "name": "OCaml",
+        "repo": "https://github.com/ocaml-community/awesome-ocaml#readme",
+        "brief": ""
+      },
+      {
+        "name": "ColdFusion",
+        "repo": "https://github.com/seancoyne/awesome-coldfusion#readme",
+        "brief": ""
+      },
+      {
+        "name": "Fortran",
+        "repo": "https://github.com/rabbiabram/awesome-fortran#readme",
+        "brief": ""
+      },
+      {
+        "name": "PHP",
+        "repo": "https://github.com/ziadoz/awesome-php#readme",
+        "brief": "Server-side scripting language."
+      },
+      {
+        "name": "PHP - Composer",
+        "repo": "https://github.com/jakoch/awesome-composer#readme",
+        "brief": "Package manager."
+      },
+      {
+        "name": "Pascal",
+        "repo": "https://github.com/Fr0sT-Brutal/awesome-pascal#readme",
+        "brief": ""
+      },
+      {
+        "name": "AutoHotkey",
+        "repo": "https://github.com/ahkscript/awesome-AutoHotkey#readme",
+        "brief": ""
+      },
+      {
+        "name": "AutoIt",
+        "repo": "https://github.com/J2TeaM/awesome-AutoIt#readme",
+        "brief": ""
+      },
+      {
+        "name": "Crystal",
+        "repo": "https://github.com/veelenga/awesome-crystal#readme",
+        "brief": ""
+      },
+      {
+        "name": "Frege",
+        "repo": "https://github.com/sfischer13/awesome-frege#readme",
+        "brief": "Haskell for the JVM."
+      },
+      {
+        "name": "CMake",
+        "repo": "https://github.com/onqtam/awesome-cmake#readme",
+        "brief": "Build, test, and package software."
+      },
+      {
+        "name": "ActionScript 3",
+        "repo": "https://github.com/robinrodricks/awesome-actionscript3#readme",
+        "brief": "Object-oriented language targeting Adobe AIR."
+      },
+      {
+        "name": "Eta",
+        "repo": "https://github.com/sfischer13/awesome-eta#readme",
+        "brief": "Functional programming language for the JVM."
+      },
+      {
+        "name": "Idris",
+        "repo": "https://github.com/joaomilho/awesome-idris#readme",
+        "brief": "General purpose pure functional programming language with dependent types influenced by Haskell and ML."
+      },
+      {
+        "name": "Ada/SPARK",
+        "repo": "https://github.com/ohenley/awesome-ada#readme",
+        "brief": "Modern programming language designed for large, long-lived apps where reliability and efficiency are essential."
+      },
+      {
+        "name": "Q#",
+        "repo": "https://github.com/ebraminio/awesome-qsharp#readme",
+        "brief": "Domain-specific programming language used for expressing quantum algorithms."
+      },
+      {
+        "name": "Imba",
+        "repo": "https://github.com/koolamusic/awesome-imba#readme",
+        "brief": "Programming language inspired by Ruby and Python and compiles to performant JavaScript."
+      },
+      {
+        "name": "Vala",
+        "repo": "https://github.com/desiderantes/awesome-vala#readme",
+        "brief": "Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code."
+      },
+      {
+        "name": "Coq",
+        "repo": "https://github.com/coq-community/awesome-coq#readme",
+        "brief": "Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs."
+      },
+      {
+        "name": "V",
+        "repo": "https://github.com/vlang/awesome-v#readme",
+        "brief": "Simple, fast, safe, compiled language for developing maintainable software."
+      },
+      {
+        "name": "Zig",
+        "repo": "https://github.com/catdevnull/awesome-zig#readme",
+        "brief": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software."
+      },
+      {
+        "name": "Move",
+        "repo": "https://github.com/MystenLabs/awesome-move#readme",
+        "brief": "Domain-specific programming language for writing safe smart contracts."
+      },
+      {
+        "name": "Esolangs",
+        "repo": "https://github.com/angrykoala/awesome-esolangs#readme",
+        "brief": "Programming languages designed for experimentation or as jokes rather than actual use."
+      },
+      {
+        "name": "VBA",
+        "repo": "https://github.com/sancarn/awesome-vba#readme",
+        "brief": "An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting."
+      }
+    ]
+  },
+  {
+    "name": "Front-End Development",
+    "sub_categories": [
+      {
+        "name": "ES6 Tools",
+        "repo": "https://github.com/addyosmani/es6-tools#readme",
+        "brief": ""
+      },
+      {
+        "name": "Web Performance Optimization",
+        "repo": "https://github.com/davidsonfellipe/awesome-wpo#readme",
+        "brief": ""
+      },
+      {
+        "name": "Web Tools",
+        "repo": "https://github.com/lvwzhen/tools#readme",
+        "brief": ""
+      },
+      {
+        "name": "CSS",
+        "repo": "https://github.com/awesome-css-group/awesome-css#readme",
+        "brief": "Style sheet language that specifies how HTML elements are displayed on screen."
+      },
+      {
+        "name": "CSS - Critical-Path Tools",
+        "repo": "https://github.com/addyosmani/critical-path-css-tools#readme",
+        "brief": ""
+      },
+      {
+        "name": "CSS - Scalability",
+        "repo": "https://github.com/davidtheclark/scalable-css-reading-list#readme",
+        "brief": ""
+      },
+      {
+        "name": "CSS - Must-Watch Talks",
+        "repo": "https://github.com/AllThingsSmitty/must-watch-css#readme",
+        "brief": ""
+      },
+      {
+        "name": "CSS - Protips",
+        "repo": "https://github.com/AllThingsSmitty/css-protips#readme",
+        "brief": ""
+      },
+      {
+        "name": "CSS - Frameworks",
+        "repo": "https://github.com/troxler/awesome-css-frameworks#readme",
+        "brief": ""
+      },
+      {
+        "name": "React",
+        "repo": "https://github.com/enaqx/awesome-react#readme",
+        "brief": "JavaScript library for building user interfaces."
+      },
+      {
+        "name": "React - Relay",
+        "repo": "https://github.com/expede/awesome-relay#readme",
+        "brief": "Framework for building data-driven React apps."
+      },
+      {
+        "name": "React - React Hooks",
+        "repo": "https://github.com/glauberfc/awesome-react-hooks#readme",
+        "brief": "Lets you use state and other React features without writing a class."
+      },
+      {
+        "name": "Web Components",
+        "repo": "https://github.com/web-padawan/awesome-web-components#readme",
+        "brief": ""
+      },
+      {
+        "name": "Polymer",
+        "repo": "https://github.com/Granze/awesome-polymer#readme",
+        "brief": "JavaScript library to develop Web Components."
+      },
+      {
+        "name": "Angular",
+        "repo": "https://github.com/PatrickJS/awesome-angular#readme",
+        "brief": "App framework."
+      },
+      {
+        "name": "Backbone",
+        "repo": "https://github.com/sadcitizen/awesome-backbone#readme",
+        "brief": "App framework."
+      },
+      {
+        "name": "HTML5",
+        "repo": "https://github.com/diegocard/awesome-html5#readme",
+        "brief": "Markup language used for websites & web apps."
+      },
+      {
+        "name": "SVG",
+        "repo": "https://github.com/willianjusten/awesome-svg#readme",
+        "brief": "XML-based vector image format."
+      },
+      {
+        "name": "Canvas",
+        "repo": "https://github.com/raphamorim/awesome-canvas#readme",
+        "brief": ""
+      },
+      {
+        "name": "KnockoutJS",
+        "repo": "https://github.com/dnbard/awesome-knockout#readme",
+        "brief": "JavaScript library."
+      },
+      {
+        "name": "Dojo Toolkit",
+        "repo": "https://github.com/petk/awesome-dojo#readme",
+        "brief": "JavaScript toolkit."
+      },
+      {
+        "name": "Inspiration",
+        "repo": "https://github.com/NoahBuscher/Inspire#readme",
+        "brief": ""
+      },
+      {
+        "name": "Ember",
+        "repo": "https://github.com/ember-community-russia/awesome-ember#readme",
+        "brief": "App framework."
+      },
+      {
+        "name": "Android UI",
+        "repo": "https://github.com/wasabeef/awesome-android-ui#readme",
+        "brief": ""
+      },
+      {
+        "name": "iOS UI",
+        "repo": "https://github.com/cjwirth/awesome-ios-ui#readme",
+        "brief": ""
+      },
+      {
+        "name": "Meteor",
+        "repo": "https://github.com/Urigo/awesome-meteor#readme",
+        "brief": ""
+      },
+      {
+        "name": "BEM",
+        "repo": "https://github.com/sturobson/BEM-resources#readme",
+        "brief": ""
+      },
+      {
+        "name": "Flexbox",
+        "repo": "https://github.com/afonsopacifer/awesome-flexbox#readme",
+        "brief": ""
+      },
+      {
+        "name": "Web Typography",
+        "repo": "https://github.com/deanhume/typography#readme",
+        "brief": ""
+      },
+      {
+        "name": "Web Accessibility",
+        "repo": "https://github.com/brunopulis/awesome-a11y#readme",
+        "brief": ""
+      },
+      {
+        "name": "Material Design",
+        "repo": "https://github.com/sachin1092/awesome-material#readme",
+        "brief": ""
+      },
+      {
+        "name": "D3",
+        "repo": "https://github.com/wbkd/awesome-d3#readme",
+        "brief": "Library for producing dynamic, interactive data visualizations."
+      },
+      {
+        "name": "Emails",
+        "repo": "https://github.com/jonathandion/awesome-emails#readme",
+        "brief": ""
+      },
+      {
+        "name": "jQuery",
+        "repo": "https://github.com/petk/awesome-jquery#readme",
+        "brief": "Easy to use JavaScript library for DOM manipulation."
+      },
+      {
+        "name": "jQuery - Tips",
+        "repo": "https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme",
+        "brief": ""
+      },
+      {
+        "name": "Web Audio",
+        "repo": "https://github.com/notthetup/awesome-webaudio#readme",
+        "brief": ""
+      },
+      {
+        "name": "Offline-First",
+        "repo": "https://github.com/pazguille/offline-first#readme",
+        "brief": ""
+      },
+      {
+        "name": "Static Website Services",
+        "repo": "https://github.com/agarrharr/awesome-static-website-services#readme",
+        "brief": ""
+      },
+      {
+        "name": "Cycle.js",
+        "repo": "https://github.com/cyclejs-community/awesome-cyclejs#readme",
+        "brief": "Functional and reactive JavaScript framework."
+      },
+      {
+        "name": "Text Editing",
+        "repo": "https://github.com/dok/awesome-text-editing#readme",
+        "brief": ""
+      },
+      {
+        "name": "Motion UI Design",
+        "repo": "https://github.com/fliptheweb/motion-ui-design#readme",
+        "brief": ""
+      },
+      {
+        "name": "Vue.js",
+        "repo": "https://github.com/vuejs/awesome-vue#readme",
+        "brief": "App framework."
+      },
+      {
+        "name": "Marionette.js",
+        "repo": "https://github.com/sadcitizen/awesome-marionette#readme",
+        "brief": "App framework."
+      },
+      {
+        "name": "Aurelia",
+        "repo": "https://github.com/aurelia-contrib/awesome-aurelia#readme",
+        "brief": "App framework."
+      },
+      {
+        "name": "Charting",
+        "repo": "https://github.com/zingchart/awesome-charting#readme",
+        "brief": ""
+      },
+      {
+        "name": "Ionic Framework",
+        "repo": "https://github.com/candelibas/awesome-ionic#readme",
+        "brief": ""
+      },
+      {
+        "name": "Chrome DevTools",
+        "repo": "https://github.com/ChromeDevTools/awesome-chrome-devtools#readme",
+        "brief": ""
+      },
+      {
+        "name": "PostCSS",
+        "repo": "https://github.com/jdrgomes/awesome-postcss#readme",
+        "brief": "CSS tool."
+      },
+      {
+        "name": "Draft.js",
+        "repo": "https://github.com/nikgraf/awesome-draft-js#readme",
+        "brief": "Rich text editor framework for React."
+      },
+      {
+        "name": "Service Workers",
+        "repo": "https://github.com/TalAter/awesome-service-workers#readme",
+        "brief": ""
+      },
+      {
+        "name": "Progressive Web Apps",
+        "repo": "https://github.com/TalAter/awesome-progressive-web-apps#readme",
+        "brief": ""
+      },
+      {
+        "name": "choo",
+        "repo": "https://github.com/choojs/awesome-choo#readme",
+        "brief": "App framework."
+      },
+      {
+        "name": "Redux",
+        "repo": "https://github.com/brillout/awesome-redux#readme",
+        "brief": "State container for JavaScript apps."
+      },
+      {
+        "name": "Browserify",
+        "repo": "https://github.com/browserify/awesome-browserify#readme",
+        "brief": "Module bundler."
+      },
+      {
+        "name": "Sass",
+        "repo": "https://github.com/Famolus/awesome-sass#readme",
+        "brief": "CSS preprocessor."
+      },
+      {
+        "name": "Ant Design",
+        "repo": "https://github.com/websemantics/awesome-ant-design#readme",
+        "brief": "Enterprise-class UI design language."
+      },
+      {
+        "name": "Less",
+        "repo": "https://github.com/LucasBassetti/awesome-less#readme",
+        "brief": "CSS preprocessor."
+      },
+      {
+        "name": "WebGL",
+        "repo": "https://github.com/sjfricke/awesome-webgl#readme",
+        "brief": "JavaScript API for rendering 3D graphics."
+      },
+      {
+        "name": "Preact",
+        "repo": "https://github.com/preactjs/awesome-preact#readme",
+        "brief": "App framework."
+      },
+      {
+        "name": "Progressive Enhancement",
+        "repo": "https://github.com/jbmoelker/progressive-enhancement-resources#readme",
+        "brief": ""
+      },
+      {
+        "name": "Next.js",
+        "repo": "https://github.com/unicodeveloper/awesome-nextjs#readme",
+        "brief": "Framework for server-rendered React apps."
+      },
+      {
+        "name": "lit",
+        "repo": "https://github.com/web-padawan/awesome-lit#readme",
+        "brief": "Library for building web components with a declarative template system."
+      },
+      {
+        "name": "JAMstack",
+        "repo": "https://github.com/automata/awesome-jamstack#readme",
+        "brief": "Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup."
+      },
+      {
+        "name": "WordPress-Gatsby",
+        "repo": "https://github.com/henrikwirth/awesome-wordpress-gatsby#readme",
+        "brief": "Web development technology stack with WordPress as a back end and Gatsby as a front end."
+      },
+      {
+        "name": "Mobile Web Development",
+        "repo": "https://github.com/myshov/awesome-mobile-web-development#readme",
+        "brief": "Creating a great mobile web experience."
+      },
+      {
+        "name": "Storybook",
+        "repo": "https://github.com/lauthieb/awesome-storybook#readme",
+        "brief": "Development environment for UI components."
+      },
+      {
+        "name": "Blazor",
+        "repo": "https://github.com/AdrienTorris/awesome-blazor#readme",
+        "brief": ".NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly."
+      },
+      {
+        "name": "PageSpeed Metrics",
+        "repo": "https://github.com/csabapalfi/awesome-pagespeed-metrics#readme",
+        "brief": "Metrics to help understand page speed and user experience."
+      },
+      {
+        "name": "Tailwind CSS",
+        "repo": "https://github.com/aniftyco/awesome-tailwindcss#readme",
+        "brief": "Utility-first CSS framework for rapid UI development."
+      },
+      {
+        "name": "Seed",
+        "repo": "https://github.com/seed-rs/awesome-seed-rs#readme",
+        "brief": "Rust framework for creating web apps running in WebAssembly."
+      },
+      {
+        "name": "Web Performance Budget",
+        "repo": "https://github.com/pajaydev/awesome-web-performance-budget#readme",
+        "brief": "Techniques to ensure certain performance metrics for a website."
+      },
+      {
+        "name": "Web Animation",
+        "repo": "https://github.com/sergey-pimenov/awesome-web-animation#readme",
+        "brief": "Animations in the browser with JavaScript, CSS, SVG, etc."
+      },
+      {
+        "name": "Yew",
+        "repo": "https://github.com/jetli/awesome-yew#readme",
+        "brief": "Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly."
+      },
+      {
+        "name": "Material-UI",
+        "repo": "https://github.com/nadunindunil/awesome-material-ui#readme",
+        "brief": "Material Design React components for faster and easier web development."
+      },
+      {
+        "name": "Building Blocks for Web Apps",
+        "repo": "https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme",
+        "brief": "Standalone features to be integrated into web apps."
+      },
+      {
+        "name": "Svelte",
+        "repo": "https://github.com/TheComputerM/awesome-svelte#readme",
+        "brief": "App framework."
+      },
+      {
+        "name": "Design systems",
+        "repo": "https://github.com/klaufel/awesome-design-systems#readme",
+        "brief": "Collection of reusable components, guided by rules that ensure consistency and speed."
+      },
+      {
+        "name": "Inertia.js",
+        "repo": "https://github.com/innocenzi/awesome-inertiajs#readme",
+        "brief": "Make single-page apps without building an API."
+      },
+      {
+        "name": "MDBootstrap",
+        "repo": "https://github.com/mdbootstrap/awesome-mdbootstrap#readme",
+        "brief": "Templates, layouts, components, and widgets to rapidly build websites."
+      },
+      {
+        "name": "Master CSS",
+        "repo": "https://github.com/master-co/awesome-master-css#readme",
+        "brief": "A virtual CSS language with enhanced syntax."
+      },
+      {
+        "name": "Hydrogen",
+        "repo": "https://github.com/shopify/awesome-hydrogen#readme",
+        "brief": "Edge-first framework for building Shopify storefronts with React."
+      },
+      {
+        "name": "Tiny JS",
+        "repo": "https://github.com/thoughtspile/awesome-tiny-js#readme",
+        "brief": "Frontend libraries that fit into 2 kB with dependencies."
+      },
+      {
+        "name": "Frontend GIS",
+        "repo": "https://github.com/joewdavies/awesome-frontend-gis#readme",
+        "brief": "Geographic Information Systems (GIS) for web browsers."
+      },
+      {
+        "name": "WebGPU",
+        "repo": "https://github.com/mikbry/awesome-webgpu#readme",
+        "brief": "JavaScript API for rendering and compute on GPUs."
+      }
+    ]
+  },
+  {
+    "name": "Back-End Development",
+    "sub_categories": [
+      {
+        "name": "Flask",
+        "repo": "https://github.com/mjhea0/awesome-flask#readme",
+        "brief": "Python framework."
+      },
+      {
+        "name": "Docker",
+        "repo": "https://github.com/veggiemonk/awesome-docker#readme",
+        "brief": ""
+      },
+      {
+        "name": "Vagrant",
+        "repo": "https://github.com/iJackUA/awesome-vagrant#readme",
+        "brief": "Automation virtual machine environment."
+      },
+      {
+        "name": "Pyramid",
+        "repo": "https://github.com/uralbash/awesome-pyramid#readme",
+        "brief": "Python framework."
+      },
+      {
+        "name": "Play1 Framework",
+        "repo": "https://github.com/PerfectCarl/awesome-play1#readme",
+        "brief": ""
+      },
+      {
+        "name": "CakePHP",
+        "repo": "https://github.com/friendsofcake/awesome-cakephp#readme",
+        "brief": "PHP framework."
+      },
+      {
+        "name": "Symfony",
+        "repo": "https://github.com/sitepoint-editors/awesome-symfony#readme",
+        "brief": "PHP framework."
+      },
+      {
+        "name": "Symfony - Education",
+        "repo": "https://github.com/pehapkari/awesome-symfony-education#readme",
+        "brief": ""
+      },
+      {
+        "name": "Laravel",
+        "repo": "https://github.com/chiraggude/awesome-laravel#readme",
+        "brief": "PHP framework."
+      },
+      {
+        "name": "Laravel - Education",
+        "repo": "https://github.com/fukuball/Awesome-Laravel-Education#readme",
+        "brief": ""
+      },
+      {
+        "name": "Laravel - TALL Stack",
+        "repo": "https://github.com/livewire/awesome-tall-stack#readme",
+        "brief": "Full-stack development solution featuring libraries built by the Laravel community."
+      },
+      {
+        "name": "Rails",
+        "repo": "https://github.com/gramantin/awesome-rails#readme",
+        "brief": "Web app framework for Ruby."
+      },
+      {
+        "name": "Rails - Gems",
+        "repo": "https://github.com/hothero/awesome-rails-gem#readme",
+        "brief": "Packages."
+      },
+      {
+        "name": "Phalcon",
+        "repo": "https://github.com/phalcon/awesome-phalcon#readme",
+        "brief": "PHP framework."
+      },
+      {
+        "name": "Useful `.htaccess` Snippets",
+        "repo": "https://github.com/phanan/htaccess#readme",
+        "brief": ""
+      },
+      {
+        "name": "nginx",
+        "repo": "https://github.com/fcambus/nginx-resources#readme",
+        "brief": "Web server."
+      },
+      {
+        "name": "Dropwizard",
+        "repo": "https://github.com/stve/awesome-dropwizard#readme",
+        "brief": "Java framework."
+      },
+      {
+        "name": "Kubernetes",
+        "repo": "https://github.com/ramitsurana/awesome-kubernetes#readme",
+        "brief": "Open-source platform that automates Linux container operations."
+      },
+      {
+        "name": "Lumen",
+        "repo": "https://github.com/unicodeveloper/awesome-lumen#readme",
+        "brief": "PHP micro-framework."
+      },
+      {
+        "name": "Serverless Framework",
+        "repo": "https://github.com/pmuens/awesome-serverless#readme",
+        "brief": "Serverless computing and serverless architectures."
+      },
+      {
+        "name": "Apache Wicket",
+        "repo": "https://github.com/PhantomYdn/awesome-wicket#readme",
+        "brief": "Java web app framework."
+      },
+      {
+        "name": "Vert.x",
+        "repo": "https://github.com/vert-x3/vertx-awesome#readme",
+        "brief": "Toolkit for building reactive apps on the JVM."
+      },
+      {
+        "name": "Terraform",
+        "repo": "https://github.com/shuaibiyy/awesome-terraform#readme",
+        "brief": "Tool for building, changing, and versioning infrastructure."
+      },
+      {
+        "name": "Vapor",
+        "repo": "https://github.com/vapor-community/awesome-vapor#readme",
+        "brief": "Server-side development in Swift."
+      },
+      {
+        "name": "Dash",
+        "repo": "https://github.com/ucg8j/awesome-dash#readme",
+        "brief": "Python web app framework."
+      },
+      {
+        "name": "FastAPI",
+        "repo": "https://github.com/mjhea0/awesome-fastapi#readme",
+        "brief": "Python web app framework."
+      },
+      {
+        "name": "CDK",
+        "repo": "https://github.com/kolomied/awesome-cdk#readme",
+        "brief": "Open-source software development framework for defining cloud infrastructure in code."
+      },
+      {
+        "name": "IAM",
+        "repo": "https://github.com/kdeldycke/awesome-iam#readme",
+        "brief": "User accounts, authentication and authorization."
+      },
+      {
+        "name": "Slim",
+        "repo": "https://github.com/nekofar/awesome-slim#readme",
+        "brief": "PHP framework."
+      },
+      {
+        "name": "Fiber",
+        "repo": "https://github.com/gofiber/awesome-fiber#readme",
+        "brief": "Web framework built on top of Fasthttp, the fastest HTTP engine for Go."
+      },
+      {
+        "name": "Kustomize",
+        "repo": "https://github.com/DevOpsHiveHQ/awesome-kustomize#readme",
+        "brief": "Kubernetes native declarative configuration management tool."
+      },
+      {
+        "name": "OpenTofu",
+        "repo": "https://github.com/virtualroot/awesome-opentofu#readme",
+        "brief": "Open-source infrastructure as code tool."
+      },
+      {
+        "name": "Reflex",
+        "repo": "https://github.com/reflex-dev/awesome-reflex#readme",
+        "brief": "Python web framework for building both your frontend and backend with no JavaScript."
+      }
+    ]
+  },
+  {
+    "name": "Computer Science",
+    "sub_categories": [
+      {
+        "name": "University Courses",
+        "repo": "https://github.com/prakhar1989/awesome-courses#readme",
+        "brief": ""
+      },
+      {
+        "name": "Data Science",
+        "repo": "https://github.com/academic/awesome-datascience#readme",
+        "brief": ""
+      },
+      {
+        "name": "Data Science - Tutorials",
+        "repo": "https://github.com/siboehm/awesome-learn-datascience#readme",
+        "brief": ""
+      },
+      {
+        "name": "Machine Learning",
+        "repo": "https://github.com/josephmisiti/awesome-machine-learning#readme",
+        "brief": ""
+      },
+      {
+        "name": "Machine Learning - Tutorials",
+        "repo": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme",
+        "brief": ""
+      },
+      {
+        "name": "Machine Learning - ML with Ruby",
+        "repo": "https://github.com/arbox/machine-learning-with-ruby#readme",
+        "brief": "Learning, implementing, and applying Machine Learning using Ruby."
+      },
+      {
+        "name": "Machine Learning - Core ML Models",
+        "repo": "https://github.com/likedan/Awesome-CoreML-Models#readme",
+        "brief": "Models for Apple's machine learning framework."
+      },
+      {
+        "name": "Machine Learning - H2O",
+        "repo": "https://github.com/h2oai/awesome-h2o#readme",
+        "brief": "Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala."
+      },
+      {
+        "name": "Machine Learning - Software Engineering for Machine Learning",
+        "repo": "https://github.com/SE-ML/awesome-seml#readme",
+        "brief": "From experiment to production-level machine learning."
+      },
+      {
+        "name": "Machine Learning - AI in Finance",
+        "repo": "https://github.com/georgezouq/awesome-ai-in-finance#readme",
+        "brief": "Solving problems in finance with machine learning."
+      },
+      {
+        "name": "Machine Learning - JAX",
+        "repo": "https://github.com/n2cholas/awesome-jax#readme",
+        "brief": "Automatic differentiation and XLA compilation brought together for high-performance machine learning research."
+      },
+      {
+        "name": "Machine Learning - XAI",
+        "repo": "https://github.com/altamiracorp/awesome-xai#readme",
+        "brief": "Providing insight, explanations, and interpretability to machine learning methods."
+      },
+      {
+        "name": "Speech and Natural Language Processing",
+        "repo": "https://github.com/edobashira/speech-language-processing#readme",
+        "brief": ""
+      },
+      {
+        "name": "Speech and Natural Language Processing - Spanish",
+        "repo": "https://github.com/dav009/awesome-spanish-nlp#readme",
+        "brief": ""
+      },
+      {
+        "name": "Speech and Natural Language Processing - NLP with Ruby",
+        "repo": "https://github.com/arbox/nlp-with-ruby#readme",
+        "brief": ""
+      },
+      {
+        "name": "Speech and Natural Language Processing - Question Answering",
+        "repo": "https://github.com/seriousran/awesome-qa#readme",
+        "brief": "The science of asking and answering in natural language with a machine."
+      },
+      {
+        "name": "Speech and Natural Language Processing - Natural Language Generation",
+        "repo": "https://github.com/accelerated-text/awesome-nlg#readme",
+        "brief": "Generation of text used in data-to-text, conversational agents, and narrative generation applications."
+      },
+      {
+        "name": "Linguistics",
+        "repo": "https://github.com/theimpossibleastronaut/awesome-linguistics#readme",
+        "brief": ""
+      },
+      {
+        "name": "Cryptography",
+        "repo": "https://github.com/sobolevn/awesome-cryptography#readme",
+        "brief": ""
+      },
+      {
+        "name": "Cryptography - Papers",
+        "repo": "https://github.com/pFarb/awesome-crypto-papers#readme",
+        "brief": "Theory basics for using cryptography by non-cryptographers."
+      },
+      {
+        "name": "Computer Vision",
+        "repo": "https://github.com/jbhuang0604/awesome-computer-vision#readme",
+        "brief": ""
+      },
+      {
+        "name": "Deep Learning",
+        "repo": "https://github.com/ChristosChristofidis/awesome-deep-learning#readme",
+        "brief": "Neural networks."
+      },
+      {
+        "name": "Deep Learning - TensorFlow",
+        "repo": "https://github.com/jtoy/awesome-tensorflow#readme",
+        "brief": "Library for machine intelligence."
+      },
+      {
+        "name": "Deep Learning - TensorFlow.js",
+        "repo": "https://github.com/aaronhma/awesome-tensorflow-js#readme",
+        "brief": "WebGL-accelerated machine learning JavaScript library for training and deploying models."
+      },
+      {
+        "name": "Deep Learning - TensorFlow Lite",
+        "repo": "https://github.com/margaretmz/awesome-tensorflow-lite#readme",
+        "brief": "Framework that optimizes TensorFlow models for on-device machine learning."
+      },
+      {
+        "name": "Deep Learning - Papers",
+        "repo": "https://github.com/terryum/awesome-deep-learning-papers#readme",
+        "brief": "The most cited deep learning papers."
+      },
+      {
+        "name": "Deep Learning - Education",
+        "repo": "https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme",
+        "brief": ""
+      },
+      {
+        "name": "Deep Vision",
+        "repo": "https://github.com/kjw0612/awesome-deep-vision#readme",
+        "brief": ""
+      },
+      {
+        "name": "Open Source Society University",
+        "repo": "https://github.com/ossu/computer-science#readme",
+        "brief": ""
+      },
+      {
+        "name": "Functional Programming",
+        "repo": "https://github.com/lucasviola/awesome-functional-programming#readme",
+        "brief": ""
+      },
+      {
+        "name": "Empirical Software Engineering",
+        "repo": "https://github.com/dspinellis/awesome-msr#readme",
+        "brief": "Evidence-based research on software systems."
+      },
+      {
+        "name": "Static Analysis & Code Quality",
+        "repo": "https://github.com/analysis-tools-dev/static-analysis#readme",
+        "brief": ""
+      },
+      {
+        "name": "Information Retrieval",
+        "repo": "https://github.com/harpribot/awesome-information-retrieval#readme",
+        "brief": "Learn to develop your own search engine."
+      },
+      {
+        "name": "Quantum Computing",
+        "repo": "https://github.com/desireevl/awesome-quantum-computing#readme",
+        "brief": "Computing that utilizes quantum mechanics and qubits on quantum computers."
+      },
+      {
+        "name": "Theoretical Computer Science",
+        "repo": "https://github.com/mostafatouny/awesome-theoretical-computer-science#readme",
+        "brief": "The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique."
+      },
+      {
+        "name": "Conversational AI",
+        "repo": "https://github.com/jyguyomarch/awesome-conversational-ai#readme",
+        "brief": "Build awesome chatbots and digital assistants."
+      },
+      {
+        "name": "Generative AI",
+        "repo": "https://github.com/steven2358/awesome-generative-ai#readme",
+        "brief": "Automatically generates a wide range of unique content in text, image, and audio format."
+      }
+    ]
+  },
+  {
+    "name": "Big Data",
+    "sub_categories": [
+      {
+        "name": "Big Data",
+        "repo": "https://github.com/0xnr/awesome-bigdata#readme",
+        "brief": ""
+      },
+      {
+        "name": "Public Datasets",
+        "repo": "https://github.com/awesomedata/awesome-public-datasets#readme",
+        "brief": ""
+      },
+      {
+        "name": "Hadoop",
+        "repo": "https://github.com/youngwookim/awesome-hadoop#readme",
+        "brief": "Framework for distributed storage and processing of very large data sets."
+      },
+      {
+        "name": "Data Engineering",
+        "repo": "https://github.com/igorbarinov/awesome-data-engineering#readme",
+        "brief": ""
+      },
+      {
+        "name": "Streaming",
+        "repo": "https://github.com/manuzhang/awesome-streaming#readme",
+        "brief": ""
+      },
+      {
+        "name": "Apache Spark",
+        "repo": "https://github.com/awesome-spark/awesome-spark#readme",
+        "brief": "Unified engine for large-scale data processing."
+      },
+      {
+        "name": "Qlik",
+        "repo": "https://github.com/ambster-public/awesome-qlik#readme",
+        "brief": "Business intelligence platform for data visualization, analytics, and reporting apps."
+      },
+      {
+        "name": "Splunk",
+        "repo": "https://github.com/sduff/awesome-splunk#readme",
+        "brief": "Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real time."
+      },
+      {
+        "name": "Network Analysis",
+        "repo": "https://github.com/briatte/awesome-network-analysis#readme",
+        "brief": ""
+      }
+    ]
+  },
+  {
+    "name": "Theory",
+    "sub_categories": [
+      {
+        "name": "Papers We Love",
+        "repo": "https://github.com/papers-we-love/papers-we-love#readme",
+        "brief": ""
+      },
+      {
+        "name": "Talks",
+        "repo": "https://github.com/JanVanRyswyck/awesome-talks#readme",
+        "brief": ""
+      },
+      {
+        "name": "Algorithms",
+        "repo": "https://github.com/tayllan/awesome-algorithms#readme",
+        "brief": ""
+      },
+      {
+        "name": "Algorithms - Education",
+        "repo": "https://github.com/gaerae/awesome-algorithms-education#readme",
+        "brief": "Learning and practicing."
+      },
+      {
+        "name": "Algorithm Visualizations",
+        "repo": "https://github.com/enjalot/algovis#readme",
+        "brief": ""
+      },
+      {
+        "name": "Artificial Intelligence",
+        "repo": "https://github.com/owainlewis/awesome-artificial-intelligence#readme",
+        "brief": ""
+      },
+      {
+        "name": "Search Engine Optimization",
+        "repo": "https://github.com/marcobiedermann/search-engine-optimization#readme",
+        "brief": ""
+      },
+      {
+        "name": "Competitive Programming",
+        "repo": "https://github.com/lnishan/awesome-competitive-programming#readme",
+        "brief": ""
+      },
+      {
+        "name": "Math",
+        "repo": "https://github.com/rossant/awesome-math#readme",
+        "brief": ""
+      },
+      {
+        "name": "Recursion Schemes",
+        "repo": "https://github.com/passy/awesome-recursion-schemes#readme",
+        "brief": "Traversing nested data structures."
+      },
+      {
+        "name": "Audit Algorithms",
+        "repo": "https://github.com/erwanlemerrer/awesome-audit-algorithms#readme",
+        "brief": "Algorithmic audits of algorithms."
+      },
+      {
+        "name": "AGI & CoCoSci",
+        "repo": "https://github.com/YuzheSHI/awesome-agi-cocosci#readme",
+        "brief": "The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci)."
+      },
+      {
+        "name": "Complex Systems",
+        "repo": "https://github.com/sellisd/awesome-complexity#readme",
+        "brief": "The scientific field studying systems with multiple interacting parts and emergent properties."
+      },
+      {
+        "name": "VLM Architectures",
+        "repo": "https://github.com/gokayfem/awesome-vlm-architectures#readme",
+        "brief": "Vision Language Model architectures."
+      }
+    ]
+  },
+  {
+    "name": "Books",
+    "sub_categories": [
+      {
+        "name": "Free Programming Books",
+        "repo": "https://github.com/EbookFoundation/free-programming-books#readme",
+        "brief": ""
+      },
+      {
+        "name": "Go Books",
+        "repo": "https://github.com/dariubs/GoBooks#readme",
+        "brief": ""
+      },
+      {
+        "name": "R Books",
+        "repo": "https://github.com/RomanTsegelskyi/rbooks#readme",
+        "brief": ""
+      },
+      {
+        "name": "Mind Expanding Books",
+        "repo": "https://github.com/hackerkid/Mind-Expanding-Books#readme",
+        "brief": ""
+      },
+      {
+        "name": "Book Authoring",
+        "repo": "https://github.com/TalAter/awesome-book-authoring#readme",
+        "brief": ""
+      },
+      {
+        "name": "Elixir Books",
+        "repo": "https://github.com/sger/ElixirBooks#readme",
+        "brief": ""
+      }
+    ]
+  },
+  {
+    "name": "Editors",
+    "sub_categories": [
+      {
+        "name": "Sublime Text",
+        "repo": "https://github.com/dreikanter/sublime-bookmarks#readme",
+        "brief": ""
+      },
+      {
+        "name": "Vim",
+        "repo": "https://github.com/mhinz/vim-galore#readme",
+        "brief": ""
+      },
+      {
+        "name": "Neovim",
+        "repo": "https://github.com/rockerBOO/awesome-neovim#readme",
+        "brief": "Vim-fork focused on extensibility and usability."
+      },
+      {
+        "name": "Emacs",
+        "repo": "https://github.com/emacs-tw/awesome-emacs#readme",
+        "brief": ""
+      },
+      {
+        "name": "Atom",
+        "repo": "https://github.com/mehcode/awesome-atom#readme",
+        "brief": "Open-source and hackable text editor."
+      },
+      {
+        "name": "Visual Studio Code",
+        "repo": "https://github.com/viatsko/awesome-vscode#readme",
+        "brief": "Cross-platform open-source text editor."
+      }
+    ]
+  },
+  {
+    "name": "Gaming",
+    "sub_categories": [
+      {
+        "name": "Game Development",
+        "repo": "https://github.com/ellisonleao/magictools#readme",
+        "brief": ""
+      },
+      {
+        "name": "Game Talks",
+        "repo": "https://github.com/hzoo/awesome-gametalks#readme",
+        "brief": ""
+      },
+      {
+        "name": "Godot",
+        "repo": "https://github.com/godotengine/awesome-godot#readme",
+        "brief": "Game engine."
+      },
+      {
+        "name": "Open Source Games",
+        "repo": "https://github.com/michelpereira/awesome-open-source-games#readme",
+        "brief": ""
+      },
+      {
+        "name": "Unity",
+        "repo": "https://github.com/RyanNielson/awesome-unity#readme",
+        "brief": "Game engine."
+      },
+      {
+        "name": "Chess",
+        "repo": "https://github.com/hkirat/awesome-chess#readme",
+        "brief": ""
+      },
+      {
+        "name": "LÖVE",
+        "repo": "https://github.com/love2d-community/awesome-love2d#readme",
+        "brief": "Game engine."
+      },
+      {
+        "name": "PICO-8",
+        "repo": "https://github.com/pico-8/awesome-PICO-8#readme",
+        "brief": "Fantasy console."
+      },
+      {
+        "name": "Game Boy Development",
+        "repo": "https://github.com/gbdev/awesome-gbdev#readme",
+        "brief": ""
+      },
+      {
+        "name": "Construct 2",
+        "repo": "https://github.com/ConstructCommunity/awesome-construct#readme",
+        "brief": "Game engine."
+      },
+      {
+        "name": "Gideros",
+        "repo": "https://github.com/stetso/awesome-gideros#readme",
+        "brief": "Game engine."
+      },
+      {
+        "name": "Minecraft",
+        "repo": "https://github.com/bs-community/awesome-minecraft#readme",
+        "brief": "Sandbox video game."
+      },
+      {
+        "name": "ComputerCraft",
+        "repo": "https://github.com/tomodachi94/awesome-computercraft#readme",
+        "brief": "Minecraft mod that adds programmable computers."
+      },
+      {
+        "name": "Game Datasets",
+        "repo": "https://github.com/leomaurodesenv/game-datasets#readme",
+        "brief": "Materials and datasets for Artificial Intelligence in games."
+      },
+      {
+        "name": "Haxe Game Development",
+        "repo": "https://github.com/Dvergar/awesome-haxe-gamedev#readme",
+        "brief": "A high-level strongly typed programming language used to produce cross-platform native code."
+      },
+      {
+        "name": "libGDX",
+        "repo": "https://github.com/rafaskb/awesome-libgdx#readme",
+        "brief": "Java game framework."
+      },
+      {
+        "name": "PlayCanvas",
+        "repo": "https://github.com/playcanvas/awesome-playcanvas#readme",
+        "brief": "Game engine."
+      },
+      {
+        "name": "Game Remakes",
+        "repo": "https://github.com/radek-sprta/awesome-game-remakes#readme",
+        "brief": "Actively maintained open-source game remakes."
+      },
+      {
+        "name": "Flame",
+        "repo": "https://github.com/flame-engine/awesome-flame#readme",
+        "brief": "Game engine for Flutter."
+      },
+      {
+        "name": "Discord Communities",
+        "repo": "https://github.com/mhxion/awesome-discord-communities#readme",
+        "brief": "Chat with friends and communities."
+      },
+      {
+        "name": "CHIP-8",
+        "repo": "https://github.com/tobiasvl/awesome-chip-8#readme",
+        "brief": "Virtual computer game machine from the 70s."
+      },
+      {
+        "name": "Games of Coding",
+        "repo": "https://github.com/michelpereira/awesome-games-of-coding#readme",
+        "brief": "Learn a programming language by making games."
+      },
+      {
+        "name": "Esports",
+        "repo": "https://github.com/strift/awesome-esports#readme",
+        "brief": "Video games played as a sport."
+      },
+      {
+        "name": "Learn Gamedev",
+        "repo": "https://github.com/notpresident35/awesome-learn-gamedev#readme",
+        "brief": "The craft of video game creation."
+      },
+      {
+        "name": "Game Engine Development",
+        "repo": "https://github.com/stevinz/awesome-game-engine-dev#readme",
+        "brief": "Building software to speed up game creation."
+      },
+      {
+        "name": "GameMaker",
+        "repo": "https://github.com/bytecauldron/awesome-gamemaker#readme",
+        "brief": "Game engine."
+      },
+      {
+        "name": "Game Production",
+        "repo": "https://github.com/vhladiienko/awesome-game-production#readme",
+        "brief": "Leading the process of designing, developing, testing and distributing a video game from concept to release."
+      },
+      {
+        "name": "Babylon.js",
+        "repo": "https://github.com/Symbitic/awesome-babylonjs#readme",
+        "brief": "Game engine for cross-platform web and native game development."
+      }
+    ]
+  },
+  {
+    "name": "Development Environment",
+    "sub_categories": [
+      {
+        "name": "Quick Look Plugins",
+        "repo": "https://github.com/sindresorhus/quick-look-plugins#readme",
+        "brief": "For macOS."
+      },
+      {
+        "name": "Dev Env",
+        "repo": "https://github.com/jondot/awesome-devenv#readme",
+        "brief": ""
+      },
+      {
+        "name": "Dotfiles",
+        "repo": "https://github.com/webpro/awesome-dotfiles#readme",
+        "brief": ""
+      },
+      {
+        "name": "Shell",
+        "repo": "https://github.com/alebcay/awesome-shell#readme",
+        "brief": ""
+      },
+      {
+        "name": "Fish",
+        "repo": "https://github.com/jorgebucaran/awsm.fish#readme",
+        "brief": "User-friendly shell."
+      },
+      {
+        "name": "Command-Line Apps",
+        "repo": "https://github.com/agarrharr/awesome-cli-apps#readme",
+        "brief": ""
+      },
+      {
+        "name": "ZSH Plugins",
+        "repo": "https://github.com/unixorn/awesome-zsh-plugins#readme",
+        "brief": ""
+      },
+      {
+        "name": "GitHub",
+        "repo": "https://github.com/phillipadsmith/awesome-github#readme",
+        "brief": "Hosting service for Git repositories."
+      },
+      {
+        "name": "GitHub - Browser Extensions",
+        "repo": "https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme",
+        "brief": ""
+      },
+      {
+        "name": "GitHub - Cheat Sheet",
+        "repo": "https://github.com/tiimgreen/github-cheat-sheet#readme",
+        "brief": ""
+      },
+      {
+        "name": "GitHub - Pinned Gists",
+        "repo": "https://github.com/matchai/awesome-pinned-gists#readme",
+        "brief": "Dynamic pinned gists for your GitHub profile."
+      },
+      {
+        "name": "Git Cheat Sheet & Git Flow",
+        "repo": "https://github.com/arslanbilal/git-cheat-sheet#readme",
+        "brief": ""
+      },
+      {
+        "name": "Git Tips",
+        "repo": "https://github.com/git-tips/tips#readme",
+        "brief": ""
+      },
+      {
+        "name": "Git Add-ons",
+        "repo": "https://github.com/stevemao/awesome-git-addons#readme",
+        "brief": "Enhance the `git` CLI."
+      },
+      {
+        "name": "Git Hooks",
+        "repo": "https://github.com/compscilauren/awesome-git-hooks#readme",
+        "brief": "Scripts for automating tasks during `git` workflows."
+      },
+      {
+        "name": "SSH",
+        "repo": "https://github.com/moul/awesome-ssh#readme",
+        "brief": ""
+      },
+      {
+        "name": "FOSS for Developers",
+        "repo": "https://github.com/tvvocold/FOSS-for-Dev#readme",
+        "brief": ""
+      },
+      {
+        "name": "Hyper",
+        "repo": "https://github.com/bnb/awesome-hyper#readme",
+        "brief": "Cross-platform terminal app built on web technologies."
+      },
+      {
+        "name": "PowerShell",
+        "repo": "https://github.com/janikvonrotz/awesome-powershell#readme",
+        "brief": "Cross-platform object-oriented shell."
+      },
+      {
+        "name": "Alfred Workflows",
+        "repo": "https://github.com/alfred-workflows/awesome-alfred-workflows#readme",
+        "brief": "Productivity app for macOS."
+      },
+      {
+        "name": "Terminals Are Sexy",
+        "repo": "https://github.com/k4m4/terminals-are-sexy#readme",
+        "brief": ""
+      },
+      {
+        "name": "GitHub Actions",
+        "repo": "https://github.com/sdras/awesome-actions#readme",
+        "brief": "Create tasks to automate your workflow and share them with others on GitHub."
+      },
+      {
+        "name": "WezTerm",
+        "repo": "https://github.com/michaelbrusegard/awesome-wezterm#readme",
+        "brief": "Powerful cross-platform terminal emulator."
+      }
+    ]
+  },
+  {
+    "name": "Entertainment",
+    "sub_categories": [
+      {
+        "name": "Science Fiction",
+        "repo": "https://github.com/sindresorhus/awesome-scifi#readme",
+        "brief": "Scifi."
+      },
+      {
+        "name": "Fantasy",
+        "repo": "https://github.com/RichardLitt/awesome-fantasy#readme",
+        "brief": ""
+      },
+      {
+        "name": "Podcasts",
+        "repo": "https://github.com/ayr-ton/awesome-geek-podcasts#readme",
+        "brief": ""
+      },
+      {
+        "name": "Email Newsletters",
+        "repo": "https://github.com/zudochkin/awesome-newsletters#readme",
+        "brief": ""
+      },
+      {
+        "name": "IT Quotes",
+        "repo": "https://github.com/victorlaerte/awesome-it-quotes#readme",
+        "brief": ""
+      }
+    ]
+  },
+  {
+    "name": "Databases",
+    "sub_categories": [
+      {
+        "name": "Database",
+        "repo": "https://github.com/numetriclabz/awesome-db#readme",
+        "brief": ""
+      },
+      {
+        "name": "MySQL",
+        "repo": "https://github.com/shlomi-noach/awesome-mysql#readme",
+        "brief": ""
+      },
+      {
+        "name": "SQLAlchemy",
+        "repo": "https://github.com/dahlia/awesome-sqlalchemy#readme",
+        "brief": ""
+      },
+      {
+        "name": "InfluxDB",
+        "repo": "https://github.com/mark-rushakoff/awesome-influxdb#readme",
+        "brief": ""
+      },
+      {
+        "name": "Neo4j",
+        "repo": "https://github.com/neueda/awesome-neo4j#readme",
+        "brief": ""
+      },
+      {
+        "name": "MongoDB",
+        "repo": "https://github.com/ramnes/awesome-mongodb#readme",
+        "brief": "NoSQL database."
+      },
+      {
+        "name": "RethinkDB",
+        "repo": "https://github.com/d3viant0ne/awesome-rethinkdb#readme",
+        "brief": ""
+      },
+      {
+        "name": "TinkerPop",
+        "repo": "https://github.com/mohataher/awesome-tinkerpop#readme",
+        "brief": "Graph computing framework."
+      },
+      {
+        "name": "PostgreSQL",
+        "repo": "https://github.com/dhamaniasad/awesome-postgres#readme",
+        "brief": "Object-relational database."
+      },
+      {
+        "name": "CouchDB",
+        "repo": "https://github.com/quangv/awesome-couchdb#readme",
+        "brief": "Document-oriented NoSQL database."
+      },
+      {
+        "name": "HBase",
+        "repo": "https://github.com/rayokota/awesome-hbase#readme",
+        "brief": "Distributed, scalable, big data store."
+      },
+      {
+        "name": "NoSQL Guides",
+        "repo": "https://github.com/erictleung/awesome-nosql-guides#readme",
+        "brief": "Help on using non-relational, distributed, open-source, and horizontally scalable databases."
+      },
+      {
+        "name": "Database Tools",
+        "repo": "https://github.com/mgramin/awesome-db-tools#readme",
+        "brief": "Everything that makes working with databases easier."
+      },
+      {
+        "name": "TypeDB",
+        "repo": "https://github.com/vaticle/typedb-awesome#readme",
+        "brief": "Logical database to organize large and complex networks of data as one body of knowledge."
+      },
+      {
+        "name": "Cassandra",
+        "repo": "https://github.com/Anant/awesome-cassandra#readme",
+        "brief": "Open-source, distributed, wide column store, NoSQL database management system."
+      },
+      {
+        "name": "TDengine",
+        "repo": "https://github.com/taosdata/awesome-tdengine#readme",
+        "brief": "An open-source time-series database with high-performance, scalability, and SQL support."
+      },
+      {
+        "name": "Supabase",
+        "repo": "https://github.com/lyqht/awesome-supabase#readme",
+        "brief": "An open-source alternative to Firebase."
+      },
+      {
+        "name": "PocketBase",
+        "repo": "https://github.com/benallfree/awesome-pocketbase#readme",
+        "brief": "An open-source, Go-based backend in one file."
+      },
+      {
+        "name": "Neon",
+        "repo": "https://github.com/tyaga001/awesome-neon#readme",
+        "brief": "An open-source alternative to AWS Aurora."
+      }
+    ]
+  },
+  {
+    "name": "Media",
+    "sub_categories": [
+      {
+        "name": "Fonts",
+        "repo": "https://github.com/brabadu/awesome-fonts#readme",
+        "brief": ""
+      },
+      {
+        "name": "Codeface",
+        "repo": "https://github.com/chrissimpkins/codeface#readme",
+        "brief": "Text editor fonts."
+      },
+      {
+        "name": "Stock Resources",
+        "repo": "https://github.com/neutraltone/awesome-stock-resources#readme",
+        "brief": ""
+      },
+      {
+        "name": "GIF",
+        "repo": "https://github.com/davisonio/awesome-gif#readme",
+        "brief": "Image format known for animated images."
+      },
+      {
+        "name": "Music",
+        "repo": "https://github.com/ciconia/awesome-music#readme",
+        "brief": ""
+      },
+      {
+        "name": "Open Source Documents",
+        "repo": "https://github.com/44bits/awesome-opensource-documents#readme",
+        "brief": ""
+      },
+      {
+        "name": "Audio Visualization",
+        "repo": "https://github.com/willianjusten/awesome-audio-visualization#readme",
+        "brief": ""
+      },
+      {
+        "name": "Broadcasting",
+        "repo": "https://github.com/ebu/awesome-broadcasting#readme",
+        "brief": ""
+      },
+      {
+        "name": "Pixel Art",
+        "repo": "https://github.com/Siilwyn/awesome-pixel-art#readme",
+        "brief": "Pixel-level digital art."
+      },
+      {
+        "name": "FFmpeg",
+        "repo": "https://github.com/transitive-bullshit/awesome-ffmpeg#readme",
+        "brief": "Cross-platform solution to record, convert and stream audio and video."
+      },
+      {
+        "name": "Icons",
+        "repo": "https://github.com/notlmn/awesome-icons#readme",
+        "brief": "Downloadable SVG/PNG/font icon projects."
+      },
+      {
+        "name": "Audiovisual",
+        "repo": "https://github.com/stingalleman/awesome-audiovisual#readme",
+        "brief": "Lighting, audio and video in professional environments."
+      },
+      {
+        "name": "VLC",
+        "repo": "https://github.com/mfkl/awesome-vlc#readme",
+        "brief": "Cross-platform media player software and streaming server."
+      }
+    ]
+  },
+  {
+    "name": "Learn",
+    "sub_categories": [
+      {
+        "name": "CLI Workshoppers",
+        "repo": "https://github.com/therebelrobot/awesome-workshopper#readme",
+        "brief": "Interactive tutorials."
+      },
+      {
+        "name": "Learn to Program",
+        "repo": "https://github.com/karlhorky/learn-to-program#readme",
+        "brief": ""
+      },
+      {
+        "name": "Speaking",
+        "repo": "https://github.com/matteofigus/awesome-speaking#readme",
+        "brief": ""
+      },
+      {
+        "name": "Tech Videos",
+        "repo": "https://github.com/lucasviola/awesome-tech-videos#readme",
+        "brief": ""
+      },
+      {
+        "name": "Dive into Machine Learning",
+        "repo": "https://github.com/hangtwenty/dive-into-machine-learning#readme",
+        "brief": ""
+      },
+      {
+        "name": "Computer History",
+        "repo": "https://github.com/watson/awesome-computer-history#readme",
+        "brief": ""
+      },
+      {
+        "name": "Programming for Kids",
+        "repo": "https://github.com/HollyAdele/awesome-programming-for-kids#readme",
+        "brief": ""
+      },
+      {
+        "name": "STEAM",
+        "repo": "https://github.com/RahulBirCodes/awesome-steam#readme",
+        "brief": "Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels."
+      },
+      {
+        "name": "Educational Games",
+        "repo": "https://github.com/yrgo/awesome-educational-games#readme",
+        "brief": "Learn while playing."
+      },
+      {
+        "name": "JavaScript Learning",
+        "repo": "https://github.com/micromata/awesome-javascript-learning#readme",
+        "brief": ""
+      },
+      {
+        "name": "CSS Learning",
+        "repo": "https://github.com/micromata/awesome-css-learning#readme",
+        "brief": "Mainly about CSS – the language and the modules."
+      },
+      {
+        "name": "Product Management",
+        "repo": "https://github.com/dend/awesome-product-management#readme",
+        "brief": "Learn how to be a better product manager."
+      },
+      {
+        "name": "Roadmaps",
+        "repo": "https://github.com/liuchong/awesome-roadmaps#readme",
+        "brief": "Gives you a clear route to improve your knowledge and skills."
+      },
+      {
+        "name": "YouTubers",
+        "repo": "https://github.com/JoseDeFreitas/awesome-youtubers#readme",
+        "brief": "Watch video tutorials from YouTubers that teach you about technology."
+      },
+      {
+        "name": "Hackathon",
+        "repo": "https://github.com/dribdat/awesome-hackathon#readme",
+        "brief": "Running fun and productive hackathons."
+      },
+      {
+        "name": "Certificates",
+        "repo": "https://github.com/PanXProject/awesome-certificates#readme",
+        "brief": "Free computer science certifications to showcase your knowledge."
+      }
+    ]
+  },
+  {
+    "name": "Security",
+    "sub_categories": [
+      {
+        "name": "Application Security",
+        "repo": "https://github.com/paragonie/awesome-appsec#readme",
+        "brief": ""
+      },
+      {
+        "name": "Security",
+        "repo": "https://github.com/sbilly/awesome-security#readme",
+        "brief": ""
+      },
+      {
+        "name": "CTF",
+        "repo": "https://github.com/apsdehal/awesome-ctf#readme",
+        "brief": "Capture The Flag."
+      },
+      {
+        "name": "Cyber Security University",
+        "repo": "https://github.com/brootware/awesome-cyber-security-university#readme",
+        "brief": "Free educational resources that focus on learning by doing."
+      },
+      {
+        "name": "Malware Analysis",
+        "repo": "https://github.com/rshipp/awesome-malware-analysis#readme",
+        "brief": ""
+      },
+      {
+        "name": "Android Security",
+        "repo": "https://github.com/ashishb/android-security-awesome#readme",
+        "brief": ""
+      },
+      {
+        "name": "Hacking",
+        "repo": "https://github.com/carpedm20/awesome-hacking#readme",
+        "brief": ""
+      },
+      {
+        "name": "Hacking Spots",
+        "repo": "https://github.com/daviddias/awesome-hacking-locations#readme",
+        "brief": ""
+      },
+      {
+        "name": "Honeypots",
+        "repo": "https://github.com/paralax/awesome-honeypots#readme",
+        "brief": "Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization."
+      },
+      {
+        "name": "Incident Response",
+        "repo": "https://github.com/meirwah/awesome-incident-response#readme",
+        "brief": ""
+      },
+      {
+        "name": "Vehicle Security and Car Hacking",
+        "repo": "https://github.com/jaredthecoder/awesome-vehicle-security#readme",
+        "brief": ""
+      },
+      {
+        "name": "Web Security",
+        "repo": "https://github.com/qazbnm456/awesome-web-security#readme",
+        "brief": "Security of web apps & services."
+      },
+      {
+        "name": "Lockpicking",
+        "repo": "https://github.com/fabacab/awesome-lockpicking#readme",
+        "brief": "The art of unlocking a lock by manipulating its components without the key."
+      },
+      {
+        "name": "Cybersecurity Blue Team",
+        "repo": "https://github.com/fabacab/awesome-cybersecurity-blueteam#readme",
+        "brief": "Groups of individuals who identify security flaws in information technology systems."
+      },
+      {
+        "name": "Fuzzing",
+        "repo": "https://github.com/cpuu/awesome-fuzzing#readme",
+        "brief": "Automated software testing technique that involves feeding pseudo-randomly generated input data."
+      },
+      {
+        "name": "Embedded and IoT Security",
+        "repo": "https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme",
+        "brief": ""
+      },
+      {
+        "name": "GDPR",
+        "repo": "https://github.com/bakke92/awesome-gdpr#readme",
+        "brief": "Regulation on data protection and privacy for all individuals within EU."
+      },
+      {
+        "name": "DevSecOps",
+        "repo": "https://github.com/TaptuIT/awesome-devsecops#readme",
+        "brief": "Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps)."
+      },
+      {
+        "name": "Executable Packing",
+        "repo": "https://github.com/dhondta/awesome-executable-packing#readme",
+        "brief": "Packing and unpacking executable formats."
+      },
+      {
+        "name": "Malware Persistence",
+        "repo": "https://github.com/Karneades/awesome-malware-persistence#readme",
+        "brief": "Techniques that adversaries use to keep access to systems across restarts."
+      },
+      {
+        "name": "EVM Security",
+        "repo": "https://github.com/kareniel/awesome-evm-security#readme",
+        "brief": "Understanding the Ethereum Virtual Machine security ecosystem."
+      },
+      {
+        "name": "Password Cracking",
+        "repo": "https://github.com/n0kovo/awesome-password-cracking#readme",
+        "brief": "The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form."
+      },
+      {
+        "name": "Security Card Games",
+        "repo": "https://github.com/Karneades/awesome-security-card-games#readme",
+        "brief": "Train your skills and discuss various security topics."
+      },
+      {
+        "name": "Suricata",
+        "repo": "https://github.com/satta/awesome-suricata#readme",
+        "brief": "Intrusion detection/prevention system and network security monitoring engine."
+      },
+      {
+        "name": "Prompt Injection",
+        "repo": "https://github.com/FonduAI/awesome-prompt-injection#readme",
+        "brief": "A type of vulnerability that specifically targets machine learning models."
+      },
+      {
+        "name": "Detection Engineering",
+        "repo": "https://github.com/infosecB/awesome-detection-engineering#readme",
+        "brief": "Design, build, and operate detective cybersecurity controls."
+      },
+      {
+        "name": "Annual Security Reports",
+        "repo": "https://github.com/jacobdjwilson/awesome-annual-security-reports#readme",
+        "brief": "Exploring cybersecurity trends, insights, and challenges."
+      },
+      {
+        "name": "CI/CD Attacks",
+        "repo": "https://github.com/TupleType/awesome-cicd-attacks#readme",
+        "brief": "Offensive research of systems and processes related to developing and deploying code."
+      }
+    ]
+  },
+  {
+    "name": "Content Management Systems",
+    "sub_categories": [
+      {
+        "name": "Umbraco",
+        "repo": "https://github.com/umbraco-community/awesome-umbraco#readme",
+        "brief": ""
+      },
+      {
+        "name": "Refinery CMS",
+        "repo": "https://github.com/refinerycms-contrib/awesome-refinerycms#readme",
+        "brief": "Ruby on Rails CMS."
+      },
+      {
+        "name": "Wagtail",
+        "repo": "https://github.com/springload/awesome-wagtail#readme",
+        "brief": "Django CMS focused on flexibility and user experience."
+      },
+      {
+        "name": "Textpattern",
+        "repo": "https://github.com/drmonkeyninja/awesome-textpattern#readme",
+        "brief": "Lightweight PHP-based CMS."
+      },
+      {
+        "name": "Drupal",
+        "repo": "https://github.com/nirgn975/awesome-drupal#readme",
+        "brief": "Extensible PHP-based CMS."
+      },
+      {
+        "name": "Craft CMS",
+        "repo": "https://github.com/craftcms/awesome#readme",
+        "brief": "Content-first CMS."
+      },
+      {
+        "name": "Sitecore",
+        "repo": "https://github.com/MartinMiles/Awesome-Sitecore#readme",
+        "brief": ".NET digital marketing platform that combines CMS with tools for managing multiple websites."
+      },
+      {
+        "name": "Silverstripe CMS",
+        "repo": "https://github.com/wernerkrauss/awesome-silverstripe-cms#readme",
+        "brief": "PHP MVC framework that serves as a classic or headless CMS."
+      },
+      {
+        "name": "Directus",
+        "repo": "https://github.com/directus-community/awesome-directus#readme",
+        "brief": "A real-time API and app dashboard for managing SQL database content."
+      },
+      {
+        "name": "Plone",
+        "repo": "https://github.com/collective/awesome-plone#readme",
+        "brief": "Open source Python CMS."
+      },
+      {
+        "name": "Payload",
+        "repo": "https://github.com/DanailMinchev/awesome-payload#readme",
+        "brief": "Next.js native and open source headless CMS."
+      }
+    ]
+  },
+  {
+    "name": "Hardware",
+    "sub_categories": [
+      {
+        "name": "Robotics",
+        "repo": "https://github.com/Kiloreux/awesome-robotics#readme",
+        "brief": ""
+      },
+      {
+        "name": "Internet of Things",
+        "repo": "https://github.com/HQarroum/awesome-iot#readme",
+        "brief": ""
+      },
+      {
+        "name": "Electronics",
+        "repo": "https://github.com/kitspace/awesome-electronics#readme",
+        "brief": "For electronic engineers and hobbyists."
+      },
+      {
+        "name": "Bluetooth Beacons",
+        "repo": "https://github.com/rabschi/awesome-beacon#readme",
+        "brief": ""
+      },
+      {
+        "name": "Electric Guitar Specifications",
+        "repo": "https://github.com/gitfrage/guitarspecs#readme",
+        "brief": "Checklist for building your own electric guitar."
+      },
+      {
+        "name": "Plotters",
+        "repo": "https://github.com/beardicus/awesome-plotters#readme",
+        "brief": "Computer-controlled drawing machines and other visual art robots."
+      },
+      {
+        "name": "Robotic Tooling",
+        "repo": "https://github.com/protontypes/awesome-robotic-tooling#readme",
+        "brief": "Free and open tools for professional robotic development."
+      },
+      {
+        "name": "LIDAR",
+        "repo": "https://github.com/szenergy/awesome-lidar#readme",
+        "brief": "Sensor for measuring distances by illuminating the target with laser light."
+      },
+      {
+        "name": "Open Hardware",
+        "repo": "https://github.com/delftopenhardware/awesome-open-hardware#readme",
+        "brief": "Open-source hardware projects."
+      },
+      {
+        "name": "ADS-B",
+        "repo": "https://github.com/rickstaa/awesome-adsb#readme",
+        "brief": "Technology broadcasting aircraft's identity, position, and data periodically."
+      },
+      {
+        "name": "Flying FPV",
+        "repo": "https://github.com/Matthias84/awesome-flying-fpv#readme",
+        "brief": "Open hardware and software related to drones / UAVs."
+      }
+    ]
+  },
+  {
+    "name": "Business",
+    "sub_categories": [
+      {
+        "name": "Open Companies",
+        "repo": "https://github.com/opencompany/awesome-open-company#readme",
+        "brief": ""
+      },
+      {
+        "name": "Places to Post Your Startup",
+        "repo": "https://github.com/mmccaff/PlacesToPostYourStartup#readme",
+        "brief": ""
+      },
+      {
+        "name": "OKR Methodology",
+        "repo": "https://github.com/domenicosolazzo/awesome-okr#readme",
+        "brief": "Goal setting & communication best practices."
+      },
+      {
+        "name": "Indie",
+        "repo": "https://github.com/mezod/awesome-indie#readme",
+        "brief": "Independent developer businesses."
+      },
+      {
+        "name": "Tools of the Trade",
+        "repo": "https://github.com/cjbarber/ToolsOfTheTrade#readme",
+        "brief": "Tools used by companies on Hacker News."
+      },
+      {
+        "name": "Clean Tech",
+        "repo": "https://github.com/nglgzz/awesome-clean-tech#readme",
+        "brief": "Fighting climate change with technology."
+      },
+      {
+        "name": "Wardley Maps",
+        "repo": "https://github.com/wardley-maps-community/awesome-wardley-maps#readme",
+        "brief": "Provides high situational awareness to help improve strategic planning and decision making."
+      },
+      {
+        "name": "Social Enterprise",
+        "repo": "https://github.com/RayBB/awesome-social-enterprise#readme",
+        "brief": "Building an organization primarily focused on social impact that is at least partially self-funded."
+      },
+      {
+        "name": "Engineering Team Management",
+        "repo": "https://github.com/kdeldycke/awesome-engineering-team-management#readme",
+        "brief": "How to transition from software development to engineering management."
+      },
+      {
+        "name": "Developer-First Products",
+        "repo": "https://github.com/agamm/awesome-developer-first#readme",
+        "brief": "Products that target developers as the user."
+      },
+      {
+        "name": "Billing",
+        "repo": "https://github.com/kdeldycke/awesome-billing#readme",
+        "brief": "Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence."
+      },
+      {
+        "name": "Engineering Strategy",
+        "repo": "https://github.com/aleixmorgadas/awesome-engineering-strategy#readme",
+        "brief": "How to design and execute engineering strategies for tech leadership."
+      }
+    ]
+  },
+  {
+    "name": "Work",
+    "sub_categories": [
+      {
+        "name": "Slack",
+        "repo": "https://github.com/matiassingers/awesome-slack#readme",
+        "brief": "Team collaboration."
+      },
+      {
+        "name": "Slack - Communities",
+        "repo": "https://github.com/filipelinhares/awesome-slack#readme",
+        "brief": ""
+      },
+      {
+        "name": "Remote Jobs",
+        "repo": "https://github.com/lukasz-madon/awesome-remote-job#readme",
+        "brief": ""
+      },
+      {
+        "name": "Productivity",
+        "repo": "https://github.com/jyguyomarch/awesome-productivity#readme",
+        "brief": ""
+      },
+      {
+        "name": "Niche Job Boards",
+        "repo": "https://github.com/tramcar/awesome-job-boards#readme",
+        "brief": ""
+      },
+      {
+        "name": "Programming Interviews",
+        "repo": "https://github.com/DopplerHQ/awesome-interview-questions#readme",
+        "brief": ""
+      },
+      {
+        "name": "Code Review",
+        "repo": "https://github.com/joho/awesome-code-review#readme",
+        "brief": "Reviewing code."
+      },
+      {
+        "name": "Creative Technology",
+        "repo": "https://github.com/j0hnm4r5/awesome-creative-technology#readme",
+        "brief": "Businesses & groups that specialize in combining computing, design, art, and user experience."
+      },
+      {
+        "name": "Internships",
+        "repo": "https://github.com/lodthe/awesome-internships#readme",
+        "brief": "CV writing guides and companies that hire interns."
+      }
+    ]
+  },
+  {
+    "name": "Networking",
+    "sub_categories": [
+      {
+        "name": "Software-Defined Networking",
+        "repo": "https://github.com/sdnds-tw/awesome-sdn#readme",
+        "brief": ""
+      },
+      {
+        "name": "PCAPTools",
+        "repo": "https://github.com/caesar0301/awesome-pcaptools#readme",
+        "brief": ""
+      },
+      {
+        "name": "Real-Time Communications",
+        "repo": "https://github.com/rtckit/awesome-rtc#readme",
+        "brief": "Network protocols for near simultaneous exchange of media and data."
+      },
+      {
+        "name": "SNMP",
+        "repo": "https://github.com/eozer/awesome-snmp#readme",
+        "brief": "A protocol for collecting, modifying, and organizing information about managed devices on IP networks."
+      },
+      {
+        "name": "Scapy",
+        "repo": "https://github.com/secdev/awesome-scapy#readme",
+        "brief": "Python-based interactive packet manipulation."
+      },
+      {
+        "name": "Cilium",
+        "repo": "https://github.com/seifrajhi/awesome-cilium#readme",
+        "brief": "Provides networking and security capabilities for containerized apps, microservices, and virtual machines."
+      }
+    ]
+  },
+  {
+    "name": "Decentralized Systems",
+    "sub_categories": [
+      {
+        "name": "Bitcoin",
+        "repo": "https://github.com/igorbarinov/awesome-bitcoin#readme",
+        "brief": "Bitcoin services and tools for software developers."
+      },
+      {
+        "name": "Ripple",
+        "repo": "https://github.com/vhpoet/awesome-ripple#readme",
+        "brief": "Open source distributed settlement network."
+      },
+      {
+        "name": "Non-Financial Blockchain",
+        "repo": "https://github.com/machinomy/awesome-non-financial-blockchain#readme",
+        "brief": "Non-financial blockchain applications."
+      },
+      {
+        "name": "Mastodon",
+        "repo": "https://github.com/hyperupcall/awesome-mastodon#readme",
+        "brief": "Open source decentralized microblogging network."
+      },
+      {
+        "name": "Ethereum",
+        "repo": "https://github.com/ttumiel/Awesome-Ethereum#readme",
+        "brief": "Distributed computing platform for smart contract development."
+      },
+      {
+        "name": "Blockchain AI",
+        "repo": "https://github.com/steven2358/awesome-blockchain-ai#readme",
+        "brief": "Blockchain projects for artificial intelligence and machine learning."
+      },
+      {
+        "name": "EOSIO",
+        "repo": "https://github.com/DanailMinchev/awesome-eosio#readme",
+        "brief": "A decentralized operating system supporting industrial-scale apps."
+      },
+      {
+        "name": "Corda",
+        "repo": "https://github.com/chainstack/awesome-corda#readme",
+        "brief": "Open source blockchain platform designed for business."
+      },
+      {
+        "name": "Waves",
+        "repo": "https://github.com/msmolyakov/awesome-waves#readme",
+        "brief": "Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions."
+      },
+      {
+        "name": "Substrate",
+        "repo": "https://github.com/substrate-developer-hub/awesome-substrate#readme",
+        "brief": "Framework for writing scalable, upgradeable blockchains in Rust."
+      },
+      {
+        "name": "Golem",
+        "repo": "https://github.com/golemfactory/awesome-golem#readme",
+        "brief": "Open source peer-to-peer marketplace for computing resources."
+      },
+      {
+        "name": "Stacks",
+        "repo": "https://github.com/friedger/awesome-stacks-chain#readme",
+        "brief": "A smart contract platform secured by Bitcoin."
+      },
+      {
+        "name": "Algorand",
+        "repo": "https://github.com/aorumbayev/awesome-algorand#readme",
+        "brief": "An open-source, proof of stake blockchain and smart contract computing platform."
+      },
+      {
+        "name": "ZeroNet",
+        "repo": "https://github.com/zolagonano/awesome-zeronet#readme",
+        "brief": "A decentralized web-like network of peer-to-peer users."
+      },
+      {
+        "name": "Cosmos SDK",
+        "repo": "https://github.com/cosmos/awesome-cosmos#readme",
+        "brief": "Modular framework for building app-specific blockchains in Go."
+      },
+      {
+        "name": "Tor",
+        "repo": "https://github.com/polycarbohydrate/awesome-tor#readme",
+        "brief": "A free overlay network for enabling anonymous communication."
+      },
+      {
+        "name": "ATProto",
+        "repo": "https://github.com/atblueprints/awesome-atproto#readme",
+        "brief": "Open, decentralized network for building social apps."
+      }
+    ]
+  },
+  {
+    "name": "Health and Social Science",
+    "sub_categories": [
+      {
+        "name": "Biomedical Information Extraction",
+        "repo": "https://github.com/caufieldjh/awesome-bioie#readme",
+        "brief": "How to extract information from unstructured biomedical data and text."
+      },
+      {
+        "name": "Computational Neuroscience",
+        "repo": "https://github.com/eselkin/awesome-computational-neuroscience#readme",
+        "brief": "A multidisciplinary science which uses computational approaches to study the nervous system."
+      },
+      {
+        "name": "Diversity",
+        "repo": "https://github.com/folkswhocode/awesome-diversity#readme",
+        "brief": "Creating a more inclusive and diverse tech community."
+      },
+      {
+        "name": "Digital History",
+        "repo": "https://github.com/maehr/awesome-digital-history#readme",
+        "brief": "Computer-aided scientific investigation of history."
+      },
+      {
+        "name": "Empathy in Engineering",
+        "repo": "https://github.com/KimberlyMunoz/empathy-in-engineering#readme",
+        "brief": "Building and promoting more compassionate engineering cultures."
+      },
+      {
+        "name": "Healthcare",
+        "repo": "https://github.com/kakoni/awesome-healthcare#readme",
+        "brief": "Open source healthcare software for facilities, providers, developers, policy experts, and researchers."
+      },
+      {
+        "name": "Humane Technology",
+        "repo": "https://github.com/humanetech-community/awesome-humane-tech#readme",
+        "brief": "Open source projects that help improve society."
+      },
+      {
+        "name": "Mental Health",
+        "repo": "https://github.com/dreamingechoes/awesome-mental-health#readme",
+        "brief": "Mental health awareness and self-care in the software industry."
+      },
+      {
+        "name": "Neuroscience",
+        "repo": "https://github.com/analyticalmonk/awesome-neuroscience#readme",
+        "brief": "Study of the nervous system and brain."
+      },
+      {
+        "name": "Digital Humanities",
+        "repo": "https://github.com/dh-tech/awesome-digital-humanities#readme",
+        "brief": "Software for humanities scholars using quantitative or computational methods."
+      },
+      {
+        "name": "Lucid Dreams",
+        "repo": "https://github.com/IAmCoder/awesome-lucid-dreams#readme",
+        "brief": "A dream where one becomes aware they are dreaming."
+      },
+      {
+        "name": "Neuroimaging",
+        "repo": "https://github.com/NPACore/awesome-neuroimaging#readme",
+        "brief": "Software for analyzing brain data from living subjects."
+      }
+    ]
+  },
+  {
+    "name": "Events",
+    "sub_categories": [
+      {
+        "name": "Creative Tech Events",
+        "repo": "https://github.com/danvoyce/awesome-creative-tech-events#readme",
+        "brief": "Events around the globe for creative coding, tech, design, music, arts and cool stuff."
+      },
+      {
+        "name": "Events in Italy",
+        "repo": "https://github.com/ildoc/awesome-italy-events#readme",
+        "brief": "Tech-related events in Italy."
+      },
+      {
+        "name": "Events in the Netherlands",
+        "repo": "https://github.com/awkward/awesome-netherlands-events#readme",
+        "brief": "Tech-related events in the Netherlands."
+      }
+    ]
+  },
+  {
+    "name": "Testing",
+    "sub_categories": [
+      {
+        "name": "Testing",
+        "repo": "https://github.com/TheJambo/awesome-testing#readme",
+        "brief": "Software testing."
+      },
+      {
+        "name": "Visual Regression Testing",
+        "repo": "https://github.com/mojoaxel/awesome-regression-testing#readme",
+        "brief": "Ensures changes did not break the functionality or style."
+      },
+      {
+        "name": "Selenium",
+        "repo": "https://github.com/christian-bromann/awesome-selenium#readme",
+        "brief": "Open-source browser automation framework and ecosystem."
+      },
+      {
+        "name": "Appium",
+        "repo": "https://github.com/SrinivasanTarget/awesome-appium#readme",
+        "brief": "Test automation tool for apps."
+      },
+      {
+        "name": "TAP",
+        "repo": "https://github.com/sindresorhus/awesome-tap#readme",
+        "brief": "Test Anything Protocol."
+      },
+      {
+        "name": "JMeter",
+        "repo": "https://github.com/aliesbelik/awesome-jmeter#readme",
+        "brief": "Load testing and performance measurement tool."
+      },
+      {
+        "name": "k6",
+        "repo": "https://github.com/grafana/awesome-k6#readme",
+        "brief": "Open-source, developer-centric performance monitoring and load testing solution."
+      },
+      {
+        "name": "Playwright",
+        "repo": "https://github.com/mxschmitt/awesome-playwright#readme",
+        "brief": "Node.js library to automate Chromium, Firefox and WebKit with a single API."
+      },
+      {
+        "name": "Quality Assurance Roadmap",
+        "repo": "https://github.com/fityanos/awesome-quality-assurance-roadmap#readme",
+        "brief": "How to start & build a career in software testing."
+      },
+      {
+        "name": "Gatling",
+        "repo": "https://github.com/aliesbelik/awesome-gatling#readme",
+        "brief": "Open-source load and performance testing framework based on Scala, Akka, and Netty."
+      },
+      {
+        "name": "CodeRabbit",
+        "repo": "https://github.com/coderabbitai/awesome-coderabbit#readme",
+        "brief": "AI-powered code review platform."
+      }
+    ]
+  },
+  {
+    "name": "Miscellaneous",
+    "sub_categories": [
+      {
+        "name": "Scientific Writing",
+        "repo": "https://github.com/writing-resources/awesome-scientific-writing#readme",
+        "brief": "Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks."
+      },
+      {
+        "name": "JSON",
+        "repo": "https://github.com/burningtree/awesome-json#readme",
+        "brief": "Text based data interchange format."
+      },
+      {
+        "name": "JSON - GeoJSON",
+        "repo": "https://github.com/tmcw/awesome-geojson#readme",
+        "brief": ""
+      },
+      {
+        "name": "JSON - Datasets",
+        "repo": "https://github.com/jdorfman/awesome-json-datasets#readme",
+        "brief": ""
+      },
+      {
+        "name": "CSV",
+        "repo": "https://github.com/secretGeek/awesomeCSV#readme",
+        "brief": "A text file format that stores tabular data and uses a comma to separate values."
+      },
+      {
+        "name": "Discounts for Student Developers",
+        "repo": "https://github.com/AchoArnold/discount-for-student-dev#readme",
+        "brief": ""
+      },
+      {
+        "name": "Radio",
+        "repo": "https://github.com/kyleterry/awesome-radio#readme",
+        "brief": ""
+      },
+      {
+        "name": "Awesome",
+        "repo": "https://github.com/sindresorhus/awesome#readme",
+        "brief": "Recursion illustrated."
+      },
+      {
+        "name": "Analytics",
+        "repo": "https://github.com/0xnr/awesome-analytics#readme",
+        "brief": ""
+      },
+      {
+        "name": "REST",
+        "repo": "https://github.com/marmelab/awesome-rest#readme",
+        "brief": ""
+      },
+      {
+        "name": "Continuous Integration and Continuous Delivery",
+        "repo": "https://github.com/cicdops/awesome-ciandcd#readme",
+        "brief": ""
+      },
+      {
+        "name": "Services Engineering",
+        "repo": "https://github.com/mmcgrana/services-engineering#readme",
+        "brief": ""
+      },
+      {
+        "name": "Free for Developers",
+        "repo": "https://github.com/ripienaar/free-for-dev#readme",
+        "brief": ""
+      },
+      {
+        "name": "Answers",
+        "repo": "https://github.com/cyberglot/awesome-answers#readme",
+        "brief": "Stack Overflow, Quora, etc."
+      },
+      {
+        "name": "Sketch",
+        "repo": "https://github.com/diessica/awesome-sketch#readme",
+        "brief": "Design app for macOS."
+      },
+      {
+        "name": "Boilerplate Projects",
+        "repo": "https://github.com/melvin0008/awesome-projects-boilerplates#readme",
+        "brief": ""
+      },
+      {
+        "name": "Readme",
+        "repo": "https://github.com/matiassingers/awesome-readme#readme",
+        "brief": ""
+      },
+      {
+        "name": "GitHub Wiki",
+        "repo": "https://github.com/MyHoneyBadger/awesome-github-wiki#readme",
+        "brief": "Comprehensive documentation on GitHub beyond README."
+      },
+      {
+        "name": "Design and Development Guides",
+        "repo": "https://github.com/NARKOZ/guides#readme",
+        "brief": ""
+      },
+      {
+        "name": "Software Engineering Blogs",
+        "repo": "https://github.com/kilimchoi/engineering-blogs#readme",
+        "brief": ""
+      },
+      {
+        "name": "Self Hosted",
+        "repo": "https://github.com/awesome-selfhosted/awesome-selfhosted#readme",
+        "brief": ""
+      },
+      {
+        "name": "FOSS Production Apps",
+        "repo": "https://github.com/DataDaoDe/awesome-foss-apps#readme",
+        "brief": ""
+      },
+      {
+        "name": "Gulp",
+        "repo": "https://github.com/alferov/awesome-gulp#readme",
+        "brief": "Task runner."
+      },
+      {
+        "name": "AMA",
+        "repo": "https://github.com/sindresorhus/amas#readme",
+        "brief": "Ask Me Anything."
+      },
+      {
+        "name": "AMA - Answers",
+        "repo": "https://github.com/stoeffel/awesome-ama-answers#readme",
+        "brief": ""
+      },
+      {
+        "name": "Open Source Photography",
+        "repo": "https://github.com/ibaaj/awesome-OpenSourcePhotography#readme",
+        "brief": ""
+      },
+      {
+        "name": "OpenGL",
+        "repo": "https://github.com/eug/awesome-opengl#readme",
+        "brief": "Cross-platform API for rendering 2D and 3D graphics."
+      },
+      {
+        "name": "GraphQL",
+        "repo": "https://github.com/chentsulin/awesome-graphql#readme",
+        "brief": ""
+      },
+      {
+        "name": "Urban & Regional Planning",
+        "repo": "https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme",
+        "brief": "Concerning the built environment and communities."
+      },
+      {
+        "name": "Transit",
+        "repo": "https://github.com/CUTR-at-USF/awesome-transit#readme",
+        "brief": ""
+      },
+      {
+        "name": "Research Tools",
+        "repo": "https://github.com/emptymalei/awesome-research#readme",
+        "brief": ""
+      },
+      {
+        "name": "Data Visualization",
+        "repo": "https://github.com/javierluraschi/awesome-dataviz#readme",
+        "brief": ""
+      },
+      {
+        "name": "Microservices",
+        "repo": "https://github.com/mfornos/awesome-microservices#readme",
+        "brief": ""
+      },
+      {
+        "name": "Unicode",
+        "repo": "https://github.com/jagracey/Awesome-Unicode#readme",
+        "brief": "Unicode standards, quirks, packages and resources."
+      },
+      {
+        "name": "Unicode - Code Points",
+        "repo": "https://github.com/Codepoints/awesome-codepoints#readme",
+        "brief": ""
+      },
+      {
+        "name": "Beginner-Friendly Projects",
+        "repo": "https://github.com/MunGell/awesome-for-beginners#readme",
+        "brief": ""
+      },
+      {
+        "name": "Katas",
+        "repo": "https://github.com/gamontal/awesome-katas#readme",
+        "brief": ""
+      },
+      {
+        "name": "Tools for Activism",
+        "repo": "https://github.com/drewrwilson/toolsforactivism#readme",
+        "brief": ""
+      },
+      {
+        "name": "Citizen Science",
+        "repo": "https://github.com/dylanrees/citizen-science#readme",
+        "brief": "For community-based and non-institutional scientists."
+      },
+      {
+        "name": "MQTT",
+        "repo": "https://github.com/hobbyquaker/awesome-mqtt#readme",
+        "brief": "\"Internet of Things\" connectivity protocol."
+      },
+      {
+        "name": "For Girls",
+        "repo": "https://github.com/cristianoliveira/awesome4girls#readme",
+        "brief": ""
+      },
+      {
+        "name": "Vorpal",
+        "repo": "https://github.com/vorpaljs/awesome-vorpal#readme",
+        "brief": "Node.js CLI framework."
+      },
+      {
+        "name": "Vulkan",
+        "repo": "https://github.com/vinjn/awesome-vulkan#readme",
+        "brief": "Low-overhead, cross-platform 3D graphics and compute API."
+      },
+      {
+        "name": "LaTeX",
+        "repo": "https://github.com/egeerardyn/awesome-LaTeX#readme",
+        "brief": "Typesetting language."
+      },
+      {
+        "name": "Economics",
+        "repo": "https://github.com/antontarasenko/awesome-economics#readme",
+        "brief": "An economist's starter kit."
+      },
+      {
+        "name": "Funny Markov Chains",
+        "repo": "https://github.com/sublimino/awesome-funny-markov#readme",
+        "brief": ""
+      },
+      {
+        "name": "Bioinformatics",
+        "repo": "https://github.com/danielecook/Awesome-Bioinformatics#readme",
+        "brief": ""
+      },
+      {
+        "name": "Cheminformatics",
+        "repo": "https://github.com/hsiaoyi0504/awesome-cheminformatics#readme",
+        "brief": "Informatics techniques applied to problems in chemistry."
+      },
+      {
+        "name": "Colorful",
+        "repo": "https://github.com/Siddharth11/Colorful#readme",
+        "brief": "Choose your next color scheme."
+      },
+      {
+        "name": "Steam",
+        "repo": "https://github.com/scholtzm/awesome-steam#readme",
+        "brief": "Digital distribution platform."
+      },
+      {
+        "name": "Bots",
+        "repo": "https://github.com/hackerkid/bots#readme",
+        "brief": "Building bots."
+      },
+      {
+        "name": "Site Reliability Engineering",
+        "repo": "https://github.com/dastergon/awesome-sre#readme",
+        "brief": ""
+      },
+      {
+        "name": "DTrace",
+        "repo": "https://github.com/xen0l/awesome-dtrace#readme",
+        "brief": "Dynamic tracing framework."
+      },
+      {
+        "name": "Userscripts",
+        "repo": "https://github.com/bvolpato/awesome-userscripts#readme",
+        "brief": "Enhance your browsing experience."
+      },
+      {
+        "name": "Pokémon",
+        "repo": "https://github.com/tobiasbueschel/awesome-pokemon#readme",
+        "brief": "Pokémon and Pokémon GO."
+      },
+      {
+        "name": "ChatOps",
+        "repo": "https://github.com/exAspArk/awesome-chatops#readme",
+        "brief": "Managing technical and business operations through a chat."
+      },
+      {
+        "name": "Falsehood",
+        "repo": "https://github.com/kdeldycke/awesome-falsehood#readme",
+        "brief": "Falsehoods programmers believe in."
+      },
+      {
+        "name": "Domain-Driven Design",
+        "repo": "https://github.com/heynickc/awesome-ddd#readme",
+        "brief": "Software development approach for complex needs by connecting the implementation to an evolving model."
+      },
+      {
+        "name": "Quantified Self",
+        "repo": "https://github.com/woop/awesome-quantified-self#readme",
+        "brief": "Self-tracking through technology."
+      },
+      {
+        "name": "SaltStack",
+        "repo": "https://github.com/hbokh/awesome-saltstack#readme",
+        "brief": "Python-based config management system."
+      },
+      {
+        "name": "Web Design",
+        "repo": "https://github.com/nicolesaidy/awesome-web-design#readme",
+        "brief": "For digital designers."
+      },
+      {
+        "name": "Creative Coding",
+        "repo": "https://github.com/terkelg/awesome-creative-coding#readme",
+        "brief": "Programming something expressive instead of something functional."
+      },
+      {
+        "name": "No-Login Web Apps",
+        "repo": "https://github.com/aviaryan/awesome-no-login-web-apps#readme",
+        "brief": "Web apps that work without login."
+      },
+      {
+        "name": "Free Software",
+        "repo": "https://github.com/johnjago/awesome-free-software#readme",
+        "brief": "Free as in freedom."
+      },
+      {
+        "name": "Framer",
+        "repo": "https://github.com/podo/awesome-framer#readme",
+        "brief": "Prototyping interactive UI designs."
+      },
+      {
+        "name": "Markdown",
+        "repo": "https://github.com/BubuAnabelas/awesome-markdown#readme",
+        "brief": "Markup language."
+      },
+      {
+        "name": "Dev Fun",
+        "repo": "https://github.com/mislavcimpersak/awesome-dev-fun#readme",
+        "brief": "Funny developer projects."
+      },
+      {
+        "name": "Magento 2",
+        "repo": "https://github.com/DavidLambauer/awesome-magento2#readme",
+        "brief": "Open Source eCommerce built with PHP."
+      },
+      {
+        "name": "TikZ",
+        "repo": "https://github.com/xiaohanyu/awesome-tikz#readme",
+        "brief": "Graph drawing packages for TeX/LaTeX/ConTeXt."
+      },
+      {
+        "name": "Ad-Free",
+        "repo": "https://github.com/johnjago/awesome-ad-free#readme",
+        "brief": "Ad-free alternatives."
+      },
+      {
+        "name": "Prometheus",
+        "repo": "https://github.com/roaldnefs/awesome-prometheus#readme",
+        "brief": "Open-source monitoring system."
+      },
+      {
+        "name": "Homematic",
+        "repo": "https://github.com/homematic-community/awesome-homematic#readme",
+        "brief": "Smart home devices."
+      },
+      {
+        "name": "Ledger",
+        "repo": "https://github.com/sfischer13/awesome-ledger#readme",
+        "brief": "Double-entry accounting on the command-line."
+      },
+      {
+        "name": "Web Monetization",
+        "repo": "https://github.com/thomasbnt/awesome-web-monetization#readme",
+        "brief": "A free open web standard service that allows you to send money directly in your browser."
+      },
+      {
+        "name": "Uncopyright",
+        "repo": "https://github.com/johnjago/awesome-uncopyright#readme",
+        "brief": "Public domain works."
+      },
+      {
+        "name": "Crypto Currency Tools & Algorithms",
+        "repo": "https://github.com/Zheaoli/awesome-coins#readme",
+        "brief": "Digital currency where encryption is used to regulate the generation of units and verify transfers."
+      },
+      {
+        "name": "Open Source Supporters",
+        "repo": "https://github.com/zachflower/awesome-open-source-supporters#readme",
+        "brief": "Companies that offer their tools and services for free to open source projects."
+      },
+      {
+        "name": "Design Principles",
+        "repo": "https://github.com/robinstickel/awesome-design-principles#readme",
+        "brief": "Create better and more consistent designs and experiences."
+      },
+      {
+        "name": "Theravada",
+        "repo": "https://github.com/johnjago/awesome-theravada#readme",
+        "brief": "Teachings from the Theravada Buddhist tradition."
+      },
+      {
+        "name": "inspectIT",
+        "repo": "https://github.com/inspectit-labs/awesome-inspectit#readme",
+        "brief": "Open source Java app performance management tool."
+      },
+      {
+        "name": "Open Source Maintainers",
+        "repo": "https://github.com/nayafia/awesome-maintainers#readme",
+        "brief": "The experience of being an open source maintainer."
+      },
+      {
+        "name": "Calculators",
+        "repo": "https://github.com/xxczaki/awesome-calculators#readme",
+        "brief": "Calculators for every platform."
+      },
+      {
+        "name": "Captcha",
+        "repo": "https://github.com/ZYSzys/awesome-captcha#readme",
+        "brief": "A type of challenge–response test used in computing to determine whether or not the user is human."
+      },
+      {
+        "name": "Jupyter",
+        "repo": "https://github.com/markusschanta/awesome-jupyter#readme",
+        "brief": "Create and share documents that contain code, equations, visualizations and narrative text."
+      },
+      {
+        "name": "FIRST Robotics Competition",
+        "repo": "https://github.com/andrewda/awesome-frc#readme",
+        "brief": "International high school robotics championship."
+      },
+      {
+        "name": "Speakers",
+        "repo": "https://github.com/karlhorky/awesome-speakers#readme",
+        "brief": "Conference and meetup speakers in the programming and design community."
+      },
+      {
+        "name": "Board Games",
+        "repo": "https://github.com/edm00se/awesome-board-games#readme",
+        "brief": "Table-top gaming fun for all."
+      },
+      {
+        "name": "Software Patreons",
+        "repo": "https://github.com/uraimo/awesome-software-patreons#readme",
+        "brief": "Fund individual programmers or the development of open source projects."
+      },
+      {
+        "name": "Parasite",
+        "repo": "https://github.com/ecohealthalliance/awesome-parasite#readme",
+        "brief": "Parasites and host-pathogen interactions."
+      },
+      {
+        "name": "Food",
+        "repo": "https://github.com/jzarca01/awesome-food#readme",
+        "brief": "Food-related projects on GitHub."
+      },
+      {
+        "name": "Bitcoin Payment Processors",
+        "repo": "https://github.com/alexk111/awesome-bitcoin-payment-processors#readme",
+        "brief": "Start accepting Bitcoin."
+      },
+      {
+        "name": "Scientific Computing",
+        "repo": "https://github.com/nschloe/awesome-scientific-computing#readme",
+        "brief": "Solving complex scientific problems using computers."
+      },
+      {
+        "name": "Amazon Sellers",
+        "repo": "https://github.com/ScaleLeap/awesome-amazon-seller#readme",
+        "brief": ""
+      },
+      {
+        "name": "Agriculture",
+        "repo": "https://github.com/brycejohnston/awesome-agriculture#readme",
+        "brief": "Open source technology for farming and gardening."
+      },
+      {
+        "name": "Product Design",
+        "repo": "https://github.com/ttt30ga/awesome-product-design#readme",
+        "brief": "Design a product from the initial concept to production."
+      },
+      {
+        "name": "Prisma",
+        "repo": "https://github.com/catalinmiron/awesome-prisma#readme",
+        "brief": "Turn your database into a GraphQL API."
+      },
+      {
+        "name": "Software Architecture",
+        "repo": "https://github.com/simskij/awesome-software-architecture#readme",
+        "brief": "The discipline of designing and building software."
+      },
+      {
+        "name": "Connectivity Data and Reports",
+        "repo": "https://github.com/stevesong/awesome-connectivity-info#readme",
+        "brief": "Better understand who has access to telecommunication and internet infrastructure and on what terms."
+      },
+      {
+        "name": "Stacks",
+        "repo": "https://github.com/stackshareio/awesome-stacks#readme",
+        "brief": "Tech stacks for building different apps and features."
+      },
+      {
+        "name": "Cytodata",
+        "repo": "https://github.com/cytodata/awesome-cytodata#readme",
+        "brief": "Image-based profiling of biological phenotypes for computational biologists."
+      },
+      {
+        "name": "IRC",
+        "repo": "https://github.com/davisonio/awesome-irc#readme",
+        "brief": "Open source messaging protocol."
+      },
+      {
+        "name": "Advertising",
+        "repo": "https://github.com/cenoura/awesome-ads#readme",
+        "brief": "Advertising and programmatic media for websites."
+      },
+      {
+        "name": "Earth",
+        "repo": "https://github.com/philsturgeon/awesome-earth#readme",
+        "brief": "Find ways to resolve the climate crisis."
+      },
+      {
+        "name": "Naming",
+        "repo": "https://github.com/gruhn/awesome-naming#readme",
+        "brief": "Naming things in computer science done right."
+      },
+      {
+        "name": "Web Archiving",
+        "repo": "https://github.com/iipc/awesome-web-archiving#readme",
+        "brief": "An effort to preserve the Web for future generations."
+      },
+      {
+        "name": "WP-CLI",
+        "repo": "https://github.com/schlessera/awesome-wp-cli#readme",
+        "brief": "Command-line interface for WordPress."
+      },
+      {
+        "name": "Credit Modeling",
+        "repo": "https://github.com/mourarthur/awesome-credit-modeling#readme",
+        "brief": "Methods for classifying credit applicants into risk classes."
+      },
+      {
+        "name": "Ansible",
+        "repo": "https://github.com/ansible-community/awesome-ansible#readme",
+        "brief": "A Python-based, open-source IT configuration management and automation platform."
+      },
+      {
+        "name": "Biological Visualizations",
+        "repo": "https://github.com/keller-mark/awesome-biological-visualizations#readme",
+        "brief": "Interactive visualization of biological data on the web."
+      },
+      {
+        "name": "QR Code",
+        "repo": "https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme",
+        "brief": "A type of matrix barcode that can be used to store and share a small amount of information."
+      },
+      {
+        "name": "Veganism",
+        "repo": "https://github.com/sdassow/awesome-veganism#readme",
+        "brief": "Making the plant-based lifestyle easy and accessible."
+      },
+      {
+        "name": "Translations",
+        "repo": "https://github.com/mbiesiad/awesome-translations#readme",
+        "brief": "The transfer of the meaning of a text from one language to another."
+      },
+      {
+        "name": "Scriptable",
+        "repo": "https://github.com/dersvenhesse/awesome-scriptable#readme",
+        "brief": "An iOS app for automation in JavaScript."
+      },
+      {
+        "name": "WebXR",
+        "repo": "https://github.com/msub2/awesome-webxr#readme",
+        "brief": "Enables immersive virtual reality and augmented reality content on the web."
+      },
+      {
+        "name": "Computational Geometry",
+        "repo": "https://github.com/atkirtland/awesome-computational-geometry#readme",
+        "brief": "Computational approaches for problems in geometry."
+      },
+      {
+        "name": "OpenStreetMap",
+        "repo": "https://github.com/osmlab/awesome-openstreetmap#readme",
+        "brief": "An open data mapping project utilized by many apps and devices."
+      },
+      {
+        "name": "Computational Biology",
+        "repo": "https://github.com/inoue0426/awesome-computational-biology#readme",
+        "brief": "Computational approaches applied to problems in biology."
+      },
+      {
+        "name": "Read the Docs",
+        "repo": "https://github.com/readthedocs-examples/awesome-read-the-docs#readme",
+        "brief": "Example documentation projects to inspire and help bootstrap new documentation projects."
+      },
+      {
+        "name": "Quarto",
+        "repo": "https://github.com/mcanouil/awesome-quarto#readme",
+        "brief": "Scientific and technical open-source publishing system built on Pandoc."
+      },
+      {
+        "name": "Biological Image Analysis",
+        "repo": "https://github.com/hallvaaw/awesome-biological-image-analysis#readme",
+        "brief": "Interpreting biological phenomena using images."
+      },
+      {
+        "name": "ChatGPT",
+        "repo": "https://github.com/sindresorhus/awesome-chatgpt#readme",
+        "brief": "Artificial intelligence chatbot developed by OpenAI."
+      },
+      {
+        "name": "Whisper",
+        "repo": "https://github.com/sindresorhus/awesome-whisper#readme",
+        "brief": "Open-source AI-powered speech recognition system developed by OpenAI."
+      },
+      {
+        "name": "Stock Trading",
+        "repo": "https://github.com/shi-rudo/awesome-stock-trading#readme",
+        "brief": "Purchase and sale of equities of publicly traded companies to generate profits."
+      },
+      {
+        "name": "Steam Deck",
+        "repo": "https://github.com/airscripts/awesome-steam-deck#readme",
+        "brief": "A handheld gaming computer developed by Valve."
+      },
+      {
+        "name": "Astrophotography",
+        "repo": "https://github.com/lunohodov/awesome-astrophotography#readme",
+        "brief": "Photography of astronomical objects, celestial events, or areas of the night sky."
+      },
+      {
+        "name": "HPC",
+        "repo": "https://github.com/dstdev/awesome-hpc#readme",
+        "brief": "High Performance Computing."
+      },
+      {
+        "name": "Geocaching",
+        "repo": "https://github.com/FoxFil/awesome-geocaching#readme",
+        "brief": "Outdoor treasure-hunting activity that uses GPS-enabled devices."
+      },
+      {
+        "name": "Regex",
+        "repo": "https://github.com/slevithan/awesome-regex#readme",
+        "brief": "Specialized language for matching patterns in text."
+      },
+      {
+        "name": "Event-Driven Architecture",
+        "repo": "https://github.com/lutzh/awesome-event-driven-architecture#readme",
+        "brief": "A software architecture approach where services collaborate by publishing and subscribing to events."
+      },
+      {
+        "name": "Permacomputing",
+        "repo": "https://github.com/idematos/awesome-permacomputing#readme",
+        "brief": "Resilient and regenerative computing practices inspired by permaculture."
+      },
+      {
+        "name": "Standards",
+        "repo": "https://github.com/donBarbos/awesome-standards#readme",
+        "brief": "Standards and proposals that define and enhance software, languages, and related technologies."
+      },
+      {
+        "name": "Claude Code",
+        "repo": "https://github.com/hesreallyhim/awesome-claude-code#readme",
+        "brief": "Terminal-based AI coding assistant by Anthropic."
+      }
+    ]
+  },
+  {
+    "name": "Related",
+    "sub_categories": [
+      {
+        "name": "All Awesome Lists",
+        "repo": "https://github.com/topics/awesome",
+        "brief": "All the Awesome lists on GitHub."
+      },
+      {
+        "name": "Awesome Search",
+        "repo": "https://awesomelists.top",
+        "brief": "Quick search for Awesome lists."
+      },
+      {
+        "name": "StumbleUponAwesome",
+        "repo": "https://github.com/basharovV/StumbleUponAwesome",
+        "brief": "Discover random pages from the Awesome dataset using a browser extension."
+      },
+      {
+        "name": "Awesome CLI",
+        "repo": "https://github.com/umutphp/awesome-cli",
+        "brief": "A simple command-line tool to dive into Awesome lists."
+      },
+      {
+        "name": "Awesome Viewer",
+        "repo": "https://awesome.digitalbunker.dev",
+        "brief": "A visualizer for all of the above Awesome lists."
+      },
+      {
+        "name": "Track Awesome List",
+        "repo": "https://www.trackawesomelist.com",
+        "brief": "View the latest updates of Awesome lists."
+      }
+    ]
+  }
+]

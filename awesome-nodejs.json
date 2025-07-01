@@ -1,0 +1,3040 @@
+[
+  {
+    "name": "Mad science",
+    "sub_categories": [
+      {
+        "name": "webtorrent",
+        "repo": "https://github.com/webtorrent/webtorrent",
+        "brief": "Streaming torrent client for Node.js and the browser."
+      },
+      {
+        "name": "peerflix",
+        "repo": "https://github.com/mafintosh/peerflix",
+        "brief": "Streaming torrent client."
+      },
+      {
+        "name": "ipfs",
+        "repo": "https://github.com/ipfs/helia",
+        "brief": "Distributed file system that seeks to connect all computing devices with the same system of files."
+      },
+      {
+        "name": "stackgl",
+        "repo": "https://github.com/stackgl",
+        "brief": "Open software ecosystem for WebGL, built on top of browserify and npm."
+      },
+      {
+        "name": "peerwiki",
+        "repo": "https://github.com/mafintosh/peerwiki",
+        "brief": "All of Wikipedia on BitTorrent."
+      },
+      {
+        "name": "peercast",
+        "repo": "https://github.com/mafintosh/peercast",
+        "brief": "Stream a torrent video to Chromecast."
+      },
+      {
+        "name": "BitcoinJS",
+        "repo": "https://github.com/bitcoinjs/bitcoinjs-lib",
+        "brief": "Clean, readable, proven Bitcoin library."
+      },
+      {
+        "name": "Bitcore",
+        "repo": "https://github.com/bitpay/bitcore",
+        "brief": "Pure and powerful Bitcoin library."
+      },
+      {
+        "name": "PDFKit",
+        "repo": "https://github.com/foliojs/pdfkit",
+        "brief": "PDF generation library."
+      },
+      {
+        "name": "turf",
+        "repo": "https://github.com/Turfjs/turf",
+        "brief": "Modular geospatial processing and analysis engine."
+      },
+      {
+        "name": "webcat",
+        "repo": "https://github.com/mafintosh/webcat",
+        "brief": "p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication."
+      },
+      {
+        "name": "NodeOS",
+        "repo": "https://github.com/NodeOS/NodeOS",
+        "brief": "The first operating system powered by npm."
+      },
+      {
+        "name": "YodaOS",
+        "repo": "https://github.com/yodaos-project/yodaos",
+        "brief": "AI operating system."
+      },
+      {
+        "name": "Brain.js",
+        "repo": "https://github.com/BrainJS/brain.js",
+        "brief": "Machine-learning framework."
+      },
+      {
+        "name": "Pipcook",
+        "repo": "https://github.com/alibaba/pipcook",
+        "brief": "Front-end algorithm framework to create a machine learning pipeline."
+      },
+      {
+        "name": "Cytoscape.js",
+        "repo": "https://github.com/cytoscape/cytoscape.js",
+        "brief": "Graph theory (a.k.a. network) modeling and analysis."
+      },
+      {
+        "name": "js-git",
+        "repo": "https://github.com/creationix/js-git",
+        "brief": "JavaScript implementation of Git."
+      },
+      {
+        "name": "xlsx",
+        "repo": "https://github.com/SheetJS/sheetjs",
+        "brief": "Pure JS Excel spreadsheet reader and writer."
+      },
+      {
+        "name": "isomorphic-git",
+        "repo": "https://github.com/isomorphic-git/isomorphic-git",
+        "brief": "Pure JavaScript implementation of Git."
+      }
+    ]
+  },
+  {
+    "name": "Command-line apps",
+    "sub_categories": [
+      {
+        "name": "np",
+        "repo": "https://github.com/sindresorhus/np",
+        "brief": "Better `npm publish`."
+      },
+      {
+        "name": "npm-name",
+        "repo": "https://github.com/sindresorhus/npm-name",
+        "brief": "Check a package name's availability on npm."
+      },
+      {
+        "name": "gh-home",
+        "repo": "https://github.com/sindresorhus/gh-home",
+        "brief": "Open the GitHub page of the repo in the current directory."
+      },
+      {
+        "name": "npm-home",
+        "repo": "https://github.com/sindresorhus/npm-home",
+        "brief": "Open the npm page of a package."
+      },
+      {
+        "name": "trash",
+        "repo": "https://github.com/sindresorhus/trash",
+        "brief": "Safer alternative to `rm`."
+      },
+      {
+        "name": "speed-test",
+        "repo": "https://github.com/sindresorhus/speed-test",
+        "brief": "Test your internet connection speed and ping."
+      },
+      {
+        "name": "pageres",
+        "repo": "https://github.com/sindresorhus/pageres",
+        "brief": "Capture website screenshots."
+      },
+      {
+        "name": "cpy",
+        "repo": "https://github.com/sindresorhus/cpy",
+        "brief": "Copy files."
+      },
+      {
+        "name": "vtop",
+        "repo": "https://github.com/MrRio/vtop",
+        "brief": "More better top, with nice charts."
+      },
+      {
+        "name": "empty-trash",
+        "repo": "https://github.com/sindresorhus/empty-trash",
+        "brief": "Empty the trash."
+      },
+      {
+        "name": "is-up",
+        "repo": "https://github.com/sindresorhus/is-up",
+        "brief": "Check whether a website is up or down."
+      },
+      {
+        "name": "is-online",
+        "repo": "https://github.com/sindresorhus/is-online",
+        "brief": "Check if the internet connection is up."
+      },
+      {
+        "name": "public-ip",
+        "repo": "https://github.com/sindresorhus/public-ip",
+        "brief": "Get your public IP address."
+      },
+      {
+        "name": "clipboard-cli",
+        "repo": "https://github.com/sindresorhus/clipboard-cli",
+        "brief": "Copy & paste on the terminal."
+      },
+      {
+        "name": "XO",
+        "repo": "https://github.com/xojs/xo",
+        "brief": "Enforce strict code style using the JavaScript happiness style."
+      },
+      {
+        "name": "ESLint",
+        "repo": "https://github.com/eslint/eslint",
+        "brief": "The pluggable linting utility for JavaScript."
+      },
+      {
+        "name": "David",
+        "repo": "https://github.com/alanshaw/david",
+        "brief": "Tells you when your package npm dependencies are out of date."
+      },
+      {
+        "name": "http-server",
+        "repo": "https://github.com/http-party/http-server",
+        "brief": "Simple, zero-config command-line HTTP server."
+      },
+      {
+        "name": "Live Server",
+        "repo": "https://github.com/tapio/live-server",
+        "brief": "Development HTTP-server with livereload capability."
+      },
+      {
+        "name": "bcat",
+        "repo": "https://github.com/kessler/node-bcat",
+        "brief": "Pipe command output to web browsers."
+      },
+      {
+        "name": "normit",
+        "repo": "https://github.com/pawurb/normit",
+        "brief": "Google Translate with speech synthesis in your terminal."
+      },
+      {
+        "name": "fkill",
+        "repo": "https://github.com/sindresorhus/fkill-cli",
+        "brief": "Fabulously kill processes. Cross-platform."
+      },
+      {
+        "name": "pjs",
+        "repo": "https://github.com/danielstjules/pjs",
+        "brief": "Pipeable JavaScript. Quickly filter, map, and reduce from the terminal."
+      },
+      {
+        "name": "license-checker",
+        "repo": "https://github.com/davglass/license-checker",
+        "brief": "Check licenses of your app's dependencies."
+      },
+      {
+        "name": "browser-run",
+        "repo": "https://github.com/juliangruber/browser-run",
+        "brief": "Easily run code in a browser environment."
+      },
+      {
+        "name": "tmpin",
+        "repo": "https://github.com/sindresorhus/tmpin",
+        "brief": "Adds stdin support to any CLI app that accepts file input."
+      },
+      {
+        "name": "wallpaper",
+        "repo": "https://github.com/sindresorhus/wallpaper",
+        "brief": "Change the desktop wallpaper."
+      },
+      {
+        "name": "pen",
+        "repo": "https://github.com/hatashiro/pen",
+        "brief": "Live Markdown preview in the browser from your favorite editor."
+      },
+      {
+        "name": "dark-mode",
+        "repo": "https://github.com/sindresorhus/dark-mode",
+        "brief": "Toggle the macOS Dark Mode."
+      },
+      {
+        "name": "Jsome",
+        "repo": "https://github.com/Javascipt/Jsome",
+        "brief": "Pretty prints JSON with configurable colors and indentation."
+      },
+      {
+        "name": "mobicon",
+        "repo": "https://github.com/samverschueren/mobicon-cli",
+        "brief": "Mobile app icon generator."
+      },
+      {
+        "name": "mobisplash",
+        "repo": "https://github.com/samverschueren/mobisplash-cli",
+        "brief": "Mobile app splash screen generator."
+      },
+      {
+        "name": "diff2html-cli",
+        "repo": "https://github.com/rtfpessoa/diff2html-cli",
+        "brief": "Pretty git diff to HTML generator."
+      },
+      {
+        "name": "trymodule",
+        "repo": "https://github.com/victorb/trymodule",
+        "brief": "Try out npm packages in the terminal."
+      },
+      {
+        "name": "jscpd",
+        "repo": "https://github.com/kucherenko/jscpd",
+        "brief": "Copy/paste detector for source code."
+      },
+      {
+        "name": "atmo",
+        "repo": "https://github.com/Raathigesh/Atmo",
+        "brief": "Server-side API mocking."
+      },
+      {
+        "name": "auto-install",
+        "repo": "https://github.com/siddharthkp/auto-install",
+        "brief": "Auto installs dependencies as you code."
+      },
+      {
+        "name": "lessmd",
+        "repo": "https://github.com/linuxenko/lessmd",
+        "brief": "Markdown in the terminal."
+      },
+      {
+        "name": "cost-of-modules",
+        "repo": "https://github.com/siddharthkp/cost-of-modules",
+        "brief": "Find out which dependencies are slowing you down."
+      },
+      {
+        "name": "localtunnel",
+        "repo": "https://github.com/localtunnel/localtunnel",
+        "brief": "Expose your localhost to the world."
+      },
+      {
+        "name": "svg-term-cli",
+        "repo": "https://github.com/marionebl/svg-term-cli",
+        "brief": "Share terminal sessions via SVG."
+      },
+      {
+        "name": "gtop",
+        "repo": "https://github.com/aksakalli/gtop",
+        "brief": "System monitoring dashboard for the terminal."
+      },
+      {
+        "name": "themer",
+        "repo": "https://github.com/themerdev/themer",
+        "brief": "Generate themes for your editor, terminal, wallpaper, Slack, and more."
+      },
+      {
+        "name": "carbon-now-cli",
+        "repo": "https://github.com/mixn/carbon-now-cli",
+        "brief": "Beautiful images of your code — from right inside your terminal."
+      },
+      {
+        "name": "cash-cli",
+        "repo": "https://github.com/xxczaki/cash-cli",
+        "brief": "Convert between 170 currencies."
+      },
+      {
+        "name": "taskbook",
+        "repo": "https://github.com/klaussinani/taskbook",
+        "brief": "Tasks, boards & notes for the command-line habitat."
+      },
+      {
+        "name": "discharge",
+        "repo": "https://github.com/brandonweiss/discharge",
+        "brief": "Easily deploy static websites to Amazon S3."
+      },
+      {
+        "name": "npkill",
+        "repo": "https://github.com/voidcosmos/npkill",
+        "brief": "Easily find and remove old and heavy node_modules folders."
+      }
+    ]
+  },
+  {
+    "name": "Functional programming",
+    "sub_categories": [
+      {
+        "name": "lodash",
+        "repo": "https://github.com/lodash/lodash",
+        "brief": "Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js."
+      },
+      {
+        "name": "immutable",
+        "repo": "https://github.com/immutable-js/immutable-js",
+        "brief": "Immutable data collections."
+      },
+      {
+        "name": "Ramda",
+        "repo": "https://github.com/ramda/ramda",
+        "brief": "Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data."
+      },
+      {
+        "name": "Mout",
+        "repo": "https://github.com/mout/mout",
+        "brief": "Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead."
+      },
+      {
+        "name": "RxJS",
+        "repo": "https://github.com/reactivex/rxjs",
+        "brief": "Functional reactive library for transforming, composing, and querying various kinds of data."
+      },
+      {
+        "name": "Kefir.js",
+        "repo": "https://github.com/kefirjs/kefir",
+        "brief": "Reactive library with focus on high performance and low memory usage."
+      }
+    ]
+  },
+  {
+    "name": "HTTP",
+    "sub_categories": [
+      {
+        "name": "got",
+        "repo": "https://github.com/sindresorhus/got",
+        "brief": "Nicer interface to the built-in `http` module."
+      },
+      {
+        "name": "undici",
+        "repo": "https://github.com/nodejs/undici",
+        "brief": "High performance HTTP client written from scratch with zero dependencies."
+      },
+      {
+        "name": "ky-universal",
+        "repo": "https://github.com/sindresorhus/ky-universal",
+        "brief": "Universal HTTP client based on Fetch."
+      },
+      {
+        "name": "node-fetch",
+        "repo": "https://github.com/node-fetch/node-fetch",
+        "brief": "`window.fetch` for Node.js."
+      },
+      {
+        "name": "axios",
+        "repo": "https://github.com/axios/axios",
+        "brief": "Promise based HTTP client (works in the browser too)."
+      },
+      {
+        "name": "superagent",
+        "repo": "https://github.com/visionmedia/superagent",
+        "brief": "HTTP request library."
+      },
+      {
+        "name": "http-fake-backend",
+        "repo": "https://github.com/micromata/http-fake-backend",
+        "brief": "Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes."
+      },
+      {
+        "name": "cacheable-request",
+        "repo": "https://github.com/lukechilds/cacheable-request",
+        "brief": "Wrap native HTTP requests with RFC compliant cache support."
+      },
+      {
+        "name": "gotql",
+        "repo": "https://github.com/khaosdoctor/gotql",
+        "brief": "GraphQL request library built on [got](https://github.com/sindresorhus/got)."
+      },
+      {
+        "name": "global-agent",
+        "repo": "https://github.com/gajus/global-agent",
+        "brief": "Global HTTP/HTTPS proxy agent that is configurable using environment variables."
+      },
+      {
+        "name": "smoke",
+        "repo": "https://github.com/sinedied/smoke",
+        "brief": "File-based HTTP mock server with recording abilities."
+      },
+      {
+        "name": "purest",
+        "repo": "https://github.com/simov/purest",
+        "brief": "REST client."
+      }
+    ]
+  },
+  {
+    "name": "Debugging / Profiling",
+    "sub_categories": [
+      {
+        "name": "debug",
+        "repo": "https://github.com/debug-js/debug",
+        "brief": "Tiny debugging utility."
+      },
+      {
+        "name": "why-is-node-running",
+        "repo": "https://github.com/mafintosh/why-is-node-running",
+        "brief": "Node.js is running but you don't know why?"
+      },
+      {
+        "name": "njsTrace",
+        "repo": "https://github.com/valyouw/njstrace",
+        "brief": "Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function."
+      },
+      {
+        "name": "vstream",
+        "repo": "https://github.com/joyent/node-vstream",
+        "brief": "Instrumentable streams mix-ins to inspect a pipeline of streams."
+      },
+      {
+        "name": "stackman",
+        "repo": "https://github.com/watson/stackman",
+        "brief": "Enhance an error stacktrace with code excerpts and other goodies."
+      },
+      {
+        "name": "locus",
+        "repo": "https://github.com/alidavut/locus",
+        "brief": "Starts a REPL at runtime that has access to all variables."
+      },
+      {
+        "name": "0x",
+        "repo": "https://github.com/davidmarkclements/0x",
+        "brief": "Flamegraph profiling."
+      },
+      {
+        "name": "ctrace",
+        "repo": "https://github.com/automation-stack/ctrace",
+        "brief": "Well-formatted and improved trace system calls and signals."
+      },
+      {
+        "name": "leakage",
+        "repo": "https://github.com/andywer/leakage",
+        "brief": "Write memory leak tests."
+      },
+      {
+        "name": "llnode",
+        "repo": "https://github.com/nodejs/llnode",
+        "brief": "Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process."
+      },
+      {
+        "name": "thetool",
+        "repo": "https://github.com/sfninja/thetool",
+        "brief": "Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format."
+      },
+      {
+        "name": "swagger-stats",
+        "repo": "https://github.com/slanatech/swagger-stats",
+        "brief": "Trace API calls and monitor API performance, health, and usage metrics."
+      },
+      {
+        "name": "NiM",
+        "repo": "https://github.com/june07/nim",
+        "brief": "Manages DevTools debugging workflow."
+      },
+      {
+        "name": "dats",
+        "repo": "https://github.com/immobiliare/dats",
+        "brief": "Minimalistic and zero-dependencies [StatsD](https://github.com/statsd/statsd) client."
+      }
+    ]
+  },
+  {
+    "name": "Logging",
+    "sub_categories": [
+      {
+        "name": "pino",
+        "repo": "https://github.com/pinojs/pino",
+        "brief": "Extremely fast logger inspired by Bunyan."
+      },
+      {
+        "name": "winston",
+        "repo": "https://github.com/winstonjs/winston",
+        "brief": "Multi-transport async logging library."
+      },
+      {
+        "name": "console-log-level",
+        "repo": "https://github.com/watson/console-log-level",
+        "brief": "The most simple logger imaginable with support for log levels and custom prefixes."
+      },
+      {
+        "name": "storyboard",
+        "repo": "https://github.com/guigrpa/storyboard",
+        "brief": "End-to-end, hierarchical, real-time, colorful logs and stories."
+      },
+      {
+        "name": "consola",
+        "repo": "https://github.com/unjs/consola",
+        "brief": "Console logger."
+      }
+    ]
+  },
+  {
+    "name": "Command-line utilities",
+    "sub_categories": [
+      {
+        "name": "chalk",
+        "repo": "https://github.com/chalk/chalk",
+        "brief": "Terminal string styling done right."
+      },
+      {
+        "name": "meow",
+        "repo": "https://github.com/sindresorhus/meow",
+        "brief": "CLI app helper."
+      },
+      {
+        "name": "yargs",
+        "repo": "https://github.com/yargs/yargs",
+        "brief": "Command-line parser that automatically generates an elegant user-interface."
+      },
+      {
+        "name": "ora",
+        "repo": "https://github.com/sindresorhus/ora",
+        "brief": "Elegant terminal spinner."
+      },
+      {
+        "name": "get-stdin",
+        "repo": "https://github.com/sindresorhus/get-stdin",
+        "brief": "Easier stdin."
+      },
+      {
+        "name": "log-update",
+        "repo": "https://github.com/sindresorhus/log-update",
+        "brief": "Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc."
+      },
+      {
+        "name": "Ink",
+        "repo": "https://github.com/vadimdemedes/ink",
+        "brief": "React for interactive command-line apps."
+      },
+      {
+        "name": "listr2",
+        "repo": "https://github.com/listr2/listr2",
+        "brief": "Terminal task list."
+      },
+      {
+        "name": "conf",
+        "repo": "https://github.com/sindresorhus/conf",
+        "brief": "Simple config handling for your app or module."
+      },
+      {
+        "name": "ansi-escapes",
+        "repo": "https://github.com/sindresorhus/ansi-escapes",
+        "brief": "ANSI escape codes for manipulating the terminal."
+      },
+      {
+        "name": "log-symbols",
+        "repo": "https://github.com/sindresorhus/log-symbols",
+        "brief": "Colored symbols for various log levels."
+      },
+      {
+        "name": "figures",
+        "repo": "https://github.com/sindresorhus/figures",
+        "brief": "Unicode symbols with Windows CMD fallbacks."
+      },
+      {
+        "name": "boxen",
+        "repo": "https://github.com/sindresorhus/boxen",
+        "brief": "Create boxes in the terminal."
+      },
+      {
+        "name": "terminal-link",
+        "repo": "https://github.com/sindresorhus/terminal-link",
+        "brief": "Create clickable links in the terminal."
+      },
+      {
+        "name": "terminal-image",
+        "repo": "https://github.com/sindresorhus/terminal-image",
+        "brief": "Display images in the terminal."
+      },
+      {
+        "name": "string-width",
+        "repo": "https://github.com/sindresorhus/string-width",
+        "brief": "Get the visual width of a string - the number of columns required to display it."
+      },
+      {
+        "name": "cli-truncate",
+        "repo": "https://github.com/sindresorhus/cli-truncate",
+        "brief": "Truncate a string to a specific width in the terminal."
+      },
+      {
+        "name": "blessed",
+        "repo": "https://github.com/chjj/blessed",
+        "brief": "Curses-like library."
+      },
+      {
+        "name": "Inquirer.js",
+        "repo": "https://github.com/SBoudrias/Inquirer.js",
+        "brief": "Interactive command-line prompt."
+      },
+      {
+        "name": "yn",
+        "repo": "https://github.com/sindresorhus/yn",
+        "brief": "Parse yes/no like values."
+      },
+      {
+        "name": "cli-table3",
+        "repo": "https://github.com/cli-table/cli-table3",
+        "brief": "Pretty unicode tables."
+      },
+      {
+        "name": "drawille",
+        "repo": "https://github.com/madbence/node-drawille",
+        "brief": "Draw on the terminal with unicode braille characters."
+      },
+      {
+        "name": "ascii-charts",
+        "repo": "https://github.com/jstrace/chart",
+        "brief": "ASCII bar chart in the terminal."
+      },
+      {
+        "name": "progress",
+        "repo": "https://github.com/visionmedia/node-progress",
+        "brief": "Flexible ascii progress bar."
+      },
+      {
+        "name": "insight",
+        "repo": "https://github.com/yeoman/insight",
+        "brief": "Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics."
+      },
+      {
+        "name": "cli-cursor",
+        "repo": "https://github.com/sindresorhus/cli-cursor",
+        "brief": "Toggle the CLI cursor."
+      },
+      {
+        "name": "cli-columns",
+        "repo": "https://github.com/shannonmoeller/cli-columns",
+        "brief": "Columnated unicode and ansi-safe text lists."
+      },
+      {
+        "name": "cfonts",
+        "repo": "https://github.com/dominikwilkowski/cfonts",
+        "brief": "Sexy ASCII fonts for the console."
+      },
+      {
+        "name": "multispinner",
+        "repo": "https://github.com/codekirei/node-multispinner",
+        "brief": "Multiple, simultaneous, individually controllable CLI spinners."
+      },
+      {
+        "name": "omelette",
+        "repo": "https://github.com/f/omelette",
+        "brief": "Shell autocompletion helper."
+      },
+      {
+        "name": "cross-env",
+        "repo": "https://github.com/kentcdodds/cross-env",
+        "brief": "Set environment variables cross-platform."
+      },
+      {
+        "name": "shelljs",
+        "repo": "https://github.com/shelljs/shelljs",
+        "brief": "Portable Unix shell commands."
+      },
+      {
+        "name": "sudo-block",
+        "repo": "https://github.com/sindresorhus/sudo-block",
+        "brief": "Block users from running your app with root permissions."
+      },
+      {
+        "name": "sparkly",
+        "repo": "https://github.com/sindresorhus/sparkly",
+        "brief": "Generate sparklines `▁▂▃▅▂▇`."
+      },
+      {
+        "name": "Bit",
+        "repo": "https://github.com/teambit/bit",
+        "brief": "Create, maintain, find and use small modules and components across repositories."
+      },
+      {
+        "name": "gradient-string",
+        "repo": "https://github.com/bokub/gradient-string",
+        "brief": "Beautiful color gradients in terminal output."
+      },
+      {
+        "name": "oclif",
+        "repo": "https://github.com/oclif/oclif",
+        "brief": "CLI framework complete with parser, automatic documentation, testing, and plugins."
+      },
+      {
+        "name": "terminal-size",
+        "repo": "https://github.com/sindresorhus/terminal-size",
+        "brief": "Reliably get the terminal window size."
+      },
+      {
+        "name": "Cliffy",
+        "repo": "https://github.com/drew-y/cliffy",
+        "brief": "Framework for interactive CLIs."
+      },
+      {
+        "name": "zx",
+        "repo": "https://github.com/google/zx",
+        "brief": "Write shell scripts JavaScript."
+      }
+    ]
+  },
+  {
+    "name": "Build tools",
+    "sub_categories": [
+      {
+        "name": "parcel",
+        "repo": "https://github.com/parcel-bundler/parcel",
+        "brief": "Blazing fast, zero config web app bundler."
+      },
+      {
+        "name": "webpack",
+        "repo": "https://github.com/webpack/webpack",
+        "brief": "Packs modules and assets for the browser."
+      },
+      {
+        "name": "rollup",
+        "repo": "https://github.com/rollup/rollup",
+        "brief": "Next-generation ES2015 module bundler."
+      },
+      {
+        "name": "gulp",
+        "repo": "https://github.com/gulpjs/gulp",
+        "brief": "Streaming and fast build system that favors code over config."
+      },
+      {
+        "name": "Broccoli",
+        "repo": "https://github.com/broccolijs/broccoli",
+        "brief": "Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions."
+      },
+      {
+        "name": "Brunch",
+        "repo": "https://github.com/brunch/brunch",
+        "brief": "Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow."
+      },
+      {
+        "name": "FuseBox",
+        "repo": "https://github.com/fuse-box/fuse-box",
+        "brief": "Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support."
+      },
+      {
+        "name": "pkg",
+        "repo": "https://github.com/vercel/pkg",
+        "brief": "Package your Node.js project into an executable."
+      },
+      {
+        "name": "Vite",
+        "repo": "https://github.com/vitejs/vite",
+        "brief": "Front-end build tool with hot module replacement and static asset bundling."
+      }
+    ]
+  },
+  {
+    "name": "Hardware",
+    "sub_categories": [
+      {
+        "name": "johnny-five",
+        "repo": "https://github.com/rwaldron/johnny-five",
+        "brief": "Firmata based Arduino Framework."
+      },
+      {
+        "name": "serialport",
+        "repo": "https://github.com/serialport/node-serialport",
+        "brief": "Access serial ports for reading and writing."
+      },
+      {
+        "name": "usb",
+        "repo": "https://github.com/node-usb/node-usb",
+        "brief": "USB library."
+      },
+      {
+        "name": "i2c-bus",
+        "repo": "https://github.com/fivdi/i2c-bus",
+        "brief": "I2C serial bus access."
+      },
+      {
+        "name": "onoff",
+        "repo": "https://github.com/fivdi/onoff",
+        "brief": "GPIO access and interrupt detection."
+      },
+      {
+        "name": "spi-device",
+        "repo": "https://github.com/fivdi/spi-device",
+        "brief": "SPI serial bus access."
+      },
+      {
+        "name": "pigpio",
+        "repo": "https://github.com/fivdi/pigpio",
+        "brief": "Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi."
+      },
+      {
+        "name": "gps",
+        "repo": "https://github.com/infusion/GPS.js",
+        "brief": "NMEA parser for handling GPS receivers."
+      },
+      {
+        "name": "modbus-serial",
+        "repo": "https://github.com/yaacov/node-modbus-serial",
+        "brief": "A pure JavaScript implementation of MODBUS-RTU (serial and TCP)."
+      }
+    ]
+  },
+  {
+    "name": "Templating",
+    "sub_categories": [
+      {
+        "name": "marko",
+        "repo": "https://github.com/marko-js/marko",
+        "brief": "HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags."
+      },
+      {
+        "name": "nunjucks",
+        "repo": "https://github.com/mozilla/nunjucks",
+        "brief": "Templating engine with inheritance, asynchronous control, and more (jinja2 inspired)."
+      },
+      {
+        "name": "handlebars.js",
+        "repo": "https://github.com/handlebars-lang/handlebars.js",
+        "brief": "Superset of Mustache templates which adds powerful features like helpers and more advanced blocks."
+      },
+      {
+        "name": "EJS",
+        "repo": "https://github.com/mde/ejs",
+        "brief": "Simple unopinionated templating language."
+      },
+      {
+        "name": "Pug",
+        "repo": "https://github.com/pugjs/pug",
+        "brief": "High-performance template engine heavily influenced by Haml."
+      }
+    ]
+  },
+  {
+    "name": "Web frameworks",
+    "sub_categories": [
+      {
+        "name": "Fastify",
+        "repo": "https://github.com/fastify/fastify",
+        "brief": "Fast and low overhead web framework."
+      },
+      {
+        "name": "Next.js",
+        "repo": "https://github.com/vercel/next.js",
+        "brief": "Minimalistic framework for server-rendered universal JavaScript web apps."
+      },
+      {
+        "name": "Nuxt.js",
+        "repo": "https://github.com/nuxt/nuxt.js",
+        "brief": "Minimalistic framework for server-rendered Vue.js apps."
+      },
+      {
+        "name": "Hapi",
+        "repo": "https://github.com/hapijs/hapi",
+        "brief": "Framework for building applications and services."
+      },
+      {
+        "name": "Micro",
+        "repo": "https://github.com/vercel/micro",
+        "brief": "Minimalistic microservice framework with an async approach."
+      },
+      {
+        "name": "Koa",
+        "repo": "https://github.com/koajs/koa",
+        "brief": "Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs."
+      },
+      {
+        "name": "Express",
+        "repo": "https://github.com/expressjs/express",
+        "brief": "Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications."
+      },
+      {
+        "name": "Feathers",
+        "repo": "https://github.com/feathersjs/feathers",
+        "brief": "Microservice framework built in the spirit of Express."
+      },
+      {
+        "name": "LoopBack",
+        "repo": "https://github.com/loopbackio/loopback-next",
+        "brief": "Powerful framework for creating REST APIs and easily connecting to backend data sources."
+      },
+      {
+        "name": "Meteor",
+        "repo": "https://github.com/meteor/meteor",
+        "brief": "An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*"
+      },
+      {
+        "name": "Restify",
+        "repo": "https://github.com/restify/node-restify",
+        "brief": "Enables you to build correct REST web services."
+      },
+      {
+        "name": "ThinkJS",
+        "repo": "https://github.com/thinkjs/thinkjs",
+        "brief": "Framework with ES2015+ support, WebSockets, REST API."
+      },
+      {
+        "name": "ActionHero",
+        "repo": "https://github.com/actionhero/actionhero",
+        "brief": "Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients."
+      },
+      {
+        "name": "seneca",
+        "repo": "https://github.com/senecajs/seneca",
+        "brief": "Toolkit for writing microservices."
+      },
+      {
+        "name": "AdonisJs",
+        "repo": "https://github.com/adonisjs/core",
+        "brief": "A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container."
+      },
+      {
+        "name": "Moleculer",
+        "repo": "https://github.com/moleculerjs/moleculer",
+        "brief": "Fast & powerful microservices framework."
+      },
+      {
+        "name": "Nest",
+        "repo": "https://github.com/nestjs/nest",
+        "brief": "Angular-inspired framework for building efficient and scalable server-side apps."
+      },
+      {
+        "name": "TypeGraphQL",
+        "repo": "https://github.com/MichalLytek/type-graphql",
+        "brief": "Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators."
+      },
+      {
+        "name": "Tinyhttp",
+        "repo": "https://github.com/tinyhttp/tinyhttp",
+        "brief": "Modern and fast Express-like web framework."
+      },
+      {
+        "name": "Marble.js",
+        "repo": "https://github.com/marblejs/marble",
+        "brief": "Functional reactive framework for building server-side apps, based on TypeScript and RxJS."
+      },
+      {
+        "name": "Lad",
+        "repo": "https://github.com/ladjs/lad",
+        "brief": "Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers."
+      },
+      {
+        "name": "Ts.ED",
+        "repo": "https://github.com/tsedio/tsed",
+        "brief": "Intuitive  TypeScript framework for building server-side apps on top of Express.js or Koa.js."
+      },
+      {
+        "name": "Hono",
+        "repo": "https://github.com/honojs/hono",
+        "brief": "Small and fast web framework."
+      }
+    ]
+  },
+  {
+    "name": "Documentation",
+    "sub_categories": [
+      {
+        "name": "documentation.js",
+        "repo": "https://github.com/documentationjs/documentation",
+        "brief": "API documentation generator with support for ES2015+ and flow annotation."
+      },
+      {
+        "name": "Docco",
+        "repo": "https://github.com/jashkenas/docco",
+        "brief": "Documentation generator which produces an HTML document that displays your comments intermingled with your code."
+      },
+      {
+        "name": "JSDoc",
+        "repo": "https://github.com/jsdoc/jsdoc",
+        "brief": "API documentation generator similar to JavaDoc or PHPDoc."
+      },
+      {
+        "name": "Docusaurus",
+        "repo": "https://github.com/facebook/docusaurus",
+        "brief": "Documentation website generator that leverages React and Markdown, and comes with translation and versioning features."
+      }
+    ]
+  },
+  {
+    "name": "Filesystem",
+    "sub_categories": [
+      {
+        "name": "del",
+        "repo": "https://github.com/sindresorhus/del",
+        "brief": "Delete files/folders using globs."
+      },
+      {
+        "name": "globby",
+        "repo": "https://github.com/sindresorhus/globby",
+        "brief": "Glob files with support for multiple patterns."
+      },
+      {
+        "name": "chokidar",
+        "repo": "https://github.com/paulmillr/chokidar",
+        "brief": "Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS."
+      },
+      {
+        "name": "find-up",
+        "repo": "https://github.com/sindresorhus/find-up",
+        "brief": "Find a file by walking up parent directories."
+      },
+      {
+        "name": "proper-lockfile",
+        "repo": "https://github.com/moxystudio/node-proper-lockfile",
+        "brief": "Inter-process and inter-machine lockfile utility."
+      },
+      {
+        "name": "load-json-file",
+        "repo": "https://github.com/sindresorhus/load-json-file",
+        "brief": "Read and parse a JSON file."
+      },
+      {
+        "name": "write-json-file",
+        "repo": "https://github.com/sindresorhus/write-json-file",
+        "brief": "Stringify and write JSON to a file atomically."
+      },
+      {
+        "name": "fs-write-stream-atomic",
+        "repo": "https://github.com/npm/fs-write-stream-atomic",
+        "brief": "Like `fs.createWriteStream()`, but atomic."
+      },
+      {
+        "name": "filenamify",
+        "repo": "https://github.com/sindresorhus/filenamify",
+        "brief": "Convert a string to a valid filename."
+      },
+      {
+        "name": "istextorbinary",
+        "repo": "https://github.com/bevry/istextorbinary",
+        "brief": "Check if a file is text or binary."
+      },
+      {
+        "name": "fs-jetpack",
+        "repo": "https://github.com/szwacz/fs-jetpack",
+        "brief": "Completely redesigned file system API for convenience in everyday use."
+      },
+      {
+        "name": "fs-extra",
+        "repo": "https://github.com/jprichardson/node-fs-extra",
+        "brief": "Extra methods for the `fs` module."
+      },
+      {
+        "name": "pkg-dir",
+        "repo": "https://github.com/sindresorhus/pkg-dir",
+        "brief": "Find the root directory of an npm package."
+      },
+      {
+        "name": "filehound",
+        "repo": "https://github.com/nspragg/filehound",
+        "brief": "Flexible and fluent interface for searching the file system."
+      },
+      {
+        "name": "move-file",
+        "repo": "https://github.com/sindresorhus/move-file",
+        "brief": "Move a file, even works across devices."
+      },
+      {
+        "name": "tempy",
+        "repo": "https://github.com/sindresorhus/tempy",
+        "brief": "Get a random temporary file or directory path."
+      }
+    ]
+  },
+  {
+    "name": "Control flow",
+    "sub_categories": []
+  },
+  {
+    "name": "Streams",
+    "sub_categories": [
+      {
+        "name": "get-stream",
+        "repo": "https://github.com/sindresorhus/get-stream",
+        "brief": "Get a stream as a string or buffer."
+      },
+      {
+        "name": "from2",
+        "repo": "https://github.com/hughsk/from2",
+        "brief": "Convenience wrapper for ReadableStream, inspired by `through2`."
+      },
+      {
+        "name": "into-stream",
+        "repo": "https://github.com/sindresorhus/into-stream",
+        "brief": "Convert a buffer/string/array/object into a stream."
+      },
+      {
+        "name": "duplexify",
+        "repo": "https://github.com/mafintosh/duplexify",
+        "brief": "Turn a writeable and readable stream into a single streams2 duplex stream."
+      },
+      {
+        "name": "pumpify",
+        "repo": "https://github.com/mafintosh/pumpify",
+        "brief": "Combine an array of streams into a single duplex stream."
+      },
+      {
+        "name": "peek-stream",
+        "repo": "https://github.com/mafintosh/peek-stream",
+        "brief": "Transform stream that lets you peek the first line before deciding how to parse it."
+      },
+      {
+        "name": "binary-split",
+        "repo": "https://github.com/maxogden/binary-split",
+        "brief": "Newline (or any delimiter) splitter stream."
+      },
+      {
+        "name": "byline",
+        "repo": "https://github.com/jahewson/node-byline",
+        "brief": "Super-simple line-by-line Stream reader."
+      },
+      {
+        "name": "first-chunk-stream",
+        "repo": "https://github.com/sindresorhus/first-chunk-stream",
+        "brief": "Transform the first chunk in a stream."
+      },
+      {
+        "name": "pad-stream",
+        "repo": "https://github.com/sindresorhus/pad-stream",
+        "brief": "Pad each line in a stream."
+      },
+      {
+        "name": "multistream",
+        "repo": "https://github.com/feross/multistream",
+        "brief": "Combine multiple streams into a single stream."
+      },
+      {
+        "name": "readable-stream",
+        "repo": "https://github.com/nodejs/readable-stream",
+        "brief": "Mirror of Streams2 and Streams3 implementations in core."
+      },
+      {
+        "name": "through2-concurrent",
+        "repo": "https://github.com/almost/through2-concurrent",
+        "brief": "Transform object streams concurrently."
+      }
+    ]
+  },
+  {
+    "name": "Real-time",
+    "sub_categories": [
+      {
+        "name": "µWebSockets",
+        "repo": "https://github.com/uNetworking/uWebSockets",
+        "brief": "Highly scalable WebSocket server & client library."
+      },
+      {
+        "name": "Socket.io",
+        "repo": "https://github.com/socketio/socket.io",
+        "brief": "Enables real-time bidirectional event-based communication."
+      },
+      {
+        "name": "Faye",
+        "repo": "https://github.com/faye/faye",
+        "brief": "Real-time client-server message bus, based on Bayeux protocol."
+      },
+      {
+        "name": "SocketCluster",
+        "repo": "https://github.com/SocketCluster/socketcluster",
+        "brief": "Scalable HTTP + WebSocket engine which can run on multiple CPU cores."
+      },
+      {
+        "name": "Primus",
+        "repo": "https://github.com/primus/primus",
+        "brief": "An abstraction layer for real-time frameworks to prevent module lock-in."
+      },
+      {
+        "name": "deepstream.io",
+        "repo": "https://github.com/deepstreamIO/deepstream.io-client-js",
+        "brief": "Scalable real-time microservice framework."
+      },
+      {
+        "name": "Kalm",
+        "repo": "https://github.com/kalm/kalm.js",
+        "brief": "Low-level socket router and middleware framework."
+      },
+      {
+        "name": "MQTT.js",
+        "repo": "https://github.com/mqttjs/MQTT.js",
+        "brief": "Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP."
+      },
+      {
+        "name": "rpc-websockets",
+        "repo": "https://github.com/elpheria/rpc-websockets",
+        "brief": "JSON-RPC 2.0 implementation over WebSockets."
+      },
+      {
+        "name": "Aedes",
+        "repo": "https://github.com/moscajs/aedes",
+        "brief": "Barebone MQTT server that can run on any stream server."
+      }
+    ]
+  },
+  {
+    "name": "Image",
+    "sub_categories": [
+      {
+        "name": "sharp",
+        "repo": "https://github.com/lovell/sharp",
+        "brief": "The fastest module for resizing JPEG, PNG, WebP and TIFF images."
+      },
+      {
+        "name": "image-type",
+        "repo": "https://github.com/sindresorhus/image-type",
+        "brief": "Detect the type of an image."
+      },
+      {
+        "name": "image-dimensions",
+        "repo": "https://github.com/sindresorhus/image-dimensions",
+        "brief": "Get the dimensions of an image."
+      },
+      {
+        "name": "lwip",
+        "repo": "https://github.com/EyalAr/lwip",
+        "brief": "Lightweight image processor which does not require ImageMagick."
+      },
+      {
+        "name": "pica",
+        "repo": "https://github.com/nodeca/pica",
+        "brief": "High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed."
+      },
+      {
+        "name": "jimp",
+        "repo": "https://github.com/oliver-moran/jimp",
+        "brief": "Image processing in pure JavaScript."
+      },
+      {
+        "name": "qrcode",
+        "repo": "https://github.com/soldair/node-qrcode",
+        "brief": "QR code and bar code generator."
+      },
+      {
+        "name": "ImageScript",
+        "repo": "https://github.com/matmen/ImageScript",
+        "brief": "Image processing in JavaScript, utilizing WebAssembly for performance."
+      }
+    ]
+  },
+  {
+    "name": "Text",
+    "sub_categories": [
+      {
+        "name": "iconv-lite",
+        "repo": "https://github.com/ashtuchkin/iconv-lite",
+        "brief": "Convert character encodings."
+      },
+      {
+        "name": "string-length",
+        "repo": "https://github.com/sindresorhus/string-length",
+        "brief": "Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes."
+      },
+      {
+        "name": "camelcase",
+        "repo": "https://github.com/sindresorhus/camelcase",
+        "brief": "Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar."
+      },
+      {
+        "name": "escape-string-regexp",
+        "repo": "https://github.com/sindresorhus/escape-string-regexp",
+        "brief": "Escape RegExp special characters."
+      },
+      {
+        "name": "splice-string",
+        "repo": "https://github.com/sindresorhus/splice-string",
+        "brief": "Remove or replace part of a string like `Array#splice`."
+      },
+      {
+        "name": "indent-string",
+        "repo": "https://github.com/sindresorhus/indent-string",
+        "brief": "Indent each line in a string."
+      },
+      {
+        "name": "strip-indent",
+        "repo": "https://github.com/sindresorhus/strip-indent",
+        "brief": "Strip leading whitespace from every line in a string."
+      },
+      {
+        "name": "detect-indent",
+        "repo": "https://github.com/sindresorhus/detect-indent",
+        "brief": "Detect the indentation of code."
+      },
+      {
+        "name": "he",
+        "repo": "https://github.com/mathiasbynens/he",
+        "brief": "HTML entity encoder/decoder."
+      },
+      {
+        "name": "i18n-node",
+        "repo": "https://github.com/mashpie/i18n-node",
+        "brief": "Simple translation module with dynamic JSON storage."
+      },
+      {
+        "name": "babelfish",
+        "repo": "https://github.com/nodeca/babelfish",
+        "brief": "i18n with very easy syntax for plurals."
+      },
+      {
+        "name": "matcher",
+        "repo": "https://github.com/sindresorhus/matcher",
+        "brief": "Simple wildcard matching."
+      },
+      {
+        "name": "unhomoglyph",
+        "repo": "https://github.com/nodeca/unhomoglyph",
+        "brief": "Normalize visually similar unicode characters."
+      },
+      {
+        "name": "i18next",
+        "repo": "https://github.com/i18next/i18next",
+        "brief": "Internationalization framework."
+      },
+      {
+        "name": "nanoid",
+        "repo": "https://github.com/ai/nanoid",
+        "brief": "Tiny, secure, URL-friendly, unique string ID generator."
+      },
+      {
+        "name": "StegCloak",
+        "repo": "https://github.com/kurolabs/stegcloak",
+        "brief": "Conceal secrets within strings, in plain sight."
+      }
+    ]
+  },
+  {
+    "name": "Number",
+    "sub_categories": [
+      {
+        "name": "random-int",
+        "repo": "https://github.com/sindresorhus/random-int",
+        "brief": "Generate a random integer."
+      },
+      {
+        "name": "random-float",
+        "repo": "https://github.com/sindresorhus/random-float",
+        "brief": "Generate a random float."
+      },
+      {
+        "name": "unique-random",
+        "repo": "https://github.com/sindresorhus/unique-random",
+        "brief": "Generate random numbers that are consecutively unique."
+      },
+      {
+        "name": "round-to",
+        "repo": "https://github.com/sindresorhus/round-to",
+        "brief": "Round a number to a specific number of decimal places: `1.234` → `1.2`."
+      }
+    ]
+  },
+  {
+    "name": "Math",
+    "sub_categories": [
+      {
+        "name": "ndarray",
+        "repo": "https://github.com/scijs/ndarray",
+        "brief": "Multidimensional arrays."
+      },
+      {
+        "name": "mathjs",
+        "repo": "https://github.com/josdejong/mathjs",
+        "brief": "An extensive math library."
+      },
+      {
+        "name": "math-clamp",
+        "repo": "https://github.com/sindresorhus/math-clamp",
+        "brief": "Clamp a number."
+      },
+      {
+        "name": "algebra",
+        "repo": "https://github.com/fibo/algebra",
+        "brief": "Algebraic structures."
+      },
+      {
+        "name": "multimath",
+        "repo": "https://github.com/nodeca/multimath",
+        "brief": "Core to create fast image math in WebAssembly and JS."
+      }
+    ]
+  },
+  {
+    "name": "Date",
+    "sub_categories": [
+      {
+        "name": "Luxon",
+        "repo": "https://github.com/moment/luxon",
+        "brief": "Library for working with dates and times."
+      },
+      {
+        "name": "date-fns",
+        "repo": "https://github.com/date-fns/date-fns",
+        "brief": "Modern date utility."
+      },
+      {
+        "name": "Day.js",
+        "repo": "https://github.com/iamkun/dayjs",
+        "brief": "Immutable date library alternative to Moment.js."
+      },
+      {
+        "name": "dateformat",
+        "repo": "https://github.com/felixge/node-dateformat",
+        "brief": "Date formatting."
+      },
+      {
+        "name": "tz-format",
+        "repo": "https://github.com/samverschueren/tz-format",
+        "brief": "Format a date with timezone: `2015-11-30T10:40:35+01:00`."
+      },
+      {
+        "name": "cctz",
+        "repo": "https://github.com/floatdrop/node-cctz",
+        "brief": "Fast parsing, formatting, and timezone conversation for dates."
+      }
+    ]
+  },
+  {
+    "name": "URL",
+    "sub_categories": [
+      {
+        "name": "normalize-url",
+        "repo": "https://github.com/sindresorhus/normalize-url",
+        "brief": "Normalize a URL."
+      },
+      {
+        "name": "humanize-url",
+        "repo": "https://github.com/sindresorhus/humanize-url",
+        "brief": "Humanize a URL: https://sindresorhus.com → sindresorhus.com."
+      },
+      {
+        "name": "url-unshort",
+        "repo": "https://github.com/nodeca/url-unshort",
+        "brief": "Expand shortened URLs."
+      },
+      {
+        "name": "speakingurl",
+        "repo": "https://github.com/pid/speakingurl",
+        "brief": "Generate a slug from a string with transliteration."
+      },
+      {
+        "name": "linkify-it",
+        "repo": "https://github.com/markdown-it/linkify-it",
+        "brief": "Link patterns detector with full unicode support."
+      },
+      {
+        "name": "url-pattern",
+        "repo": "https://github.com/snd/url-pattern",
+        "brief": "Easier than regex string matching patterns for URLs and other strings."
+      },
+      {
+        "name": "embedza",
+        "repo": "https://github.com/nodeca/embedza",
+        "brief": "Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags."
+      }
+    ]
+  },
+  {
+    "name": "Data validation",
+    "sub_categories": [
+      {
+        "name": "joi",
+        "repo": "https://github.com/sideway/joi",
+        "brief": "Object schema description language and validator for JavaScript objects."
+      },
+      {
+        "name": "is-my-json-valid",
+        "repo": "https://github.com/mafintosh/is-my-json-valid",
+        "brief": "JSON Schema validator that uses code generation to be extremely fast."
+      },
+      {
+        "name": "property-validator",
+        "repo": "https://github.com/nettofarah/property-validator",
+        "brief": "Easy property validation for Express."
+      },
+      {
+        "name": "schema-inspector",
+        "repo": "https://github.com/schema-inspector/schema-inspector",
+        "brief": "JSON API sanitization and validation."
+      },
+      {
+        "name": "ajv",
+        "repo": "https://github.com/ajv-validator/ajv",
+        "brief": "The fastest JSON Schema validator. Supports v5, v6 and v7 proposals."
+      },
+      {
+        "name": "Superstruct",
+        "repo": "https://github.com/ianstormtaylor/superstruct",
+        "brief": "Simple and composable way to validate data in JavaScript (and TypeScript)."
+      },
+      {
+        "name": "yup",
+        "repo": "https://github.com/jquense/yup",
+        "brief": "Object schema validation."
+      },
+      {
+        "name": "zod",
+        "repo": "https://github.com/colinhacks/zod",
+        "brief": "TypeScript-first schema validation with static type inference."
+      }
+    ]
+  },
+  {
+    "name": "Parsing",
+    "sub_categories": [
+      {
+        "name": "remark",
+        "repo": "https://github.com/remarkjs/remark",
+        "brief": "Markdown processor powered by plugins."
+      },
+      {
+        "name": "markdown-it",
+        "repo": "https://github.com/markdown-it/markdown-it",
+        "brief": "Markdown parser with 100% CommonMark support, extensions and syntax plugins."
+      },
+      {
+        "name": "parse5",
+        "repo": "https://github.com/inikulin/parse5",
+        "brief": "Fast full-featured spec compliant HTML parser."
+      },
+      {
+        "name": "@parcel/css",
+        "repo": "https://github.com/parcel-bundler/parcel-css",
+        "brief": "A CSS parser, transformer, and minifier written in Rust."
+      },
+      {
+        "name": "strip-json-comments",
+        "repo": "https://github.com/sindresorhus/strip-json-comments",
+        "brief": "Strip comments from JSON."
+      },
+      {
+        "name": "strip-css-comments",
+        "repo": "https://github.com/sindresorhus/strip-css-comments",
+        "brief": "Strip comments from CSS."
+      },
+      {
+        "name": "parse-json",
+        "repo": "https://github.com/sindresorhus/parse-json",
+        "brief": "Parse JSON with more helpful errors."
+      },
+      {
+        "name": "URI.js",
+        "repo": "https://github.com/medialize/URI.js",
+        "brief": "URL mutation."
+      },
+      {
+        "name": "JSONStream",
+        "repo": "https://github.com/dominictarr/JSONStream",
+        "brief": "Streaming JSON.parse and stringify."
+      },
+      {
+        "name": "neat-csv",
+        "repo": "https://github.com/sindresorhus/neat-csv",
+        "brief": "Fast CSV parser. Callback interface for the above."
+      },
+      {
+        "name": "csv-parser",
+        "repo": "https://github.com/mafintosh/csv-parser",
+        "brief": "Streaming CSV parser that aims to be faster than everyone else."
+      },
+      {
+        "name": "PEG.js",
+        "repo": "https://github.com/pegjs/pegjs",
+        "brief": "Simple parser generator that produces fast parsers with excellent error reporting."
+      },
+      {
+        "name": "x-ray",
+        "repo": "https://github.com/matthewmueller/x-ray",
+        "brief": "Web scraping utility."
+      },
+      {
+        "name": "nearley",
+        "repo": "https://github.com/kach/nearley",
+        "brief": "Simple, fast, powerful parsing for JavaScript."
+      },
+      {
+        "name": "binary-extract",
+        "repo": "https://github.com/juliangruber/binary-extract",
+        "brief": "Extract a value from a buffer of JSON without parsing the whole thing."
+      },
+      {
+        "name": "Stylecow",
+        "repo": "https://github.com/stylecow/stylecow",
+        "brief": "Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins."
+      },
+      {
+        "name": "js-yaml",
+        "repo": "https://github.com/nodeca/js-yaml",
+        "brief": "Very fast YAML parser."
+      },
+      {
+        "name": "xml2js",
+        "repo": "https://github.com/Leonidas-from-XIV/node-xml2js",
+        "brief": "XML to JavaScript object converter."
+      },
+      {
+        "name": "Jison",
+        "repo": "https://github.com/zaach/jison",
+        "brief": "Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family."
+      },
+      {
+        "name": "google-libphonenumber",
+        "repo": "https://github.com/ruimarinho/google-libphonenumber",
+        "brief": "Parse, format, store and validate phone numbers."
+      },
+      {
+        "name": "ref",
+        "repo": "https://github.com/TooTallNate/ref",
+        "brief": "Read/write structured binary data in Buffers."
+      },
+      {
+        "name": "xlsx-populate",
+        "repo": "https://github.com/dtjohnson/xlsx-populate",
+        "brief": "Read/write Excel XLSX."
+      },
+      {
+        "name": "Chevrotain",
+        "repo": "https://github.com/Chevrotain/chevrotain",
+        "brief": "Very fast and feature rich parser building toolkit for JavaScript."
+      },
+      {
+        "name": "fast-xml-parser",
+        "repo": "https://github.com/NaturalIntelligence/fast-xml-parser",
+        "brief": "Validate and parse XML."
+      }
+    ]
+  },
+  {
+    "name": "Humanize",
+    "sub_categories": [
+      {
+        "name": "pretty-bytes",
+        "repo": "https://github.com/sindresorhus/pretty-bytes",
+        "brief": "Convert bytes to a human readable string: `1337` → `1.34 kB`."
+      },
+      {
+        "name": "pretty-ms",
+        "repo": "https://github.com/sindresorhus/pretty-ms",
+        "brief": "Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`."
+      },
+      {
+        "name": "ms",
+        "repo": "https://github.com/vercel/ms",
+        "brief": "Tiny millisecond conversion utility."
+      },
+      {
+        "name": "pretty-error",
+        "repo": "https://github.com/AriaMinaei/pretty-error",
+        "brief": "Errors with less clutter."
+      },
+      {
+        "name": "read-art",
+        "repo": "https://github.com/Tjatse/node-readability",
+        "brief": "Extract readable content from any page."
+      }
+    ]
+  },
+  {
+    "name": "Compression",
+    "sub_categories": [
+      {
+        "name": "yazl",
+        "repo": "https://github.com/thejoshwolfe/yazl",
+        "brief": "Zip."
+      },
+      {
+        "name": "yauzl",
+        "repo": "https://github.com/thejoshwolfe/yauzl",
+        "brief": "Unzip."
+      },
+      {
+        "name": "Archiver",
+        "repo": "https://github.com/archiverjs/node-archiver",
+        "brief": "Streaming interface for archive generation, supporting ZIP and TAR."
+      },
+      {
+        "name": "pako",
+        "repo": "https://github.com/nodeca/pako",
+        "brief": "High speed zlib port to pure js (deflate, inflate, gzip)."
+      },
+      {
+        "name": "tar-stream",
+        "repo": "https://github.com/mafintosh/tar-stream",
+        "brief": "Streaming tar parser and generator. Also see [tar-fs](https://github.com/mafintosh/tar-fs)."
+      }
+    ]
+  },
+  {
+    "name": "Network",
+    "sub_categories": [
+      {
+        "name": "get-port",
+        "repo": "https://github.com/sindresorhus/get-port",
+        "brief": "Get an available port."
+      },
+      {
+        "name": "ipify",
+        "repo": "https://github.com/sindresorhus/ipify",
+        "brief": "Get your public IP address."
+      },
+      {
+        "name": "getmac",
+        "repo": "https://github.com/bevry/getmac",
+        "brief": "Get the computer MAC address."
+      },
+      {
+        "name": "DHCP",
+        "repo": "https://github.com/infusion/node-dhcp",
+        "brief": "DHCP client and server."
+      },
+      {
+        "name": "netcat",
+        "repo": "https://github.com/roccomuso/netcat",
+        "brief": "Netcat port in pure JS."
+      }
+    ]
+  },
+  {
+    "name": "Database",
+    "sub_categories": []
+  },
+  {
+    "name": "Testing",
+    "sub_categories": [
+      {
+        "name": "AVA",
+        "repo": "https://github.com/avajs/ava",
+        "brief": "Futuristic test runner."
+      },
+      {
+        "name": "Mocha",
+        "repo": "https://github.com/mochajs/mocha",
+        "brief": "Feature-rich test framework making asynchronous testing simple and fun."
+      },
+      {
+        "name": "nyc",
+        "repo": "https://github.com/istanbuljs/nyc",
+        "brief": "Code coverage tool built on istanbul that works with subprocesses."
+      },
+      {
+        "name": "tap",
+        "repo": "https://github.com/tapjs/node-tap",
+        "brief": "TAP test framework."
+      },
+      {
+        "name": "tape",
+        "repo": "https://github.com/substack/tape",
+        "brief": "TAP-producing test harness."
+      },
+      {
+        "name": "power-assert",
+        "repo": "https://github.com/power-assert-js/power-assert",
+        "brief": "Provides descriptive assertion messages through the standard assert interface."
+      },
+      {
+        "name": "Mochify",
+        "repo": "https://github.com/mantoni/mochify.js",
+        "brief": "TDD with Browserify, Mocha, PhantomJS and WebDriver."
+      },
+      {
+        "name": "trevor",
+        "repo": "https://github.com/vadimdemedes/trevor",
+        "brief": "Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI."
+      },
+      {
+        "name": "loadtest",
+        "repo": "https://github.com/alexfernandez/loadtest",
+        "brief": "Run load tests for your web application, with an API for automation."
+      },
+      {
+        "name": "Sinon.JS",
+        "repo": "https://github.com/sinonjs/sinon",
+        "brief": "Test spies, stubs and mocks."
+      },
+      {
+        "name": "navit",
+        "repo": "https://github.com/nodeca/navit",
+        "brief": "PhantomJS / SlimerJS wrapper to simplify browser test scripting."
+      },
+      {
+        "name": "Nock",
+        "repo": "https://github.com/nock/nock",
+        "brief": "HTTP mocking and expectations."
+      },
+      {
+        "name": "intern",
+        "repo": "https://github.com/theintern/intern",
+        "brief": "Code testing stack."
+      },
+      {
+        "name": "toxy",
+        "repo": "https://github.com/h2non/toxy",
+        "brief": "Hackable HTTP proxy to simulate failure scenarios and network conditions."
+      },
+      {
+        "name": "hook-std",
+        "repo": "https://github.com/sindresorhus/hook-std",
+        "brief": "Hook and modify stdout/stderr."
+      },
+      {
+        "name": "testen",
+        "repo": "https://github.com/egoist/testen",
+        "brief": "Run tests for multiple versions of Node.js locally with NVM."
+      },
+      {
+        "name": "Nightwatch",
+        "repo": "https://github.com/nightwatchjs/nightwatch",
+        "brief": "Automated UI testing framework based on Selenium WebDriver."
+      },
+      {
+        "name": "WebdriverIO",
+        "repo": "https://github.com/webdriverio/webdriverio",
+        "brief": "Automated testing based on the WebDriver protocol."
+      },
+      {
+        "name": "Jest",
+        "repo": "https://github.com/facebook/jest",
+        "brief": "Painless JavaScript testing."
+      },
+      {
+        "name": "TestCafe",
+        "repo": "https://github.com/DevExpress/testcafe",
+        "brief": "Automated browser testing."
+      },
+      {
+        "name": "abstruse",
+        "repo": "https://github.com/bleenco/abstruse",
+        "brief": "Continuous Integration server."
+      },
+      {
+        "name": "CodeceptJS",
+        "repo": "https://github.com/codeceptjs/CodeceptJS",
+        "brief": "End-to-end testing."
+      },
+      {
+        "name": "Puppeteer",
+        "repo": "https://github.com/puppeteer/puppeteer",
+        "brief": "Headless Chrome."
+      },
+      {
+        "name": "Playwright",
+        "repo": "https://github.com/microsoft/playwright",
+        "brief": "Headless Chromium, WebKit, and Firefox with a single API."
+      },
+      {
+        "name": "nve",
+        "repo": "https://github.com/ehmicky/nve",
+        "brief": "Run any command on multiple versions of Node.js locally."
+      },
+      {
+        "name": "axe-core",
+        "repo": "https://github.com/dequelabs/axe-core",
+        "brief": "Accessibility engine for automated Web UI testing."
+      },
+      {
+        "name": "testcontainers-node",
+        "repo": "https://github.com/testcontainers/testcontainers-node",
+        "brief": "Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+      }
+    ]
+  },
+  {
+    "name": "Security",
+    "sub_categories": [
+      {
+        "name": "upash",
+        "repo": "https://github.com/simonepri/upash",
+        "brief": "Unified API for all password hashing algorithms."
+      },
+      {
+        "name": "themis",
+        "repo": "https://github.com/cossacklabs/themis",
+        "brief": "Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on."
+      },
+      {
+        "name": "GuardRails",
+        "repo": "https://github.com/apps/guardrails",
+        "brief": "GitHub app that provides security feedback in pull requests."
+      },
+      {
+        "name": "rate-limiter-flexible",
+        "repo": "https://github.com/animir/node-rate-limiter-flexible",
+        "brief": "Brute-force and DDoS attack protection."
+      },
+      {
+        "name": "crypto-hash",
+        "repo": "https://github.com/sindresorhus/crypto-hash",
+        "brief": "Async non-blocking hashing."
+      },
+      {
+        "name": "jose-simple",
+        "repo": "https://github.com/davesag/jose-simple",
+        "brief": "Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard."
+      }
+    ]
+  },
+  {
+    "name": "Benchmarking",
+    "sub_categories": [
+      {
+        "name": "Benchmark.js",
+        "repo": "https://github.com/bestiejs/benchmark.js",
+        "brief": "Benchmarking library that supports high-resolution timers and returns statistically significant results."
+      }
+    ]
+  },
+  {
+    "name": "Minifiers",
+    "sub_categories": [
+      {
+        "name": "babel-minify",
+        "repo": "https://github.com/babel/minify",
+        "brief": "ES2015+ aware minifier based on the Babel toolchain."
+      },
+      {
+        "name": "UglifyJS2",
+        "repo": "https://github.com/mishoo/UglifyJS",
+        "brief": "JavaScript minifier."
+      },
+      {
+        "name": "clean-css",
+        "repo": "https://github.com/clean-css/clean-css",
+        "brief": "CSS minifier."
+      },
+      {
+        "name": "minimize",
+        "repo": "https://github.com/Swaagie/minimize",
+        "brief": "HTML minifier."
+      },
+      {
+        "name": "imagemin",
+        "repo": "https://github.com/imagemin/imagemin",
+        "brief": "Image minifier."
+      }
+    ]
+  },
+  {
+    "name": "Authentication",
+    "sub_categories": [
+      {
+        "name": "Passport",
+        "repo": "https://github.com/jaredhanson/passport",
+        "brief": "Simple, unobtrusive authentication."
+      },
+      {
+        "name": "Grant",
+        "repo": "https://github.com/simov/grant",
+        "brief": "OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more."
+      }
+    ]
+  },
+  {
+    "name": "Authorization",
+    "sub_categories": [
+      {
+        "name": "CASL",
+        "repo": "https://github.com/stalniy/casl",
+        "brief": "Isomorphic authorization for UI and API."
+      },
+      {
+        "name": "node-casbin",
+        "repo": "https://github.com/casbin/node-casbin",
+        "brief": "Authorization library that supports access control models like ACL, RBAC and ABAC."
+      }
+    ]
+  },
+  {
+    "name": "Email",
+    "sub_categories": [
+      {
+        "name": "Nodemailer",
+        "repo": "https://github.com/nodemailer/nodemailer",
+        "brief": "The fastest way to handle email."
+      },
+      {
+        "name": "emailjs",
+        "repo": "https://github.com/eleith/emailjs",
+        "brief": "Send text/HTML emails with attachments to any SMTP server."
+      },
+      {
+        "name": "email-templates",
+        "repo": "https://github.com/forwardemail/email-templates",
+        "brief": "Create, preview, and send custom email templates."
+      },
+      {
+        "name": "MJML",
+        "repo": "https://github.com/mjmlio/mjml",
+        "brief": "Markup language designed to reduce the pain of creating responsive emails."
+      }
+    ]
+  },
+  {
+    "name": "Job queues",
+    "sub_categories": [
+      {
+        "name": "bull",
+        "repo": "https://github.com/OptimalBits/bull",
+        "brief": "Persistent job and message queue."
+      },
+      {
+        "name": "agenda",
+        "repo": "https://github.com/agenda/agenda",
+        "brief": "MongoDB-backed job scheduling."
+      },
+      {
+        "name": "idoit",
+        "repo": "https://github.com/nodeca/idoit",
+        "brief": "Redis-backed job queue engine with advanced job control."
+      },
+      {
+        "name": "node-resque",
+        "repo": "https://github.com/actionhero/node-resque",
+        "brief": "Redis-backed job queue."
+      },
+      {
+        "name": "rsmq",
+        "repo": "https://github.com/smrchy/rsmq",
+        "brief": "Redis-backed message queue."
+      },
+      {
+        "name": "bee-queue",
+        "repo": "https://github.com/bee-queue/bee-queue",
+        "brief": "High-performance Redis-backed job queue."
+      },
+      {
+        "name": "RedisSMQ",
+        "repo": "https://github.com/weyoss/redis-smq",
+        "brief": "Simple high-performance Redis message queue with real-time monitoring."
+      },
+      {
+        "name": "sqs-consumer",
+        "repo": "https://github.com/bbc/sqs-consumer",
+        "brief": "Build Amazon Simple Queue Service (SQS) based apps without the boilerplate."
+      },
+      {
+        "name": "better-queue",
+        "repo": "https://github.com/diamondio/better-queue",
+        "brief": "Simple and efficient job queue when you cannot use Redis."
+      },
+      {
+        "name": "bullmq",
+        "repo": "https://github.com/taskforcesh/bullmq",
+        "brief": "Persistent job and message queue."
+      },
+      {
+        "name": "bree",
+        "repo": "https://github.com/breejs/bree",
+        "brief": "Job task scheduler with worker threads, cron, date, and human syntax support."
+      }
+    ]
+  },
+  {
+    "name": "Node.js management",
+    "sub_categories": [
+      {
+        "name": "n",
+        "repo": "https://github.com/tj/n",
+        "brief": "Node.js version management."
+      },
+      {
+        "name": "nave",
+        "repo": "https://github.com/isaacs/nave",
+        "brief": "Virtual Environments for Node.js."
+      },
+      {
+        "name": "nodeenv",
+        "repo": "https://github.com/ekalinin/nodeenv",
+        "brief": "Node.js virtual environment compatible to Python's virtualenv."
+      },
+      {
+        "name": "nvm for Windows",
+        "repo": "https://github.com/coreybutler/nvm-windows",
+        "brief": "Version management for Windows."
+      },
+      {
+        "name": "nodenv",
+        "repo": "https://github.com/nodenv/nodenv",
+        "brief": "Version manager that is similar to Ruby's rbenv. It supports auto version switching."
+      },
+      {
+        "name": "fnm",
+        "repo": "https://github.com/Schniz/fnm",
+        "brief": "Cross-platform Node.js version manager built in Rust."
+      }
+    ]
+  },
+  {
+    "name": "Cross-platform integration",
+    "sub_categories": [
+      {
+        "name": "napi-rs",
+        "repo": "https://github.com/napi-rs/napi-rs",
+        "brief": "Framework for building compiled Node.js add-ons in Rust via Node-API."
+      },
+      {
+        "name": "Neon",
+        "repo": "https://github.com/neon-bindings/neon",
+        "brief": "Rust bindings for writing safe and fast native Node.js modules."
+      },
+      {
+        "name": "Edge.js",
+        "repo": "https://github.com/agracio/edge-js",
+        "brief": "Run .NET and Node.js code in the same process on Windows, macOS, and Linux."
+      },
+      {
+        "name": "DotNetJS",
+        "repo": "https://github.com/Elringus/DotNetJS",
+        "brief": "Consume .NET libraries in Node.js using this .NET interoperability layer."
+      }
+    ]
+  },
+  {
+    "name": "Natural language processing",
+    "sub_categories": [
+      {
+        "name": "retext",
+        "repo": "https://github.com/retextjs/retext",
+        "brief": "An extensible natural language system."
+      },
+      {
+        "name": "franc",
+        "repo": "https://github.com/wooorm/franc",
+        "brief": "Detect the language of text."
+      },
+      {
+        "name": "leven",
+        "repo": "https://github.com/sindresorhus/leven",
+        "brief": "Measure the difference between two strings using the Levenshtein distance algorithm."
+      },
+      {
+        "name": "natural",
+        "repo": "https://github.com/NaturalNode/natural",
+        "brief": "Natural language facility."
+      },
+      {
+        "name": "nlp.js",
+        "repo": "https://github.com/axa-group/nlp.js",
+        "brief": "Building bots, with entity extraction, sentiment analysis, automatic language identify, and more."
+      }
+    ]
+  },
+  {
+    "name": "Process management",
+    "sub_categories": [
+      {
+        "name": "PM2",
+        "repo": "https://github.com/Unitech/pm2",
+        "brief": "Advanced Process Manager."
+      },
+      {
+        "name": "nodemon",
+        "repo": "https://github.com/remy/nodemon",
+        "brief": "Monitor for changes in your app and automatically restart the server."
+      },
+      {
+        "name": "node-mac",
+        "repo": "https://github.com/coreybutler/node-mac",
+        "brief": "Run scripts as a native Mac daemon and log to the console app."
+      },
+      {
+        "name": "node-linux",
+        "repo": "https://github.com/coreybutler/node-linux",
+        "brief": "Run scripts as native system service and log to syslog."
+      },
+      {
+        "name": "node-windows",
+        "repo": "https://github.com/coreybutler/node-windows",
+        "brief": "Run scripts as a native Windows service and log to the Event viewer."
+      },
+      {
+        "name": "supervisor",
+        "repo": "https://github.com/petruisfan/node-supervisor",
+        "brief": "Restart scripts when they crash or restart when a `*.js` file changes."
+      },
+      {
+        "name": "Phusion Passenger",
+        "repo": "https://github.com/phusion/passenger",
+        "brief": "Friendly process manager that integrates directly into Nginx."
+      }
+    ]
+  },
+  {
+    "name": "Automation",
+    "sub_categories": [
+      {
+        "name": "robotjs",
+        "repo": "https://github.com/octalmage/robotjs",
+        "brief": "Desktop Automation: control the mouse, keyboard and read the screen."
+      },
+      {
+        "name": "nut.js",
+        "repo": "https://github.com/nut-tree/nut.js",
+        "brief": "Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest."
+      }
+    ]
+  },
+  {
+    "name": "AST",
+    "sub_categories": [
+      {
+        "name": "Acorn",
+        "repo": "https://github.com/acornjs/acorn",
+        "brief": "Tiny, fast JavaScript parser."
+      },
+      {
+        "name": "babel-parser",
+        "repo": "https://github.com/babel/babel/tree/master/packages/babel-parser",
+        "brief": "JavaScript parser used in Babel."
+      }
+    ]
+  },
+  {
+    "name": "Static site generators",
+    "sub_categories": [
+      {
+        "name": "DocPad",
+        "repo": "https://github.com/docpad/docpad",
+        "brief": "Static site generator with dynamic abilities and huge plugin ecosystem."
+      },
+      {
+        "name": "docsify",
+        "repo": "https://github.com/docsifyjs/docsify",
+        "brief": "Markdown documentation site generator with no statically built HTML files."
+      },
+      {
+        "name": "Charge",
+        "repo": "https://github.com/brandonweiss/charge",
+        "brief": "Opinionated, zero-config static site generator using JSX and MDX."
+      }
+    ]
+  },
+  {
+    "name": "Content management systems",
+    "sub_categories": [
+      {
+        "name": "KeystoneJS",
+        "repo": "https://github.com/keystonejs/keystone",
+        "brief": "CMS and web application platform built on Express and MongoDB."
+      },
+      {
+        "name": "ApostropheCMS",
+        "repo": "https://github.com/apostrophecms/apostrophe",
+        "brief": "Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB."
+      },
+      {
+        "name": "Strapi",
+        "repo": "https://github.com/strapi/strapi",
+        "brief": "Content Management Framework (headless-CMS) to build powerful APIs."
+      },
+      {
+        "name": "Factor",
+        "repo": "https://github.com/FactorJS/factor",
+        "brief": "Vue.js dashboard framework and headless CMS."
+      },
+      {
+        "name": "AdminBro",
+        "repo": "https://github.com/SoftwareBrothers/adminjs",
+        "brief": "Auto-generated admin panel with CRUD for all your resources."
+      },
+      {
+        "name": "Graphweaver",
+        "repo": "https://github.com/exogee-technology/graphweaver",
+        "brief": "CMS and headless GraphQL API."
+      }
+    ]
+  },
+  {
+    "name": "Forum",
+    "sub_categories": [
+      {
+        "name": "nodeBB",
+        "repo": "https://github.com/NodeBB/NodeBB",
+        "brief": "Forum platform for the modern web."
+      }
+    ]
+  },
+  {
+    "name": "Blogging",
+    "sub_categories": [
+      {
+        "name": "Ghost",
+        "repo": "https://github.com/TryGhost/Ghost",
+        "brief": "Simple, powerful publishing platform."
+      },
+      {
+        "name": "Hexo",
+        "repo": "https://github.com/hexojs/hexo",
+        "brief": "Fast, simple and powerful blogging framework."
+      }
+    ]
+  },
+  {
+    "name": "Weird",
+    "sub_categories": [
+      {
+        "name": "cows",
+        "repo": "https://github.com/sindresorhus/cows",
+        "brief": "ASCII cows."
+      },
+      {
+        "name": "superb",
+        "repo": "https://github.com/sindresorhus/superb",
+        "brief": "Get superb like words."
+      },
+      {
+        "name": "cat-names",
+        "repo": "https://github.com/sindresorhus/cat-names",
+        "brief": "Get popular cat names."
+      },
+      {
+        "name": "dog-names",
+        "repo": "https://github.com/sindresorhus/dog-names",
+        "brief": "Get popular dog names."
+      },
+      {
+        "name": "superheroes",
+        "repo": "https://github.com/sindresorhus/superheroes",
+        "brief": "Get superhero names."
+      },
+      {
+        "name": "supervillains",
+        "repo": "https://github.com/sindresorhus/supervillains",
+        "brief": "Get supervillain names."
+      },
+      {
+        "name": "cool-ascii-faces",
+        "repo": "https://github.com/maxogden/cool-ascii-faces",
+        "brief": "Get some cool ascii faces."
+      },
+      {
+        "name": "cat-ascii-faces",
+        "repo": "https://github.com/melaniecebula/cat-ascii-faces",
+        "brief": "`₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`."
+      },
+      {
+        "name": "nerds",
+        "repo": "https://github.com/SkyHacks/nerds",
+        "brief": "Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon."
+      }
+    ]
+  },
+  {
+    "name": "Serialization",
+    "sub_categories": [
+      {
+        "name": "snappy",
+        "repo": "https://github.com/kesla/node-snappy",
+        "brief": "Native bindings for Google's Snappy compression library."
+      },
+      {
+        "name": "protobuf",
+        "repo": "https://github.com/protobufjs/protobuf.js",
+        "brief": "Implementation of Protocol Buffers."
+      },
+      {
+        "name": "compactr",
+        "repo": "https://github.com/compactr/compactr.js",
+        "brief": "Implementation of the Compactr protocol."
+      }
+    ]
+  },
+  {
+    "name": "Miscellaneous",
+    "sub_categories": [
+      {
+        "name": "execa",
+        "repo": "https://github.com/sindresorhus/execa",
+        "brief": "Better `child_process`."
+      },
+      {
+        "name": "cheerio",
+        "repo": "https://github.com/cheeriojs/cheerio",
+        "brief": "Fast, flexible, and lean implementation of core jQuery designed specifically for the server."
+      },
+      {
+        "name": "open",
+        "repo": "https://github.com/sindresorhus/open",
+        "brief": "Opens stuff like websites, files, executables."
+      },
+      {
+        "name": "hasha",
+        "repo": "https://github.com/sindresorhus/hasha",
+        "brief": "Hashing made simple. Get the hash of a buffer/string/stream/file."
+      },
+      {
+        "name": "dot-prop",
+        "repo": "https://github.com/sindresorhus/dot-prop",
+        "brief": "Get a property from a nested object using a dot path."
+      },
+      {
+        "name": "onetime",
+        "repo": "https://github.com/sindresorhus/onetime",
+        "brief": "Only run a function once."
+      },
+      {
+        "name": "mem",
+        "repo": "https://github.com/sindresorhus/mem",
+        "brief": "Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input."
+      },
+      {
+        "name": "strip-bom",
+        "repo": "https://github.com/sindresorhus/strip-bom",
+        "brief": "Strip UTF-8 byte order mark (BOM) from a string/buffer/stream."
+      },
+      {
+        "name": "os-locale",
+        "repo": "https://github.com/sindresorhus/os-locale",
+        "brief": "Get the system locale."
+      },
+      {
+        "name": "ssh2",
+        "repo": "https://github.com/mscdex/ssh2",
+        "brief": "SSH2 client and server module."
+      },
+      {
+        "name": "adit",
+        "repo": "https://github.com/markelog/adit",
+        "brief": "SSH tunneling made simple."
+      },
+      {
+        "name": "file-type",
+        "repo": "https://github.com/sindresorhus/file-type",
+        "brief": "Detect the file type of a Buffer."
+      },
+      {
+        "name": "Bottleneck",
+        "repo": "https://github.com/SGrondin/bottleneck",
+        "brief": "Rate limiter that makes throttling easy."
+      },
+      {
+        "name": "webworker-threads",
+        "repo": "https://github.com/audreyt/node-webworker-threads",
+        "brief": "Lightweight Web Worker API implementation with native threads."
+      },
+      {
+        "name": "clipboardy",
+        "repo": "https://github.com/sindresorhus/clipboardy",
+        "brief": "Access the system clipboard (copy/paste)."
+      },
+      {
+        "name": "node-pre-gyp",
+        "repo": "https://github.com/mapbox/node-pre-gyp",
+        "brief": "Makes it easy to publish and install Node.js C++ addons from binaries."
+      },
+      {
+        "name": "opencv",
+        "repo": "https://github.com/peterbraden/node-opencv",
+        "brief": "Bindings for OpenCV. The defacto computer vision library."
+      },
+      {
+        "name": "dotenv",
+        "repo": "https://github.com/motdotla/dotenv",
+        "brief": "Load environment variables from .env file."
+      },
+      {
+        "name": "semver",
+        "repo": "https://github.com/npm/node-semver",
+        "brief": "Semantic version parser."
+      },
+      {
+        "name": "nodegit",
+        "repo": "https://github.com/nodegit/nodegit",
+        "brief": "Native bindings to Git."
+      },
+      {
+        "name": "json-strictify",
+        "repo": "https://github.com/pigulla/json-strictify",
+        "brief": "Safely serialize a value to JSON without data loss or going into an infinite loop."
+      },
+      {
+        "name": "jsdom",
+        "repo": "https://github.com/jsdom/jsdom",
+        "brief": "JavaScript implementation of HTML and the DOM."
+      },
+      {
+        "name": "@sindresorhus/is",
+        "repo": "https://github.com/sindresorhus/is",
+        "brief": "Type check values."
+      },
+      {
+        "name": "env-dot-prop",
+        "repo": "https://github.com/simonepri/env-dot-prop",
+        "brief": "Get, set, or delete nested properties of process.env using a dot path."
+      },
+      {
+        "name": "node-video-lib",
+        "repo": "https://github.com/gkozlenko/node-video-lib",
+        "brief": "Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming."
+      },
+      {
+        "name": "basic-ftp",
+        "repo": "https://github.com/patrickjuchli/basic-ftp",
+        "brief": "FTP/FTPS client."
+      },
+      {
+        "name": "cashify",
+        "repo": "https://github.com/xxczaki/cashify",
+        "brief": "Currency conversion."
+      },
+      {
+        "name": "genepi",
+        "repo": "https://github.com/Geode-solutions/genepi",
+        "brief": "Automatically generate a native Node.js addon from C++ code."
+      },
+      {
+        "name": "husky",
+        "repo": "https://github.com/typicode/husky",
+        "brief": "Create Git hook scripts."
+      },
+      {
+        "name": "patch-package",
+        "repo": "https://github.com/ds300/patch-package",
+        "brief": "Make and preserve fixes to npm dependencies."
+      },
+      {
+        "name": "editly",
+        "repo": "https://github.com/mifi/editly",
+        "brief": "Declarative video editing API."
+      },
+      {
+        "name": "wild-wild-path",
+        "repo": "https://github.com/ehmicky/wild-wild-path",
+        "brief": "Object property paths with wildcards and regexes."
+      },
+      {
+        "name": "uint8array-extras",
+        "repo": "https://github.com/sindresorhus/uint8array-extras",
+        "brief": "Useful utilities for working with Uint8Array and Buffer."
+      },
+      {
+        "name": "npm",
+        "repo": "https://docs.npmjs.com/about-npm",
+        "brief": "The default package manager."
+      },
+      {
+        "name": "pnpm",
+        "repo": "https://pnpm.io",
+        "brief": "Disk space efficient package manager."
+      },
+      {
+        "name": "yarn",
+        "repo": "https://yarnpkg.com",
+        "brief": "Alternative package manager."
+      },
+      {
+        "name": "bun",
+        "repo": "https://bun.sh",
+        "brief": "All-in-one toolkit for JavaScript and TypeScript apps."
+      }
+    ]
+  },
+  {
+    "name": "Tutorials",
+    "sub_categories": [
+      {
+        "name": "Node.js Best Practices",
+        "repo": "https://github.com/goldbergyoni/nodebestpractices",
+        "brief": "Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages."
+      },
+      {
+        "name": "Nodeschool",
+        "repo": "https://github.com/nodeschool",
+        "brief": "Learn Node.js with interactive lessons."
+      },
+      {
+        "name": "The Art of Node",
+        "repo": "https://github.com/maxogden/art-of-node/#the-art-of-node",
+        "brief": "An introduction to Node.js."
+      },
+      {
+        "name": "module-best-practices",
+        "repo": "https://github.com/mattdesl/module-best-practices",
+        "brief": "Some good practices when writing new npm modules."
+      },
+      {
+        "name": "The Node Way",
+        "repo": "https://github.com/FredKSchott/the-node-way",
+        "brief": "An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read."
+      },
+      {
+        "name": "You Don't Know Node.js",
+        "repo": "https://github.com/azat-co/you-dont-know-node",
+        "brief": "Introduction to Node.js core features and asynchronous JavaScript."
+      },
+      {
+        "name": "Portable Node.js guide",
+        "repo": "https://github.com/ehmicky/cross-platform-node-guide",
+        "brief": "Practical guide on how to write portable/cross-platform Node.js code."
+      },
+      {
+        "name": "Build a real web app with no frameworks",
+        "repo": "https://frameworkless.js.org/course",
+        "brief": "A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules."
+      }
+    ]
+  },
+  {
+    "name": "Discovery",
+    "sub_categories": [
+      {
+        "name": "npms",
+        "repo": "https://npms.io",
+        "brief": "Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about)."
+      },
+      {
+        "name": "npm addict",
+        "repo": "https://npmaddict.com",
+        "brief": "Your daily injection of npm packages."
+      }
+    ]
+  },
+  {
+    "name": "Articles",
+    "sub_categories": [
+      {
+        "name": "Error Handling in Node.js",
+        "repo": "https://sematext.com/blog/node-js-error-handling/",
+        "brief": ""
+      },
+      {
+        "name": "Teach Yourself Node.js in 10 Steps",
+        "repo": "https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps",
+        "brief": ""
+      },
+      {
+        "name": "Mastering the filesystem in Node.js",
+        "repo": "https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801",
+        "brief": ""
+      },
+      {
+        "name": "Semver: A Primer",
+        "repo": "https://nodesource.com/blog/semver-a-primer/",
+        "brief": ""
+      },
+      {
+        "name": "Semver: Tilde and Caret",
+        "repo": "https://nodesource.com/blog/semver-tilde-and-caret/",
+        "brief": ""
+      },
+      {
+        "name": "Why Asynchronous?",
+        "repo": "https://nodesource.com/blog/why-asynchronous/",
+        "brief": ""
+      },
+      {
+        "name": "Understanding the Node.js Event Loop",
+        "repo": "https://nodesource.com/blog/understanding-the-nodejs-event-loop/",
+        "brief": ""
+      },
+      {
+        "name": "Understanding Object Streams",
+        "repo": "https://nodesource.com/blog/understanding-object-streams/",
+        "brief": ""
+      },
+      {
+        "name": "Using Express to Quickly Build a GraphQL Server",
+        "repo": "https://snipcart.com/blog/graphql-nodejs-express-tutorial",
+        "brief": ""
+      }
+    ]
+  },
+  {
+    "name": "Newsletters",
+    "sub_categories": [
+      {
+        "name": "Node Weekly",
+        "repo": "https://nodeweekly.com",
+        "brief": "Weekly e-mail round-up of Node.js news and articles."
+      }
+    ]
+  },
+  {
+    "name": "Videos",
+    "sub_categories": [
+      {
+        "name": "Introduction to Node.js with Ryan Dahl",
+        "repo": "https://www.youtube.com/watch?v=jo_B4LTHi3I",
+        "brief": ""
+      },
+      {
+        "name": "Hands on with Node.js",
+        "repo": "https://learn.bevry.me/hands-on-with-node.js/preface",
+        "brief": ""
+      },
+      {
+        "name": "V8 Garbage Collector",
+        "repo": "https://v8.dev/blog/trash-talk",
+        "brief": "Trash talk about the V8 garbage collector."
+      },
+      {
+        "name": "10 Things I Regret About Node.js by Ryan Dahl",
+        "repo": "https://www.youtube.com/watch?v=M3BM9TB-8yA",
+        "brief": "Insightful talk by the creator of Node.js about some of its limitions."
+      },
+      {
+        "name": "Mastering REST APIs in Node.js: Zero-To-Hero",
+        "repo": "https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs",
+        "brief": "Video course on how to make REST APIs using Node.js."
+      },
+      {
+        "name": "Make a vanilla Node.js REST API",
+        "repo": "https://www.youtube.com/watch?v=_1xa8Bsho6A",
+        "brief": "Building a REST API without using a framework like Express."
+      },
+      {
+        "name": "Google I/O 2009 - V8: High Performance JavaScript Engine",
+        "repo": "https://www.youtube.com/watch?v=FrufJFBSoQY",
+        "brief": "The basics of V8 architecture and how it optimizes JavaScript execution."
+      },
+      {
+        "name": "Google I/O 2012 - Breaking the JavaScript Speed Limit with V8",
+        "repo": "https://www.youtube.com/watch?v=UJPdhx5zTaw",
+        "brief": "How V8 optimizes JavaScript execution."
+      },
+      {
+        "name": "Google I/O 2013 - Accelerating Oz with V8: Follow the Yellow Brick Road to JavaScript Performance",
+        "repo": "https://www.youtube.com/watch?v=VhpdsjBUS3g",
+        "brief": "How to detect app bottlenecks and optimize performance with V8 knowledge."
+      },
+      {
+        "name": "Node.js Internal Architecture | Ignition, Turbofan, Libuv",
+        "repo": "https://www.youtube.com/watch?v=OCjvhCFFPTw",
+        "brief": "How Node.js works internally, with a focus on V8 and libuv."
+      },
+      {
+        "name": "Introduction to libuv: What's a Unicorn Velociraptor?",
+        "repo": "https://www.youtube.com/watch?v=_c51fcXRLGw",
+        "brief": "`libuv` architecture, thread pool, and event loop, with its source code."
+      },
+      {
+        "name": "libuv Cross platform asynchronous i/o",
+        "repo": "https://www.youtube.com/watch?v=kCJ3PFU8Ke8",
+        "brief": "`libuv` architecture in detail, such as where it's actually using threads."
+      },
+      {
+        "name": "You Don't Know Node - ForwardJS San Francisco",
+        "repo": "https://www.youtube.com/watch?v=oPo4EQmkjvY",
+        "brief": "Explaining Node.js internals with quizzes about V8, libuv, event loop, module, stream, and cluster."
+      }
+    ]
+  },
+  {
+    "name": "Books",
+    "sub_categories": [
+      {
+        "name": "Node.js in Action",
+        "repo": "https://www.manning.com/books/node-js-in-action-second-edition",
+        "brief": ""
+      },
+      {
+        "name": "Node.js in Practice",
+        "repo": "https://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939",
+        "brief": ""
+      },
+      {
+        "name": "Mastering Node",
+        "repo": "https://visionmedia.github.io/masteringnode/",
+        "brief": ""
+      },
+      {
+        "name": "Node.js 8 the Right Way",
+        "repo": "https://pragprog.com/book/jwnode2/node-js-8-the-right-way/",
+        "brief": ""
+      },
+      {
+        "name": "Professional Node.js: Building JavaScript Based Scalable Software",
+        "repo": "https://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/",
+        "brief": ""
+      },
+      {
+        "name": "Secure Your Node.js Web Application",
+        "repo": "https://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856",
+        "brief": ""
+      },
+      {
+        "name": "Express in Action",
+        "repo": "https://www.manning.com/books/express-in-action",
+        "brief": ""
+      },
+      {
+        "name": "Practical Modern JavaScript",
+        "repo": "https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X",
+        "brief": ""
+      },
+      {
+        "name": "Mastering Modular JavaScript",
+        "repo": "https://www.amazon.com/Mastering-Modular-JavaScript-Nicolas-Bevacqua/dp/1491955686/",
+        "brief": ""
+      },
+      {
+        "name": "Get Programming with Node.js",
+        "repo": "https://www.manning.com/books/get-programming-with-node-js",
+        "brief": ""
+      },
+      {
+        "name": "Node.js Cookbook",
+        "repo": "https://www.amazon.com/dp/1838558756",
+        "brief": ""
+      },
+      {
+        "name": "Node.js Design Patterns",
+        "repo": "https://www.nodejsdesignpatterns.com",
+        "brief": ""
+      }
+    ]
+  },
+  {
+    "name": "Blogs",
+    "sub_categories": [
+      {
+        "name": "Node.js blog",
+        "repo": "https://nodejs.org/en/blog/",
+        "brief": ""
+      },
+      {
+        "name": "webapplog.com",
+        "repo": "https://webapplog.com/tag/node-js/",
+        "brief": "Blog posts on Node.js and JavaScript from the author of Practical Node.js and Pro Express.js Azat Mardan."
+      }
+    ]
+  },
+  {
+    "name": "Courses",
+    "sub_categories": [
+      {
+        "name": "Learn to build apps and APIs with Node.js",
+        "repo": "https://learnnode.com/friend/AWESOME",
+        "brief": "Video course by Wes Bos."
+      },
+      {
+        "name": "Real Time Web with Node.js",
+        "repo": "https://www.pluralsight.com/courses/code-school-real-time-web-with-nodejs",
+        "brief": ""
+      },
+      {
+        "name": "Learn and Understand Node.js",
+        "repo": "https://www.udemy.com/course/understand-nodejs/",
+        "brief": ""
+      },
+      {
+        "name": "Node.js Full Stack Developer Course",
+        "repo": "https://kinsta.com/academy/course/node-js-full-stack-developer/",
+        "brief": ""
+      }
+    ]
+  },
+  {
+    "name": "Cheatsheets",
+    "sub_categories": [
+      {
+        "name": "Express.js",
+        "repo": "https://github.com/azat-co/cheatsheets/tree/master/express4",
+        "brief": ""
+      },
+      {
+        "name": "Stream FAQs",
+        "repo": "https://github.com/stephenplusplus/stream-faqs",
+        "brief": "Answering common questions about streams, covering pagination, events, and more."
+      },
+      {
+        "name": "Strong Node.js",
+        "repo": "https://github.com/jesusprubio/strong-node",
+        "brief": "Checklist for source code security analysis of a Node.js web service."
+      }
+    ]
+  },
+  {
+    "name": "Tools",
+    "sub_categories": [
+      {
+        "name": "OctoLinker",
+        "repo": "https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp",
+        "brief": "Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub."
+      },
+      {
+        "name": "npm-hub",
+        "repo": "https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj",
+        "brief": "Chrome extension to display npm dependencies at the bottom of a repo's readme."
+      },
+      {
+        "name": "RunKit",
+        "repo": "https://runkit.com",
+        "brief": "Embed a Node.js environment on any website."
+      },
+      {
+        "name": "github-npm-stats",
+        "repo": "https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef",
+        "brief": "Chrome extension that displays npm download stats on GitHub."
+      },
+      {
+        "name": "npm semver calculator",
+        "repo": "https://semver.npmjs.com",
+        "brief": "Visually explore what versions of a package a semver range matches."
+      },
+      {
+        "name": "CodeSandbox",
+        "repo": "https://codesandbox.io/templates/node-http-server",
+        "brief": "Online IDE and prototyping."
+      },
+      {
+        "name": "Amplication",
+        "repo": "https://github.com/amplication/amplication",
+        "brief": "Auto-generates fully functional apps."
+      },
+      {
+        "name": "RunJS",
+        "repo": "https://runjs.app",
+        "brief": "Desktop JavaScript playground."
+      }
+    ]
+  },
+  {
+    "name": "Community",
+    "sub_categories": [
+      {
+        "name": "Stack Overflow",
+        "repo": "https://stackoverflow.com/questions/tagged/node.js",
+        "brief": ""
+      },
+      {
+        "name": "Reddit",
+        "repo": "https://www.reddit.com/r/node",
+        "brief": ""
+      },
+      {
+        "name": "Twitter",
+        "repo": "https://twitter.com/nodejs",
+        "brief": ""
+      },
+      {
+        "name": "Hashnode",
+        "repo": "https://hashnode.com/n/nodejs",
+        "brief": ""
+      },
+      {
+        "name": "Discord",
+        "repo": "https://discord.com/invite/96WGtJt",
+        "brief": ""
+      }
+    ]
+  },
+  {
+    "name": "Miscellaneous",
+    "sub_categories": [
+      {
+        "name": "nodebots",
+        "repo": "https://nodebots.io",
+        "brief": "Robots powered by JavaScript."
+      },
+      {
+        "name": "node-module-boilerplate",
+        "repo": "https://github.com/sindresorhus/node-module-boilerplate",
+        "brief": "Boilerplate to kickstart creating a node module."
+      },
+      {
+        "name": "modern-node",
+        "repo": "https://github.com/sheerun/modern-node",
+        "brief": "Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard."
+      },
+      {
+        "name": "generator-nm",
+        "repo": "https://github.com/sindresorhus/generator-nm",
+        "brief": "Scaffold out a node module."
+      },
+      {
+        "name": "Microsoft Node.js Guidelines",
+        "repo": "https://github.com/Microsoft/nodejs-guidelines",
+        "brief": "Tips, tricks, and resources for working with Node.js on Microsoft platforms."
+      },
+      {
+        "name": "Module Requests & Ideas",
+        "repo": "https://github.com/sindresorhus/project-ideas",
+        "brief": "Request a JavaScript module you wish existed or get ideas for modules."
+      },
+      {
+        "name": "v8-perf",
+        "repo": "https://github.com/thlorenz/v8-perf",
+        "brief": "Notes and resources related to V8 and thus Node.js performance."
+      },
+      {
+        "name": "awesome-npm",
+        "repo": "https://github.com/sindresorhus/awesome-npm",
+        "brief": "Resources and tips for using npm."
+      },
+      {
+        "name": "awesome-cross-platform-nodejs",
+        "repo": "https://github.com/bcoe/awesome-cross-platform-nodejs",
+        "brief": "Resources for writing and testing cross-platform code."
+      }
+    ]
+  }
+]
