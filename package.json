@@ -5,5 +5,12 @@
     "prod": "echo 'Awesome data updated!'",
     "deploy": "balm-git-prod"
   },
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "parcel build index.html --dist-dir dist"
+  }
+}
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
 }
